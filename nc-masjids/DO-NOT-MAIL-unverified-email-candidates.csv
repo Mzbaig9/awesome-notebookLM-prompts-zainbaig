@@ -1,0 +1,50 @@
+DO NOT USE THIS FILE FOR OUTREACH. These are UNVERIFIED candidate strings.
+Every address below came from a search-engine result summary describing a page.
+NOT ONE was read off a page by a human or an agent - all page fetches were blocked
+by the egress proxy. A search summarizer can pattern-complete a plausible address
+just as easily as it can report a real one. This file exists ONLY as a worklist:
+when egress opens, fetch each source URL and confirm or delete each row.
+Rows marked PATTERN-RISK match the info@<domain> / contact@<domain> shape that is
+trivially guessable and therefore carries the highest chance of being fabricated.
+name,city,candidate_email,claimed_source_url,risk,note
+"Islamic Center of Charlotte",Charlotte,info@iccharlotte.org,https://www.muslimguide.com/show/Islamic_Center_of_Charlotte__ICC__607,PATTERN-RISK,"Asserted by a search summary, not seen on the site."
+"Islamic Society of Greater Charlotte",Charlotte,Info@isgcharlotte.org,https://isgcharlotte.org/about/,PATTERN-RISK,
+"Masjid Ash-Shaheed",Charlotte,aahilal@outlook.com,https://prayersconnect.com/mosques/84017438-masjid-ash-shaheed-charlotte-north-carolina-united-states/contact-us,DISTINCTIVE,"Personal/admin Outlook address on a directory record, not an institutional address. Distinctive shape = less likely fabricated."
+"Pillars Mosque",Charlotte,info@pillarsmosque.org,https://pillarsmosque.org/home/,PATTERN-RISK,"A truncated string 'ed@pillarsmosque' also appeared; full address never seen."
+"Muhammad Mosque No. 36",Charlotte,info@noicharlotte.com,https://noicharlotte.com/,PATTERN-RISK,
+"ILM Center",Concord,admin@ilmcenter.org,https://ilmcenter.org/,PATTERN-RISK,"Reported as the Zelle payment-confirmation address."
+"Iqra Islamic Society of Greater Concord",Concord (STATE UNCONFIRMED),contact@iisgc.org,https://iisgc.org/about-us--contact-us.html,PATTERN-RISK,"Organization may be in Concord NEW HAMPSHIRE. Confirm state before anything else."
+"Islamic Center of Lake Norman",Mooresville,iclnmooresville@gmail.com,https://prayersconnect.com/mosques/84063945-islamic-center-of-lake-norman-mooresville-north-carolina-united-states/contact-us,DISTINCTIVE,
+"Islamic Center of Salisbury",Salisbury,masjidofsalisbury@gmail.com,https://prayersconnect.com/mosques/80992-islamic-center-of-salisbury-salisbury-north-carolina/contact-us,DISTINCTIVE,
+"Islamic Association of Raleigh",Raleigh,office@islam1.org,https://archive.raleighmasjid.org/contact/contact-us.html,DISTINCTIVE,"Note the islam1.org domain differs from raleighmasjid.org - not derivable from the site domain, so less likely fabricated."
+"Al-Iman School",Raleigh,front.office@alimancrescent.org,https://www.alimanschool.org/,DISTINCTIVE,"Domain differs from the school's own site domain."
+"As-Salaam Islamic Center of Raleigh",Raleigh,Treasurer@assalaamic.org,https://assalaamic.org/wp-content/uploads/2026/02/ASIC-Building-Donation-Letter.pdf,DISTINCTIVE,"Donations/treasurer address from a PDF donation letter."
+"Madinah Quran and Youth Center",Raleigh,contact@mqyc.org,https://www.mqyc.org/,PATTERN-RISK,
+"Islamic Association of Cary",Cary,contact@carymasjid.org,https://www.carymasjid.org/contact-us/,PATTERN-RISK,"Secondary address nadeem@carymasjid.org also reported."
+"Apex Mosque",Apex,contact@apexmosque.org,https://apexmosque.org/contact-us/,PATTERN-RISK,
+"Islamic Center of Morrisville",Morrisville,imam@icmnc.org,https://www.icmnc.org/contact-us/,PATTERN-RISK,"A whole committee set was reported: socialwelfare@, dawah@, facility@, finance@, almizan@, news@ - all same domain, all unverified. A full set like this is a classic summarizer confabulation shape."
+"Jamaat Ibad Ar-Rahman",Durham,admin@ibadarrahman.org,https://ibadarrahman.org/contact-us/,PATTERN-RISK,"outreach@ and imam@ also reported."
+"Duke Center for Muslim Life",Durham,dukecml@duke.edu,https://duke.campusgroups.com/cml/contact-us/,DISTINCTIVE,"Director address joshua.salaam@duke.edu also reported."
+"Chapel Hill Islamic Center",Chapel Hill,chismailnc@gmail.com,https://www.halaltrip.com/mosque-details/7369/chapel-hill-islamic-center/,DISTINCTIVE,
+"UNC Chapel Hill MSA",Chapel Hill,shurah@uncmsa.org,http://www.uncmsa.org/contact-us,DISTINCTIVE,"press@uncmsa.org also reported."
+"Islamic Center of Smithfield",Smithfield,info@smithfieldmasjid.org,https://smithfieldmasjid.org/contact-us/,PATTERN-RISK,
+"Islamic Center of Sanford",Sanford,islamiccenterofsanford@gmail.com,https://islamiccenterofsanford.org/contact/,DISTINCTIVE,
+"Islamic Center of Greensboro",Greensboro,icgncinfo@gmail.com,https://icgmasjid.org/contact-us/,DISTINCTIVE,"Info@icgmasjid.org and outreach@icgmasjid.org also surfaced - both PATTERN-RISK."
+"Al-Ummil Ummat Islamic Center",Greensboro,ummil.ummat@gmail.com,https://www.halaltrip.com/mosque-details/7381/al-ummil-ummat-islamic-center/,DISTINCTIVE,"From an aggregator listing, not the masjid's own site."
+"Masjid Ahlus-Sunnah",Greensboro,prosunnahweb@gmail.com,https://www.businessyab.info/explore/united_states/north_carolina/guilford_county/gilmer/greensboro/east_market_street/2911/masjid-ahlus-sunnah-336-510-2807.html,DISTINCTIVE,"From a business-directory aggregator."
+"W.D. Mohammed Islamic Center",Greensboro,info@wdmic.org,https://wdmic.org/contact-us-2/,PATTERN-RISK,"business@wdmic.org also reported."
+"Islamic Center of High Point",High Point,mosque@icohp.org,http://icohp.org/Contacts.html,PATTERN-RISK,
+"Community Mosque of High Point",High Point,CMHP222@gmail.com,https://www.halaltrip.com/mosque-details/7372/community-mosque-of-high-point/,DISTINCTIVE,
+"Clemmons Islamic Center",Clemmons,cicenter1435@gmail.com,https://muslimlife.wfu.edu/community-resources/mosques/,DISTINCTIVE,"From the Wake Forest University Muslim Life directory."
+"Islamic Center of Asheboro",Asheboro,masjidamerica@gmail.com,https://muslimlistings.org/listing/islamic-center-of-asheboro/,DISTINCTIVE,"Network-level address for the Masjid America network, not Asheboro-specific."
+"Islamic Center of Fayetteville",Fayetteville,islamcentfay@yahoo.com,https://prayersconnect.com/mosques/84022016-islamic-center-of-fayetteville-fayetteville-north-carolina-united-states/contact-us,DISTINCTIVE,"Returned consistently by two independent queries."
+"Masjid Omar Ibn Sayyid",Fayetteville,masjidois@gmail.com,https://www.masjidomaribnsayyid.org/,DISTINCTIVE,
+"Masjid Al-Huda (Jacksonville)",Jacksonville,masjidalhuda6503@gmail.com,https://prayersconnect.com/mosques/84081024-masjid-al-huda-islamic-center-of-jacksonville-jacksonville-north-carolina-united-states/contact-us,DISTINCTIVE,
+"Islamic Culture Center Masjid",Kinston,iccmasjid@iname.com,http://www.muslimfeed.com/masjiddetails.aspx?mi=1658,STALE-RISK,"From a dated directory; @iname.com is a legacy forwarding service. Likely dead."
+"Masjid Al-Madina",Raeford,masjidalmadina@earthlink.net,https://masjid.us/nc/,STALE-RISK,"An earthlink.net address suggests a very old record."
+"Islamic Association of Eastern NC",Greenville,info@iaenc.com,https://greenvillencmasjid.org/contact-us/,PATTERN-RISK,"imam@iaenc.com also reported. Note the iaenc.com domain differs from the greenvillencmasjid.org site domain."
+"Islamic Center of Wilson",Wilson,ushamidben@gmail.com,UNKNOWN - could not be pinned to a specific page,HIGH-RISK,"WEAKEST ITEM IN THE SET. Search-derived but never attributable to a page. Verify before any use."
+"Islamic Center of Roanoke Rapids",Roanoke Rapids,IslamicCenterNC@gmail.com,https://icrrnc.org/contact/,DISTINCTIVE,"Corroborated by two independent searches both citing the same URL."
+"Islamic Center of Asheville",Asheville,Islamiccenterofashevilleaic@gmail.com,https://ashevillemasjid.com/,DISTINCTIVE,"Exact-string search returned the masjid's own domain as the hit."
+"Islamic Center of Morganton",Morganton,morgantonmosque@gmail.com,https://www.morgantonmosque.org/,DISTINCTIVE,
+"Islamic Center of Boone",Boone,info@boonemasjid.com,https://www.boonemasjid.com/,PATTERN-RISK,
