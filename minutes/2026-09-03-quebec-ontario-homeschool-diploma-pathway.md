@@ -6,7 +6,7 @@
 |---|---|
 | **Date** | Wednesday, 3 September 2026 |
 | **Time** | 6:05 PM – 6:35 PM (online, recorded) |
-| **Chair** | Mufti Mirza-Zain Baig, Principal, Dar Al-'Ulum Montréal; Principal, Académie internationale de Toronto |
+| **Led by** | Mufti Mirza-Zain Baig, Principal, Dar Al-'Ulum Montréal; Principal, Académie internationale de Toronto |
 | **Attendees** | Parents of students in Secondary 3, 4, 5 and Grade 12 |
 | **Recording** | Available to parents for replay |
 | **Purpose** | Clarify the combined DES (Québec) / DESO–OSSD (Ontario) pathway, exam obligations, benefits, and the science lab arrangement |
@@ -15,7 +15,7 @@
 
 ## 1. Purpose of the session
 
-The Chair opened by noting that last year's rollout left confusion among parents: whether this is one program or two, whether it adds workload, and what the portal is for. The session was called to settle those points, walk through the Secondary 3–5 and Grade 12 requirements, and take questions. The tagline used throughout: **one pathway, two diplomas**.
+The Principal opened by noting that last year's rollout left confusion among parents: whether this is one program or two, whether it adds workload, and what the portal is for. The session was called to settle those points, walk through the Secondary 3–5 and Grade 12 requirements, and take questions. The tagline used throughout: **one pathway, two diplomas**.
 
 ## 2. Recommended pathway
 
@@ -39,23 +39,23 @@ Each subject carries three to four competencies, and ministry exams do not evalu
 
 Four exams must be written in a public school on the ministry's dates and cannot be teacher-evaluated: the two Mathematics Sec 4 competencies, the first Science and Technology Sec 4 competency, and the History of Québec and Canada exam. Everything else is either an épreuve unique through the school board or an evaluation by a certified teacher.
 
-School board positions differ. **CSSDM** permits the Chair, as a certified teacher, to evaluate subjects directly and submit those marks for credit, which has already been done successfully in past years. **CSS de Laval** does not accept evaluation by an outside teacher; students must attend their centre. **CSS de la Pointe-de-l'Île** accepts teacher-issued evaluations subject to specific procedural steps.
+School board positions differ. **CSSDM** permits the Principal, as a certified teacher, to evaluate subjects directly and submit those marks for credit, which has already been done successfully in past years. **CSS de Laval** does not accept evaluation by an outside teacher; students must attend their centre. **CSS de la Pointe-de-l'Île** accepts teacher-issued evaluations subject to specific procedural steps.
 
 A correction was noted on the slide deck: the figure shown should read 55, referring to the external exam.
 
 ## 6. The DESO / OSSD (Ontario)
 
-The Ontario Secondary School Diploma requires 30 credits, 18 compulsory and 12 optional, taken across Secondary 3 through Grade 12 at roughly six to eight courses per year, plus 40 hours of community involvement spread over the four years and a French-language literacy test written in the second year. Ontario mandates no provincial ministry exam, so the issuing institution sets its own final assessments and awards credits. The Chair has been designated Principal of the Académie internationale de Toronto as of this year, which gives him the authority to issue those credits under Ontario ministry requirements.
+The Ontario Secondary School Diploma requires 30 credits, 18 compulsory and 12 optional, taken across Secondary 3 through Grade 12 at roughly six to eight courses per year, plus 40 hours of community involvement spread over the four years and a French-language literacy test written in the second year. Ontario mandates no provincial ministry exam, so the issuing institution sets its own final assessments and awards credits. The Principal has been designated Principal of the Académie internationale de Toronto as of this year, which gives him the authority to issue those credits under Ontario ministry requirements.
 
 The 12 optional credits have been pre-selected by the school so that all students follow one common track: Arts, Physical Education and CCQ in Secondary 4, and Financial Education and Contemporary World in Secondary 5.
 
 ## 7. Curriculum integration
 
-The Chair stressed that this is not two parallel programs. The Québec and Ontario curricula were merged into a single aligned program from Secondary 3 to Grade 12, built with the partner institution over hundreds of hours, specifically so students are not duplicating work. Only Grade 9 / Secondary 3 Science carries meaningful added units; everywhere else the additions are minor. All supplementary material is Québec-based and drawn from the same Éditions CEC manuals students already use.
+The Principal stressed that this is not two parallel programs. The Québec and Ontario curricula were merged into a single aligned program from Secondary 3 to Grade 12, built with the partner institution over hundreds of hours, specifically so students are not duplicating work. Only Grade 9 / Secondary 3 Science carries meaningful added units; everywhere else the additions are minor. All supplementary material is Québec-based and drawn from the same Éditions CEC manuals students already use.
 
 ## 8. Portal walkthrough
 
-Using Mathematics MNA (Secondary 4) as the example, the Chair showed that portal chapters mirror the manual exactly. Each lesson carries its duration, the corresponding cahier pages, the learning objectives, and video capsules for students who want extra explanation. Completed work is photographed and uploaded to the lesson's *remise* section, then corrected with feedback returned to the student.
+Using Mathematics MNA (Secondary 4) as the example, the Principal showed that portal chapters mirror the manual exactly. Each lesson carries its duration, the corresponding cahier pages, the learning objectives, and video capsules for students who want extra explanation. Completed work is photographed and uploaded to the lesson's *remise* section, then corrected with feedback returned to the student.
 
 Two changes were made this year to reduce friction. Any required work that does not appear in the manual has been printed into a booklet already distributed to every student, so nothing needs to be printed at home. And every student now has one scheduled hour per week, with scanners and phones provided, purely for scanning and uploading, so no instruction time is lost.
 
@@ -67,15 +67,15 @@ On grades, Dar Al-'Ulum as a homeschool support service cannot issue Québec mar
 
 Late-arriving marks are the second problem: a homeschooled Secondary 5 student applying to CEGEP often has an incomplete file at the first admission round and misses their program of choice. Third, a poor ministry exam mark follows the student permanently. Under the Ontario track that mark is not determinative, provided the student completes both Secondary 5 and Grade 12; stopping after Secondary 5 forfeits both diplomas. The student then arrives at university with a consistent record from Grade 9 through Grade 12.
 
-CEGEP remains available, but the Chair questioned the point of routing through CEGEP to reach university when direct entry is available, particularly given tightening French-language rules for CEGEP admission. He noted that many private and Islamic schools across Montréal and Québec have adopted the Grade 12 program for the same reason.
+CEGEP remains available, but the Principal questioned the point of routing through CEGEP to reach university when direct entry is available, particularly given tightening French-language rules for CEGEP admission. He noted that many private and Islamic schools across Montréal and Québec have adopted the Grade 12 program for the same reason.
 
 ## 10. Why the school is doing this
 
-The Chair was explicit that the arrangement costs the school more than it takes in, and that the simpler course would be to tell parents to deal with the school board themselves. The program exists so homeschooled students are not disadvantaged, and so families who withdrew children from the public system are not forced to send them back for a year to secure a diploma.
+The Principal was explicit that the arrangement costs the school more than it takes in, and that the simpler course would be to tell parents to deal with the school board themselves. The program exists so homeschooled students are not disadvantaged, and so families who withdrew children from the public system are not forced to send them back for a year to secure a diploma.
 
 ## 11. Next steps
 
-CSSDM enrolment is confirmed. The school will write to CSSDM regarding the evaluation request, and the Chair will contact Mme Boivin directly. Once the projet d'apprentissage is submitted, due 30 September, he will send parents the exact procedure and email wording to request the exam calendar and to state that the student will be evaluated by a certified teacher.
+CSSDM enrolment is confirmed. The school will write to CSSDM regarding the evaluation request, and the Principal will contact Mme Boivin directly. Once the projet d'apprentissage is submitted, due 30 September, he will send parents the exact procedure and email wording to request the exam calendar and to state that the student will be evaluated by a certified teacher.
 
 ## 12. Science labs
 
@@ -85,15 +85,15 @@ The first session was scheduled for this Friday but GMC requested a reschedule b
 
 For Secondary 4 (ST/STE) and Secondary 5 (Physics and Chemistry), lab grades will be entered directly into Charlemagne, so those evaluations flow into the board system without a separate step. Secondary 3 has no grades to enter.
 
-The Chair closed this section by noting how difficult and expensive the arrangement was to secure, and asked parents to treat it accordingly: students must attend every session, arrive on time, behave well, and wear the Dar Al-'Ulum uniform, since they attend as representatives of the school.
+The Principal closed this section by noting how difficult and expensive the arrangement was to secure, and asked parents to treat it accordingly: students must attend every session, arrive on time, behave well, and wear the Dar Al-'Ulum uniform, since they attend as representatives of the school.
 
 ## 13. Questions from parents
 
-**What are "compétences"?** Each subject is evaluated across three or four competencies, visible on the year-end evaluation. French covers communication, comprehension and writing; Mathematics covers problem solving and mathematical reasoning among others. Ministry exams evaluate only some of them, History being the exception. The rest go through épreuves uniques, or for CSSDM students through the Chair's own evaluation, which counts toward board credits.
+**What are "compétences"?** Each subject is evaluated across three or four competencies, visible on the year-end evaluation. French covers communication, comprehension and writing; Mathematics covers problem solving and mathematical reasoning among others. Ministry exams evaluate only some of them, History being the exception. The rest go through épreuves uniques, or for CSSDM students through the Principal's own evaluation, which counts toward board credits.
 
 **So CSSDM students are evaluated by you, and everyone else writes at a secondary school?** Correct, with the four mandatory in-school exams named in section 5 as the exception for everyone.
 
-**Do parents contact the school themselves to schedule those exams?** No. The Chair will send the procedure after 30 September, once the learning project is filed.
+**Do parents contact the school themselves to schedule those exams?** No. The Principal will send the procedure after 30 September, once the learning project is filed.
 
 **Are the 12 optional Ontario credits actually optional?** They are chosen from a list rather than skipped. The school has already selected them for all students to keep one common track.
 
@@ -105,7 +105,7 @@ The Chair closed this section by noting how difficult and expensive the arrangem
 
 ## 14. Closing
 
-The Chair confirmed the session was recorded and available for replay, and closed with a reminder that the first lab is Wednesday at 8:30 AM.
+The Principal confirmed the session was recorded and available for replay, and closed with a reminder that the first lab is Wednesday at 8:30 AM.
 
 ---
 
