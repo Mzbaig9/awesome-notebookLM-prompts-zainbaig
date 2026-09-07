@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Prophet as a Husband</title>
+<link rel="stylesheet" href="fonts/fonts-local.css">
+<style>
+@font-face{font-family:'Amiri';src:url(fonts/amiri-35048d.ttf) format('truetype');font-weight:400}
+@font-face{font-family:'Amiri';src:url(fonts/amiri-dcd234.ttf) format('truetype');font-weight:700}
+:root{
+  --ink:#0D1A16;
+  --ink2:#132520;
+  --cream:#F3ECDD;
+  --cream2:#E9E0CE;
+  --gold:#C9A961;
+  --gold2:#E3C98A;
+  --muted:rgba(243,236,221,.62);
+  --mutedDark:rgba(13,26,22,.62);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#222;font-family:'Inter',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+.strip{display:flex;flex-wrap:wrap;gap:24px;padding:24px}
+.slide{
+  width:1080px;height:1350px;position:relative;overflow:hidden;flex:0 0 auto;
+  background:var(--ink);color:var(--cream);
+  padding:84px 88px 78px;
+  display:flex;flex-direction:column;
+}
+.slide.cream{background:var(--cream);color:var(--ink)}
+.slide.cream .eyebrow,.slide.cream .counter,.slide.cream .src,.slide.cream .foot{color:var(--ink)}
+.slide.cream .foot{border-color:rgba(13,26,22,.18)}
+.slide.cream .src{border-color:#A8894A;color:#8C7035}
+.slide.cream .body{color:rgba(13,26,22,.86)}
+.slide.cream .lead{color:var(--ink)}
+.slide.cream .eyebrow{color:#8C7035}
+.slide.cream .counter{color:var(--mutedDark)}
+
+/* pattern */
+.pattern{position:absolute;inset:0;pointer-events:none;opacity:.055}
+.slide.cream .pattern{opacity:.075}
+.glow{position:absolute;width:900px;height:900px;border-radius:50%;
+  background:radial-gradient(circle,rgba(201,169,97,.20) 0%,rgba(201,169,97,0) 62%);
+  pointer-events:none}
+
+.top{display:flex;justify-content:space-between;align-items:flex-start;position:relative;z-index:2}
+.eyebrow{font-size:21px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);font-weight:500}
+.counter{font-size:21px;letter-spacing:.18em;color:var(--muted);font-weight:400;font-variant-numeric:tabular-nums}
+
+.mid{flex:1;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:2}
+h1,h2{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;line-height:1.0;letter-spacing:-.01em}
+h1{font-size:132px}
+h2{font-size:96px;margin-bottom:44px}
+h2 em,h1 em{font-style:italic;font-weight:500;color:var(--gold2)}
+.slide.cream h2 em{color:#8C7035}
+.saw{font-family:'Amiri',serif;font-size:.78em;color:var(--gold2);font-style:normal;font-weight:400;position:relative;top:-.04em}
+.slide.cream .saw{color:#8C7035}
+.body{font-size:36px;line-height:1.46;font-weight:300;color:rgba(243,236,221,.86);max-width:900px}
+.body+.body{margin-top:30px}
+.body strong{font-weight:500;color:var(--cream)}
+.slide.cream .body strong{color:var(--ink)}
+.lead{font-family:'Cormorant Garamond',Georgia,serif;font-size:58px;line-height:1.18;font-weight:500;color:var(--cream);max-width:900px}
+.lead.q{font-style:italic}
+.lead+.body{margin-top:38px}
+.body+.lead{margin-top:40px}
+.arab{font-family:'Amiri',serif;font-size:74px;line-height:1.3;color:var(--gold2);direction:rtl;text-align:left;margin-bottom:8px}
+.translit{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:40px;color:var(--gold2);letter-spacing:.01em;margin-bottom:34px}
+.slide.cream .translit{color:#8C7035}
+.src{display:inline-block;margin-top:40px;font-size:20px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);
+  border-left:2px solid var(--gold);padding-left:18px;line-height:1.5;font-weight:500}
+.rule{width:96px;height:2px;background:var(--gold);margin:0 0 38px}
+.slide.cream .rule{background:#A8894A}
+
+.foot{position:relative;z-index:2;display:flex;justify-content:space-between;align-items:center;
+  padding-top:30px;border-top:1px solid rgba(243,236,221,.16);font-size:21px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+.foot .mark{display:flex;align-items:center;gap:16px}
+.foot svg{width:30px;height:30px}
+
+/* cover */
+.cover .arch{position:absolute;right:-120px;top:170px;width:690px;height:1000px;pointer-events:none}
+.cover .mid{justify-content:flex-end;padding-bottom:40px}
+.cover .kicker{font-size:22px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);margin-bottom:34px;font-weight:500}
+.cover h1{max-width:820px}
+.cover .sub{margin-top:44px;font-family:'Cormorant Garamond',serif;font-size:44px;line-height:1.25;font-weight:400;color:rgba(243,236,221,.8);max-width:760px}
+.cover .by{margin-top:60px;font-size:22px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);line-height:1.9}
+.cover .by b{color:var(--cream);font-weight:500}
+
+/* two column weapon slide */
+.pair{display:flex;flex-direction:column;gap:26px;margin:10px 0 40px}
+.card{border:1.5px solid rgba(13,26,22,.22);padding:34px 38px;position:relative}
+.card .tag{font-size:19px;letter-spacing:.22em;text-transform:uppercase;color:#8C7035;font-weight:600;margin-bottom:14px}
+.card .qt{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:40px;line-height:1.22;color:var(--ink)}
+.card .who{margin-top:16px;font-size:24px;color:var(--mutedDark);font-weight:400}
+
+/* big line slides */
+.big{font-family:'Cormorant Garamond',serif;font-size:150px;line-height:.98;font-weight:600;letter-spacing:-.015em}
+.big em{font-style:italic;font-weight:500;color:var(--gold2)}
+
+/* list of sunnah */
+.sun{margin:34px 0 0;display:grid;grid-template-columns:1fr 1fr;gap:18px 36px}
+.sun div{font-family:'Cormorant Garamond',serif;font-size:42px;line-height:1.15;font-weight:500;color:var(--ink);padding-left:26px;border-left:2px solid #A8894A}
+
+.cta{margin-top:auto;padding-top:44px;display:flex;justify-content:space-between;align-items:flex-end}
+.cta .save{font-size:23px;letter-spacing:.2em;text-transform:uppercase;color:#8C7035;font-weight:600;line-height:1.7;padding-left:22px;border-left:2px solid #A8894A}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <pattern id="star" width="160" height="160" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="currentColor" stroke-width="1.4">
+        <path d="M80 8 L152 80 L80 152 L8 80 Z"/>
+        <rect x="29" y="29" width="102" height="102"/>
+        <path d="M80 44 L116 80 L80 116 L44 80 Z"/>
+      </g>
+    </pattern>
+    <symbol id="mark" viewBox="0 0 40 40"><g fill="none" stroke="currentColor" stroke-width="1.6"><path d="M20 3 L37 20 L20 37 L3 20 Z"/><rect x="8" y="8" width="24" height="24"/></g></symbol>
+  </defs>
+</svg>
+<div class="strip">
+
+<!-- 01 COVER -->
+<section class="slide cover">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="right:-260px;top:-160px"></div>
+  <svg class="arch" viewBox="0 0 690 1000" fill="none">
+    <path d="M40 1000 V385 A305 305 0 0 1 650 385 V1000" stroke="#C9A961" stroke-width="2" opacity=".55"/>
+    <path d="M110 1000 V385 A235 235 0 0 1 580 385 V1000" stroke="#C9A961" stroke-width="1.2" opacity=".35"/>
+    <path d="M180 1000 V385 A165 165 0 0 1 510 385 V1000" stroke="#C9A961" stroke-width="1" opacity=".22"/>
+  </svg>
+  <div class="top"><div class="eyebrow">Notes from a bayan</div><div class="counter">01 / 10</div></div>
+  <div class="mid">
+    <div class="kicker">Marriage in the Sunnah</div>
+    <h1>The Prophet <span class="saw">&#xFDFA;</span><br>as a <em>Husband</em></h1>
+    <div class="sub">He was not a checklist of qualities we tick off. He lived by principles, and he showed us how to.</div>
+    <div class="by"><b>Mufti Mirza-Zain Baig</b><br>Dar Al-Ulum Montreal</div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>Swipe</div></div>
+</section>
+
+<!-- 02 KHADIJAH -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="left:-380px;bottom:-300px"></div>
+  <div class="top"><div class="eyebrow">Where did he go first</div><div class="counter">02 / 10</div></div>
+  <div class="mid">
+    <div class="rule"></div>
+    <h2><em>"Cover me."</em></h2>
+    <p class="body">He came down from Hira shaken, pressed by Jibreel until he thought he would die. He could have gone to Abu Bakr, to Abu Talib, to Hamza. <strong>He went to Khadijah.</strong></p>
+    <p class="body">And she told him: Allah would never disgrace a man like you. From the first night of revelation, his sukoon came from his wife.</p>
+    <div class="src">Sahih al-Bukhari</div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 03 FRANCHISE -->
+<section class="slide cream">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="top"><div class="eyebrow">First principle</div><div class="counter">03 / 10</div></div>
+  <div class="mid">
+    <div class="big">Stop<br>franchising<br>the Prophet <span class="saw">&#xFDFA;</span></div>
+    <p class="body" style="margin-top:48px">We take bits and pieces of the Sirah to suit our own narrative. One hadith for the fitness course. One hadith for the argument at home.</p>
+    <p class="body"><strong>He is not a set of check marks.</strong> He lived by principles, and the principles are what we are meant to carry home.</p>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 04 KAABA -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="right:-300px;bottom:-200px"></div>
+  <div class="top"><div class="eyebrow">Culture has its place</div><div class="counter">04 / 10</div></div>
+  <div class="mid">
+    <div class="rule"></div>
+    <p class="lead q">"Were your people not so new to Islam, I would have rebuilt the Kaaba on the foundations of Ibrahim."</p>
+    <div class="src" style="margin-top:28px">To Aisha after the conquest. Sahih al-Bukhari</div>
+    <p class="body" style="margin-top:44px">He had the authority. He had the truth. He still left the Kaaba as the people knew it, because changing it would have shaken them. <strong>Idols he destroyed. Attachment he respected.</strong></p>
+    <p class="body">Islam did not come to destroy how we live. It came to tame how we see things. Urf has its place in a marriage too.</p>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 05 BASHAR -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="left:-300px;top:-260px"></div>
+  <div class="top"><div class="eyebrow">At home</div><div class="counter">05 / 10</div></div>
+  <div class="mid">
+    <div class="arab">كان بشرا من البشر</div>
+    <div class="translit">He was a man among men. Aisha, describing him at home</div>
+    <p class="body">In the masjid, the imam. On the battlefield, the commander. Before a delegation, its head. <strong>At home, a man like any other.</strong></p>
+    <p class="body">He mended his own garment. He fixed his own sandals. He was in the service of his family. And when the adhan was called, he left for salah.</p>
+    <p class="lead" style="margin-top:44px">No takalluf. Ease was his default. Salah was the boundary.</p>
+    <div class="src">Sahih al-Bukhari</div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 06 WEAPON -->
+<section class="slide cream">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="top"><div class="eyebrow">Second principle</div><div class="counter">06 / 10</div></div>
+  <div class="mid">
+    <h2>A hadith is<br>not a <em>weapon</em></h2>
+    <div class="pair">
+      <div class="card">
+        <div class="tag">What the men quote</div>
+        <div class="qt">"Had I commanded anyone to prostrate to other than Allah, it would be the wife to her husband."</div>
+        <div class="who">Jami al-Tirmidhi</div>
+      </div>
+      <div class="card">
+        <div class="tag">What the women quote</div>
+        <div class="qt">"He was in the service of his family."</div>
+        <div class="who">Sahih al-Bukhari</div>
+      </div>
+    </div>
+    <p class="body">Both were said to the person reading them. <strong>Sudhar jao. Better yourself.</strong> Neither was sent home as ammunition for the other side.</p>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 07 RIGHTS -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="right:-320px;top:-220px"></div>
+  <div class="top"><div class="eyebrow">On rights</div><div class="counter">07 / 10</div></div>
+  <div class="mid">
+    <h2>Fulfil yours.<br>Ask Allah<br>for <em>yours.</em></h2>
+    <p class="body">Marriage is a majmua of rights, a bundle of what two people owe each other. His principle for every right, from rulers to spouses: <strong>give what is owed by you, and ask Allah for what is owed to you.</strong></p>
+    <p class="body">He never took revenge for himself. When Abu Bakr walked in on Aisha raising her voice at him and moved to intervene, it was the Prophet <span class="saw">&#xFDFA;</span> who stepped in between and calmed it down.</p>
+    <div class="src">Sahih al-Bukhari. Musnad Ahmad</div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 08 NOT A FAIRY TALE -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="left:-340px;bottom:-320px"></div>
+  <div class="top"><div class="eyebrow">Boundaries</div><div class="counter">08 / 10</div></div>
+  <div class="mid">
+    <h2>It was not<br>a <em>fairy tale</em></h2>
+    <p class="body">His marriage had tension. The honey plot between Aisha and Hafsa, which had him swear off honey until Allah corrected him. The request for more provision that went against the very temperament of Nubuwwah.</p>
+    <p class="body">He went quiet. He withdrew for twenty nine days. Then Allah gave his wives a choice: the world, with a graceful release, or Allah and His Messenger. <strong>They chose him.</strong></p>
+    <p class="lead" style="margin-top:40px">Easygoing by default. Principled when it counted.</p>
+    <div class="src">Al-Tahrim 1. Al-Ahzab 28 to 29. Sahih al-Bukhari</div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 09 HE READ HER HEART -->
+<section class="slide">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="glow" style="right:-280px;bottom:-260px"></div>
+  <div class="top"><div class="eyebrow">Emotional intelligence</div><div class="counter">09 / 10</div></div>
+  <div class="mid">
+    <div class="rule"></div>
+    <p class="lead q">"I know when you are pleased with me and when you are angry. When you are pleased, you swear by the Rabb of Muhammad. When you are angry, by the Rabb of Ibrahim."</p>
+    <div class="src" style="margin-top:28px">To Aisha. Sahih al-Bukhari</div>
+    <p class="body" style="margin-top:44px">When she struck down the plate of food sent by another wife, he picked up the pieces and said only, <strong>"Your mother got jealous."</strong></p>
+    <p class="body">He named the feeling. He did not punish it.</p>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+<!-- 10 MAWADDAH & RAHMA -->
+<section class="slide cream">
+  <svg class="pattern"><rect width="100%" height="100%" fill="url(#star)"/></svg>
+  <div class="top"><div class="eyebrow">Mawaddah and Rahma</div><div class="counter">10 / 10</div></div>
+  <div class="mid" style="justify-content:flex-start;padding-top:30px">
+    <h2>Love gets you started.<br><em>Rahma</em> gets you home.</h2>
+    <p class="body">Passion takes a marriage to a point. Mercy, the benefit of the doubt, the patience to let go, takes it to the end. A car needs all four wheels.</p>
+    <div class="src" style="margin-top:22px">Surah al-Rum 21</div>
+    <div class="sun" style="margin-top:44px">
+      <div>Affection within its channels</div>
+      <div>Serving your family</div>
+      <div>Giving the benefit of the doubt</div>
+      <div>Letting go of your own ego</div>
+    </div>
+    <p class="body" style="margin-top:40px">And choose for deen. His khutbah of nikah never mentions nikah. <strong>It only mentions taqwa.</strong></p>
+    <div class="cta">
+      <div class="save">Save this. Send it to someone getting married.</div>
+    </div>
+  </div>
+  <div class="foot"><div class="mark"><svg><use href="#mark"/></svg>Dar Al-Ulum Montreal</div><div>The Prophet <span class="saw">&#xFDFA;</span> as a Husband</div></div>
+</section>
+
+</div>
+</body>
+</html>
