@@ -1,0 +1,183 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {"en": "Weekly staff meeting", "fr": "Réunion hebdomadaire du personnel"},
+  "title": {
+    "en": "Student Monitoring, Weekly Reports and the Portal",
+    "fr": "Suivi des élèves, rapports hebdomadaires et le portail"
+  },
+  "date": {"en": "Wednesday 2 Sep 2026", "fr": "Mercredi 2 sept. 2026", "short": "2 Sep 2026"},
+  "meeting": {"en": "Staff meeting", "fr": "Réunion du personnel"},
+  "chair": {"en": "Principal", "fr": "Direction"},
+  "present": {"en": "Teaching staff", "fr": "Corps enseignant"},
+  "sections": [
+    {
+      "heading": "Student monitoring",
+      "headline": {
+        "en": "Observe until 25 September,<br/>then tell the parents",
+        "fr": "Observer jusqu'au 25 septembre,<br/>puis informer les parents"
+      },
+      "paragraphs": [
+        {
+          "en": "Teachers have until <b>25 September</b> to observe their students and identify those with significant behavioural or academic difficulties. The window is deliberately short: it is meant to produce a picture of the class while the year is still young.",
+          "fr": "Les enseignants ont jusqu'au <b>25 septembre</b> pour observer leurs élèves et repérer ceux qui présentent des difficultés comportementales ou scolaires importantes. La période est volontairement courte : elle doit donner un portrait du groupe alors que l'année commence à peine."
+        },
+        {
+          "en": "A formal communication then goes out to parents on <b>25 September</b>, built from what teachers report. Telling parents this early is the point of the exercise, it leaves them time to arrange tutoring before the difficulty hardens, rather than discovering it at the first report card.",
+          "fr": "Une communication officielle sera ensuite envoyée aux parents le <b>25 septembre</b>, à partir des observations transmises. C'est là tout l'intérêt de la démarche : prévenir tôt laisse aux parents le temps d'organiser du tutorat avant que la difficulté s'installe, plutôt que de la découvrir au premier bulletin."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {"en": "Mohamed Fadl, Secondary 2.", "fr": "Mohamed Fadl, secondaire 2."},
+          "text": {
+            "en": "A lack of concentration was raised, along with possible difficulties integrating into the group. It was confirmed that his parents are already aware of his specific learning gaps.",
+            "fr": "Un manque de concentration a été soulevé, ainsi que de possibles difficultés d'intégration au groupe. Il a été confirmé que ses parents connaissent déjà ses lacunes précises."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "The academic portal",
+      "headline": {"en": "Secondary 3, 4 and 5 start Monday", "fr": "Le secondaire 3, 4 et 5 commence lundi"},
+      "paragraphs": [
+        {
+          "en": "Students in Secondary 3, 4 and 5 begin working through the online portal on Monday.",
+          "fr": "Les élèves de secondaire 3, 4 et 5 commenceront à utiliser le portail en ligne lundi."
+        },
+        {
+          "en": "The sequence matters: student work is to be <b>photographed and uploaded before it is corrected</b>, not after. Uploading the corrected copy defeats the purpose, what the portal is meant to hold is an accurate record of what the student actually produced, and of how that changes over the year.",
+          "fr": "L'ordre des étapes compte : les travaux doivent être <b>photographiés et téléversés avant d'être corrigés</b>, et non après. Téléverser la copie corrigée annule l'objectif, le portail doit conserver un relevé fidèle de ce que l'élève a réellement produit, et de son évolution au fil de l'année."
+        }
+      ]
+    },
+    {
+      "heading": "Weekly report to parents",
+      "headline": {"en": "One template, every Friday by 8:00 PM", "fr": "Un seul gabarit, chaque vendredi avant 20 h"},
+      "paragraphs": [
+        {
+          "en": "Each teacher submits a weekly summary <b>every Friday by 8:00 PM</b>.",
+          "fr": "Chaque enseignant remet un résumé hebdomadaire <b>le vendredi, au plus tard à 20 h</b>."
+        },
+        {
+          "en": "The report covers the week just finished in detail, page numbers included, and then gives a high-level overview of the concepts coming next week. Page numbers are deliberately left out of that second part so that students do not run ahead of the class.",
+          "fr": "Le rapport couvre en détail la semaine écoulée, numéros de pages compris, puis donne un aperçu général des notions de la semaine à venir. Les numéros de pages sont volontairement omis dans cette seconde partie afin que les élèves ne prennent pas d'avance sur le groupe."
+        },
+        {
+          "en": "On format, the team settled the question in the meeting: one template for every grade rather than a separate document per level.",
+          "fr": "Quant au format, la question a été tranchée en réunion : un seul gabarit pour tous les niveaux plutôt qu'un document distinct par niveau."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {"en": "A single template for all grades.", "fr": "Un gabarit unique pour tous les niveaux."},
+          "text": {
+            "en": "Teachers prefer a consolidated view and one sheet simplifies submission. Separate templates per grade were considered and rejected.",
+            "fr": "Les enseignants préfèrent une vue consolidée et une seule feuille simplifie la remise. Des gabarits distincts par niveau ont été envisagés puis écartés."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Email and the shared agenda",
+      "headline": {"en": "Class contact groups replace BCC", "fr": "Des groupes de contacts remplacent la copie invisible"},
+      "paragraphs": [
+        {
+          "en": "Sending to parents by blind copy has been producing delays and delivery problems. Class-specific contact groups, Grade 5, Grade 6, and so on, will be created so that a teacher writes to one group rather than assembling a list each week.",
+          "fr": "Les envois aux parents en copie conforme invisible causent des retards et des problèmes de livraison. Des groupes de contacts par classe, 5e année, 6e année, et ainsi de suite, seront créés afin que l'enseignante écrive à un seul groupe plutôt que de reconstituer une liste chaque semaine."
+        },
+        {
+          "en": "Beyond that, the school intends to move the weekly agenda to a shared online document (Google Docs or Excel). Parents would then have one continuous, viewable record of the year's work instead of a stack of separate emails.",
+          "fr": "Au-delà, l'école souhaite déplacer l'agenda hebdomadaire vers un document en ligne partagé (Google Docs ou Excel). Les parents disposeraient alors d'un relevé continu et consultable du travail de l'année, au lieu d'une pile de courriels distincts."
+        }
+      ]
+    },
+    {
+      "heading": "Transitions, hallways, supervision",
+      "headline": {"en": "Five to ten minutes lost on every floor change", "fr": "Cinq à dix minutes perdues à chaque changement d'étage"},
+      "paragraphs": [
+        {
+          "en": "Moving students between floors is costing five to ten minutes each time, most often because a child has left materials behind and has to go back for them. The team is weighing a mentor system, or closer supervision during breaks, so that students carry everything they need before the move begins.",
+          "fr": "Les déplacements entre les étages coûtent de cinq à dix minutes chaque fois, le plus souvent parce qu'un élève a oublié du matériel et doit retourner le chercher. L'équipe évalue un système de mentorat, ou une surveillance accrue pendant les pauses, pour que les élèves aient tout ce qu'il leur faut avant le déplacement."
+        },
+        {
+          "en": "Separately, students have been running and shouting in the corridors. The school will bring in hallway passes so that anyone out of class is accounted for individually.",
+          "fr": "Par ailleurs, des élèves courent et crient dans les corridors. L'école mettra en place des laissez-passer de corridor afin que tout élève hors de sa classe soit suivi individuellement."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "text": {
+            "en": "The mentor system and closer break-time supervision were both raised as ways to fix the floor transitions. Neither was adopted in the meeting; the item stays open.",
+            "fr": "Le système de mentorat et une surveillance accrue pendant les pauses ont tous deux été évoqués pour régler les déplacements entre étages. Aucun n'a été retenu en réunion ; le point reste ouvert."
+          }
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {"en": "Observe students and record significant behavioural or academic difficulties.", "fr": "Observer les élèves et consigner les difficultés comportementales ou scolaires importantes."},
+      "owner": {"en": "All teachers", "fr": "Tout le personnel enseignant"},
+      "due": {"en": "Fri 25 Sep"},
+      "note": {"en": "Feeds the communication sent to parents the same day.", "fr": "Alimente la communication envoyée aux parents le jour même."}
+    },
+    {
+      "id": "A2",
+      "action": {"en": "Send the formal communication to parents, built from teacher feedback.", "fr": "Envoyer la communication officielle aux parents, à partir des observations transmises."},
+      "owner": {"en": "Administration", "fr": "Direction"},
+      "due": {"en": "Fri 25 Sep"}
+    },
+    {
+      "id": "A3",
+      "action": {"en": "Photograph and upload student work to the portal before correcting it, Secondary 3, 4 and 5.", "fr": "Photographier et téléverser les travaux sur le portail avant de les corriger, secondaire 3, 4 et 5."},
+      "owner": {"en": "Subject teachers", "fr": "Enseignants concernés"},
+      "due": {"en": "Monday"},
+      "due_style": "soft",
+      "note": {"en": "Then continuously.", "fr": "Puis en continu."}
+    },
+    {
+      "id": "A4",
+      "action": {"en": "Submit the weekly summary on the single template.", "fr": "Remettre le résumé hebdomadaire au moyen du gabarit unique."},
+      "owner": {"en": "All teachers", "fr": "Tout le personnel enseignant"},
+      "due": {"en": "Fridays, 8:00 PM"},
+      "note": {"en": "Past week in detail; next week in outline, no page numbers.", "fr": "Semaine écoulée en détail ; semaine suivante en aperçu, sans numéros de pages."}
+    },
+    {
+      "id": "A5",
+      "action": {"en": "Create class contact groups to replace blind-copy emails to parents.", "fr": "Créer les groupes de contacts par classe pour remplacer les envois en copie invisible."},
+      "owner": {"en": "Administration", "fr": "Direction"},
+      "due": {"en": "Ongoing", "fr": "En continu"}
+    },
+    {
+      "id": "A6",
+      "action": {"en": "Issue hallway passes and account for students who are out of class.", "fr": "Distribuer les laissez-passer de corridor et suivre les élèves hors de leur classe."},
+      "owner": {"en": "Administration", "fr": "Direction"},
+      "due": {"en": "Ongoing", "fr": "En continu"}
+    },
+    {
+      "id": "A7",
+      "action": {"en": "Prepare the move of the weekly agenda to a shared online document.", "fr": "Préparer le passage de l'agenda hebdomadaire à un document en ligne partagé."},
+      "owner": {"en": "Administration", "fr": "Direction"},
+      "due": {"en": "To be set", "fr": "À déterminer"},
+      "due_style": "soft"
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Portal start date.",
+      "text": {"en": "The launch for Secondary 3, 4 and 5 was given as “Monday” without a date attached.", "fr": "Confirmer la date exacte du lancement du portail."}
+    },
+    {
+      "title": "Floor transitions.",
+      "text": {"en": "Mentor system or closer break supervision, neither was chosen, and no owner or date was assigned.", "fr": "Attribuer un responsable et une échéance."}
+    },
+    {
+      "title": "Hallway passes.",
+      "text": {"en": "The measure was agreed but the date it takes effect was not fixed in the meeting.", "fr": "Fixer la date de mise en vigueur."}
+    }
+  ]
+}
