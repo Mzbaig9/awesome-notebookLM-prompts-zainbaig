@@ -5,6 +5,8 @@ Markup allowed inside text: `<b>`, `<i>`, `<br/>`. Everything else is escaped.
 
 ```
 {
+  "language": "bilingual" | "en",                // optional, default bilingual. "en" = English only:
+                                                 //   single column, English labels, no FR fields needed
   "org": "Dar Al-'Ulum Montréal",                 // optional, default shown
   "kicker": {"en": "Weekly staff meeting", "fr": "Réunion hebdomadaire du personnel"},
   "title": {"en": "...", "fr": "..."},           // EN serif title, FR italic subtitle
@@ -51,6 +53,12 @@ Markup allowed inside text: `<b>`, `<i>`, `<br/>`. Everything else is escaped.
   "footer_mode": "last" | "all"                  // optional, default "last" (footer on final page only)
 }
 ```
+
+English-only mode: set `"language": "en"` and give every text field an `en`
+value only (`fr` keys are ignored). The page keeps the same cover block,
+section rules, callouts, pills and footer, with the body in one full-width
+column, a three-column action table (Action, Owner, Due) and no French line
+in the to-confirm items.
 
 Due style inference when `due_style` is absent: text containing a digit is
 `fixed` (amber pill), text containing "ongoing" or "continu" is `ongoing`

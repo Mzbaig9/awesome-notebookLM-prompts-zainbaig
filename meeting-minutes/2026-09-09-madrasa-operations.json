@@ -1,0 +1,316 @@
+{
+  "language": "en",
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Madrasa operations meeting"
+  },
+  "title": {
+    "en": "Madrasa Afternoons: Cover, Delegation and Supervision"
+  },
+  "date": {
+    "en": "Wednesday 9 Sep 2026",
+    "short": "9 Sep 2026"
+  },
+  "meeting": {
+    "en": "Operations check-in"
+  },
+  "chair": {
+    "en": "Principal"
+  },
+  "present": {
+    "en": "Principal, madrasa supervisor"
+  },
+  "sections": [
+    {
+      "heading": "Workload and the Tuesday slots",
+      "headline": {
+        "en": "Thirty-plus students in one slot needs a second adult who stays"
+      },
+      "paragraphs": [
+        {
+          "en": "The madrasa supervisor described the afternoons as overwhelming: every question, request and problem in the building routes through one person, and in the largest slots there are thirty or more students at once. Tuesday is the worst case, with <b>32 to 33 students between 14:00 and 16:00</b>. New students are quiet for the first weeks; once they settle in, one instructor cannot hold a group that size alone, and the second instructor in the room does not carry it firmly enough on his own."
+        },
+        {
+          "en": "Cover thins out further at the end of the day. Both instructors leave for Salah, and Muhammad leaves at 16:00 to collect his children, so there are stretches with no instructor in the room. The principal will ask Muhammad to stay <b>until 16:00 on Tuesdays and Thursdays</b>, since he is already on site to collect his child at that time. If he cannot, the principal will look for someone else and the supervisor should not carry those slots alone in the meantime."
+        }
+      ]
+    },
+    {
+      "heading": "Dismissal cover",
+      "headline": {
+        "en": "Academic teachers come down before 16:00 and stay with their group"
+      },
+      "paragraphs": [
+        {
+          "en": "At dismissal the supervisor cannot be upstairs and downstairs at the same time. Academic teachers run past the end of their lesson, bring the students down late, and leave them with the instructor, who is then managing the whole floor alone. Reminders worked poorly last year because they were occasional; this year the principal meets the academic team regularly and will raise it again at the next meeting, and the supervisor should bring it up as well whenever it repeats week after week."
+        },
+        {
+          "en": "The rule already given to the academic team this week: <b>come down before 16:00 and stay with the students until 16:00</b>. On a rotation, one teacher stays until <b>16:15</b> for the closing, once or twice a week, so the instructor is never covering the exit by himself. Cover for Thursday and Friday afternoons is thinner, with one teacher gone and another leaving early on Thursday; Brother Anas is the most flexible person on the team and the one to ask when someone is needed on the fly."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "reminder",
+          "lead": {
+            "en": "The supervisor stays downstairs at dismissal."
+          },
+          "text": {
+            "en": "Going up to fetch late groups is not the supervisor's job. The academic teachers are responsible for bringing everyone down on time; the principal will supply the written version of what was agreed with them."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Delegation and Sabak Sawal",
+      "headline": {
+        "en": "Divide the students among the instructors, rotate monthly"
+      },
+      "paragraphs": [
+        {
+          "en": "The principle the principal set out is delegation with supervision: hand the routine task to someone, keep checking that it is done properly, and treat the arrangement as a trial that can be adjusted. The first task to delegate is Sabak tracking, which can go to the assisting instructor while the supervisor checks in rather than doing it."
+        },
+        {
+          "en": "For Sabak Sawal, the girls' section already runs a <b>taqseem</b>: each instructor is given a list of eight to ten students and is responsible for making sure each of them has recited by a set time. Students currently delay until break, then until 14:00, and no one person can keep every student's status in mind. With a named instructor and a time attached to each student, a missed day is caught on day one instead of day three. The taqseem is to be <b>rotated every month</b>. The supervisor already keeps a plan for certain students who need watching and will add the others to it; the list can be written up by the scribe and passed to the principal rather than drafted by the supervisor."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Sabak Sawal by taqseem."
+          },
+          "text": {
+            "en": "Eight to ten students per instructor, a deadline for each student's recitation, the division rotated monthly. The supervisor sets it up however works best; the principal only needs to know where each student is."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Crisis management, not everything",
+      "headline": {
+        "en": "The supervisor's job is crisis management and quality control"
+      },
+      "paragraphs": [
+        {
+          "en": "The principal defined the supervisor's priority as crisis management first and overall quality control second. Anything mundane that can be moved away from the supervisor should be, so that when a real problem lands there is capacity for it. Water, washroom, schedule questions and small academic queries do not belong on that desk."
+        },
+        {
+          "en": "When someone repeatedly brings the supervisor a problem they could have solved, name the pattern and push it back: ask what they looked at before coming, and whether the supervisor genuinely had to be involved. A parent calling to ask whether a child is still on site is redirected to the <b>secretary</b>, who calls the supervisor in charge and calls the parent back. Persistent cases should be brought to these meetings so the principal can deal with them."
+        }
+      ]
+    },
+    {
+      "heading": "Bathroom pass",
+      "headline": {
+        "en": "One pass on the desk, starting today"
+      },
+      "paragraphs": [
+        {
+          "en": "Bathroom requests move off the supervisor immediately. From today the classroom instructor handles them, mornings and afternoons. The mechanism is a single <b>bathroom pass kept on the desk</b>: a student takes the pass, goes, comes back and sits down, and the next student takes it. No one asks, no one waits at the door."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Bathroom pass in effect today."
+          },
+          "text": {
+            "en": "Handled by the instructor in the room, never by the supervisor. Students use the pass on the desk without asking."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Space and break supervision",
+      "headline": {
+        "en": "Use the other half of the hall; supervise standing, not sitting"
+      },
+      "paragraphs": [
+        {
+          "en": "The supervisor asked to use the other side of the hall when numbers are high, even though the aim is to keep everyone on one half where they can be seen. The principal agreed: when there are a lot of students, the second half is available if it is not otherwise in use."
+        },
+        {
+          "en": "At recess this week the whole hall stood empty while four teachers said they were free and no one was with the students. Supervision is to be done <b>standing and moving</b>, with two teachers sent to cover the break rather than everyone sitting, and the team is expected to be proactive about it. The break is fifteen minutes, though by the time students settle they sit for closer to seven. The principal will raise this at Monday's meeting."
+        }
+      ]
+    },
+    {
+      "heading": "Lunch supervision and the daily walk",
+      "headline": {
+        "en": "Named lunch supervisors, and everyone goes outside"
+      },
+      "paragraphs": [
+        {
+          "en": "Lunch supervision has had no differentiation: everyone is nominally on and no one owns it. It will now be assigned by <b>name and date</b>, and that person carries it as their responsibility whether or not the principal is present or watching."
+        },
+        {
+          "en": "Lunch has grown from twenty minutes to twenty-five and now to <b>forty</b>, which leaves room for fifteen minutes to eat and up to thirty minutes outside. Whenever the sky is clear, including in winter, the supervising teacher takes the students out for a walk around the block or to the market area to stretch and come back. It is not optional, and it applies to every student: no one stays in. The principal suggested the instruction will land better if it comes from the supervisor at Monday's meeting."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Everyone goes out at lunch when the weather allows."
+          },
+          "text": {
+            "en": "Fifteen minutes to eat, then a supervised walk of up to thirty minutes. Rain or snow is the only exception; a student's preference is not."
+          }
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Ask Muhammad to stay until 16:00 on Tuesdays and Thursdays; find alternative cover if he cannot."
+      },
+      "owner": {
+        "en": "Principal"
+      },
+      "due": {
+        "en": "This week"
+      }
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Raise dismissal timing with the academic team again: down before 16:00, stay until 16:00, one teacher to 16:15 on rotation."
+      },
+      "owner": {
+        "en": "Principal"
+      },
+      "due": {
+        "en": "Next team meeting"
+      }
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Give the supervisor the written version of this week's decisions with the academic team."
+      },
+      "owner": {
+        "en": "Principal"
+      },
+      "due": {
+        "en": "This week"
+      }
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Draw up the Sabak Sawal taqseem: eight to ten students per instructor with a recitation deadline. Scribe writes it up, copy to the principal."
+      },
+      "owner": {
+        "en": "Madrasa supervisor"
+      },
+      "due": {
+        "en": "This week"
+      },
+      "note": {
+        "en": "Then rotate the division monthly."
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Delegate Sabak tracking to the assisting instructor and check in rather than do it."
+      },
+      "owner": {
+        "en": "Madrasa supervisor"
+      },
+      "due": {
+        "en": "This week"
+      }
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Put the bathroom pass on the desk; instructors handle bathroom requests, mornings and afternoons."
+      },
+      "owner": {
+        "en": "Madrasa supervisor"
+      },
+      "due": {
+        "en": "Wed 9 Sep"
+      }
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Redirect parent presence calls to the secretary; note repeated problem-dumping and bring it to these meetings."
+      },
+      "owner": {
+        "en": "Madrasa supervisor"
+      },
+      "due": {
+        "en": "Ongoing"
+      }
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Use the second half of the hall when numbers are high and the space is free."
+      },
+      "owner": {
+        "en": "Madrasa supervisor"
+      },
+      "due": {
+        "en": "As needed"
+      }
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Assign lunch supervision by name and date."
+      },
+      "owner": {
+        "en": "Administration"
+      },
+      "due": {
+        "en": "Mon 14 Sep"
+      }
+    },
+    {
+      "id": "A10",
+      "action": {
+        "en": "Raise at Monday's meeting: standing supervision at recess, two teachers on break duty, named lunch supervisors, mandatory lunchtime walk."
+      },
+      "owner": {
+        "en": "Madrasa supervisor, principal"
+      },
+      "due": {
+        "en": "Mon 14 Sep"
+      }
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Thursday and Friday cover.",
+      "text": {
+        "en": "Who covers the late afternoon on each day is unclear in the transcript: one teacher has left, another leaves early on Thursday, and Brother Anas was mentioned for Friday. Assign a name per day."
+      }
+    },
+    {
+      "title": "Tuesday slot times.",
+      "text": {
+        "en": "Both 14:00 to 16:00 and 15:00 to 16:00 were mentioned for the thirty-plus group. Confirm the slot the extra cover is meant for."
+      }
+    },
+    {
+      "title": "Closing rotation.",
+      "text": {
+        "en": "The 16:15 closing was described as once a week and as at least twice. Fix the number of days and who takes them."
+      }
+    },
+    {
+      "title": "Sabak delegate.",
+      "text": {
+        "en": "The name of the instructor who takes over Sabak tracking is garbled in the transcript."
+      }
+    }
+  ],
+  "footer": "Dar Al-'Ulum Montréal · Meeting Minutes"
+}

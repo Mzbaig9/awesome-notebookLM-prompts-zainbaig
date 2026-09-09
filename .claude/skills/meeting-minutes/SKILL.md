@@ -35,7 +35,10 @@ shows the tone, the density and the French register better than any rule.
    repetition and half-sentences.
 3. **Write the content JSON.** Follow `references/writing-guide.md` for voice
    and structure and `references/content-schema.md` for the fields. Write the
-   English and French as two real texts, not a literal translation. Save it as
+   English and French as two real texts, not a literal translation. When the
+   user asks for English only (a one-on-one, an internal operations check-in,
+   "just English"), set `"language": "en"` and fill only the `en` fields; the
+   renderer switches to a single full-width column with English labels. Save it as
    `meeting-minutes/YYYY-MM-DD-<slug>.json` when working inside a repo that has
    that folder, otherwise next to the input file.
 4. **Render.** `python3 <skill>/scripts/build_minutes.py content.json -o out.pdf`

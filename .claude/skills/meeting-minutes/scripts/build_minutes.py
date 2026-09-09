@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 """
-Render Dar Al-'Ulum Montréal staff meeting minutes (bilingual EN/FR) to PDF.
+Render Dar Al-'Ulum Montréal staff meeting minutes to PDF.
 
 Usage:
     python3 build_minutes.py content.json -o minutes.pdf
+
+Two modes, chosen by the "language" key in the JSON:
+    "bilingual" (default): English left, French right, bilingual labels.
+    "en": English only, single column, English labels.
 
 The JSON schema is documented in ../references/content-schema.md and
 illustrated by ../references/example-2026-09-02.json. Fonts are bundled in
@@ -42,8 +46,15 @@ CONTENT_W = PAGE_W - 2 * MARGIN          # 526.4
 COL_W = 247.2                            # each bilingual column
 GUTTER = CONTENT_W - 2 * COL_W           # 32
 HALF = CONTENT_W / 2                     # 263.2, column incl. half gutter
+FRAME_H = PAGE_H - 36 - 72
 
 FONT_DIR = Path(__file__).resolve().parent.parent / "assets" / "fonts"
+
+MODE = {"en_only": False}                # set from the JSON "language" key
+
+
+def bilingual():
+    return not MODE["en_only"]
 
 
 def register_fonts():
@@ -113,6 +124,14 @@ def L(obj, lang):
     return obj.get(lang, "") or ""
 
 
+def both(obj, sep=" / "):
+    """'EN / FR' in bilingual mode, 'EN' in English-only mode."""
+    en, fr = L(obj, "en"), L(obj, "fr")
+    if bilingual() and fr and fr != en:
+        return f"{en}{sep}{fr}"
+    return en
+
+
 # ---------------------------------------------------------------- flowables
 class Mono(Flowable):
     """Small tracked monospace label (kickers, column labels, pills)."""
@@ -169,19 +188,27 @@ class Rule(Flowable):
         c.rect(0, self.sa, self.width, self.t, stroke=0, fill=1)
 
 
-# ---------------------------------------------------------------- builders
+# ---------------------------------------------------------------- header
 def header_block(d):
-    kicker = f"{d.get('org', 'Dar Al-’Ulum Montréal')} · {L(d.get('kicker'), 'en')} / {L(d.get('kicker'), 'fr')}"
+    org = d.get("org", "Dar Al-'Ulum Montréal")
+    kicker = f"{org} · {both(d.get('kicker'))}"
     out = [Mono(kicker, size=8.2, color=GREEN), Spacer(1, 12),
-           P(L(d["title"], "en"), ST["title"]), Spacer(1, 6),
-           P(L(d["title"], "fr"), ST["subtitle"]), Spacer(1, 16)]
+           P(L(d["title"], "en"), ST["title"])]
+    if bilingual() and L(d["title"], "fr"):
+        out += [Spacer(1, 6), P(L(d["title"], "fr"), ST["subtitle"])]
+    out.append(Spacer(1, 16))
 
     cells = []
-    for key, label in (("date", "Date"), ("meeting", "Meeting / Réunion"),
-                       ("chair", "Chair / Présidence"), ("present", "Present / Présents")):
+    for key, en_label, bi_label in (("date", "Date", "Date"),
+                                    ("meeting", "Meeting", "Meeting / Réunion"),
+                                    ("chair", "Chair", "Chair / Présidence"),
+                                    ("present", "Present", "Present / Présents")):
         v = d.get(key, {})
-        cells.append([Mono(label, size=7.5), Spacer(1, 5),
-                      P(L(v, "en"), ST["meta_en"]), P(L(v, "fr"), ST["meta_fr"])])
+        cell = [Mono(bi_label if bilingual() else en_label, size=7.5), Spacer(1, 5),
+                P(L(v, "en"), ST["meta_en"])]
+        if bilingual():
+            cell.append(P(L(v, "fr"), ST["meta_fr"]))
+        cells.append(cell)
     w = CONTENT_W / 4
     t = Table([cells], colWidths=[w] * 4)
     t.setStyle(TableStyle([
@@ -200,6 +227,7 @@ def section_header(n, heading):
             Rule(RULE, 0.8), Spacer(1, 14)]
 
 
+# ---------------------------------------------------------------- sections
 COL_STYLE = [
     ("VALIGN", (0, 0), (-1, -1), "TOP"),
     ("LINEAFTER", (0, 0), (0, -1), 0.8, HAIR),
@@ -207,97 +235,74 @@ COL_STYLE = [
     ("LEFTPADDING", (1, 0), (1, -1), GUTTER / 2), ("RIGHTPADDING", (1, 0), (1, -1), 0),
     ("TOPPADDING", (0, 0), (-1, -1), 0),
 ]
+ONE_COL_STYLE = [
+    ("VALIGN", (0, 0), (-1, -1), "TOP"),
+    ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+    ("TOPPADDING", (0, 0), (-1, -1), 0),
+]
 
 
 def _label_and_headline(sec, lang):
-    return [Mono("English" if lang == "en" else "Français"), Spacer(1, 10),
-            P(L(sec.get("headline"), lang), ST["headline"])]
+    items = []
+    if bilingual():
+        items += [Mono("English" if lang == "en" else "Français"), Spacer(1, 10)]
+    items.append(P(L(sec.get("headline"), lang), ST["headline"]))
+    return items
+
+
+def _column(sec, lang):
+    items = _label_and_headline(sec, lang) + [Spacer(1, 9)]
+    for i, para in enumerate(sec.get("paragraphs", [])):
+        if i:
+            items.append(Spacer(1, 9))
+        items.append(P(L(para, lang), ST["body"]))
+    return items
 
 
 def atomic_columns(sec):
-    """One row, two independent cells: paragraph spacing is per column."""
-    def col(lang):
-        items = _label_and_headline(sec, lang) + [Spacer(1, 9)]
-        for i, para in enumerate(sec.get("paragraphs", [])):
-            if i:
-                items.append(Spacer(1, 9))
-            items.append(P(L(para, lang), ST["body"]))
-        return items
-    t = Table([[col("en"), col("fr")]], colWidths=[HALF, HALF])
-    t.setStyle(TableStyle(COL_STYLE + [("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
+    """Whole body in one table row: paragraph spacing is independent per column."""
+    if bilingual():
+        t = Table([[_column(sec, "en"), _column(sec, "fr")]], colWidths=[HALF, HALF])
+        t.setStyle(TableStyle(COL_STYLE + [("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
+    else:
+        t = Table([[_column(sec, "en")]], colWidths=[CONTENT_W])
+        t.setStyle(TableStyle(ONE_COL_STYLE + [("BOTTOMPADDING", (0, 0), (-1, -1), 0)]))
     return t
 
 
 def split_table(n, sec):
     """Whole section as one table platypus can break between rows.
 
-    Row 0 spans both columns and carries the numbered header; row 1 the
-    language labels and headlines; one row per paragraph pair after that.
+    Row 0 spans the width and carries the numbered header; row 1 the
+    labels and headlines; one row per paragraph after that.
     """
     paras = sec.get("paragraphs", [])
     header = section_header(n, L(sec.get("heading"), "en"))[:-1]   # drop trailing spacer
-    rows = [[header, ""],
-            [_label_and_headline(sec, "en"), _label_and_headline(sec, "fr")]]
-    rows += [[P(L(p, "en"), ST["body"]), P(L(p, "fr"), ST["body"])] for p in paras]
-    t = Table(rows, colWidths=[HALF, HALF], splitByRow=1)
-    t.setStyle(TableStyle([
-        ("VALIGN", (0, 0), (-1, -1), "TOP"),
-        ("SPAN", (0, 0), (1, 0)),
-        ("LINEAFTER", (0, 1), (0, -1), 0.8, HAIR),
-        ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0),
-        ("RIGHTPADDING", (0, 1), (0, -1), GUTTER / 2),
-        ("LEFTPADDING", (1, 1), (1, -1), GUTTER / 2),
-        ("TOPPADDING", (0, 0), (-1, -1), 0),
-        ("BOTTOMPADDING", (0, 0), (-1, -1), 9),
-        ("BOTTOMPADDING", (0, 0), (-1, 0), 14),
-    ]))
+    if bilingual():
+        rows = [[header, ""],
+                [_label_and_headline(sec, "en"), _label_and_headline(sec, "fr")]]
+        rows += [[P(L(p, "en"), ST["body"]), P(L(p, "fr"), ST["body"])] for p in paras]
+        t = Table(rows, colWidths=[HALF, HALF], splitByRow=1)
+        t.setStyle(TableStyle([
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("SPAN", (0, 0), (1, 0)),
+            ("LINEAFTER", (0, 1), (0, -1), 0.8, HAIR),
+            ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+            ("RIGHTPADDING", (0, 1), (0, -1), GUTTER / 2),
+            ("LEFTPADDING", (1, 1), (1, -1), GUTTER / 2),
+            ("TOPPADDING", (0, 0), (-1, -1), 0),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 9),
+            ("BOTTOMPADDING", (0, 0), (-1, 0), 14),
+        ]))
+    else:
+        rows = [[header], [_label_and_headline(sec, "en")]]
+        rows += [[P(L(p, "en"), ST["body"])] for p in paras]
+        t = Table(rows, colWidths=[CONTENT_W], splitByRow=1)
+        t.setStyle(TableStyle(ONE_COL_STYLE + [
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 9),
+            ("BOTTOMPADDING", (0, 0), (-1, 0), 14),
+        ]))
     return t
-
-
-class Section(Flowable):
-    """A numbered topic: header, bilingual body, callouts.
-
-    Drawn as one block when it fits. When it does not, the section moves to
-    the next page if the space left is small (under MIN_SPLIT), otherwise it
-    falls back to a paragraph-by-paragraph table that platypus splits.
-    """
-    MIN_SPLIT = 200
-
-    def __init__(self, n, sec):
-        super().__init__()
-        self.n, self.sec = n, sec
-        self.header = section_header(n, L(sec.get("heading"), "en"))
-        self.callouts = []
-        for c in sec.get("callouts", []):
-            self.callouts += [Spacer(1, 16), callout_pair(c)]
-        self.parts = self.header + [atomic_columns(sec)] + self.callouts
-
-    def wrap(self, aw, ah):
-        self.width = aw
-        self._heights = [f.wrap(aw, ah)[1] for f in self.parts]
-        self.height = sum(self._heights)
-        return aw, self.height
-
-    def split(self, aw, ah):
-        frame_h = PAGE_H - 36 - 72
-        if ah < self.MIN_SPLIT and self.height <= frame_h:
-            return []                        # push the whole section to the next page
-        t = split_table(self.n, self.sec)
-        t.wrap(aw, ah)
-        # never leave the header or the headline alone at the foot of a page
-        if sum(t._rowHeights[:3]) > ah:
-            return []
-        return [t] + self.callouts
-
-    def draw(self):
-        y = self.height
-        for f, h in zip(self.parts, self._heights):
-            y -= h
-            f.drawOn(self.canv, 0, y)
-
-
-def section(n, sec):
-    return [Section(n, sec)]
 
 
 CALLOUT_LABELS = {
@@ -321,18 +326,65 @@ def callout_pair(c):
         txt = (f"<b>{lead}</b> " if lead else "") + body
         return [Mono(label, font="Mono-Medium", color=GREEN), Spacer(1, 8), P(txt, ST["callout"])]
 
-    t = Table([[cell("en", en_label), "", cell("fr", fr_label)]],
-              colWidths=[COL_W, GUTTER, COL_W])
+    if bilingual():
+        t = Table([[cell("en", en_label), "", cell("fr", fr_label)]],
+                  colWidths=[COL_W, GUTTER, COL_W])
+        boxes = (0, 2)
+    else:
+        t = Table([[cell("en", en_label)]], colWidths=[CONTENT_W])
+        boxes = (0,)
     st = [("VALIGN", (0, 0), (-1, -1), "TOP"),
           ("LEFTPADDING", (0, 0), (-1, -1), 12), ("RIGHTPADDING", (0, 0), (-1, -1), 12),
           ("TOPPADDING", (0, 0), (-1, -1), 10), ("BOTTOMPADDING", (0, 0), (-1, -1), 12)]
-    for col in (0, 2):
+    for col in boxes:
         st += [("BOX", (col, 0), (col, 0), 0.75, HAIR),
                ("LINEBEFORE", (col, 0), (col, 0), 2.2, GREEN)]
     t.setStyle(TableStyle(st))
     return t
 
 
+class Section(Flowable):
+    """A numbered topic: header, body, callouts.
+
+    Drawn as one block when it fits. When it does not, the section moves to
+    the next page if the space left is small (under MIN_SPLIT), otherwise it
+    falls back to a paragraph-by-paragraph table that platypus splits.
+    """
+    MIN_SPLIT = 200
+
+    def __init__(self, n, sec):
+        super().__init__()
+        self.n, self.sec = n, sec
+        self.header = section_header(n, L(sec.get("heading"), "en"))
+        self.callouts = []
+        for c in sec.get("callouts", []):
+            self.callouts += [Spacer(1, 16), callout_pair(c)]
+        self.parts = self.header + [atomic_columns(sec)] + self.callouts
+
+    def wrap(self, aw, ah):
+        self.width = aw
+        self._heights = [f.wrap(aw, ah)[1] for f in self.parts]
+        self.height = sum(self._heights)
+        return aw, self.height
+
+    def split(self, aw, ah):
+        if ah < self.MIN_SPLIT and self.height <= FRAME_H:
+            return []                        # push the whole section to the next page
+        t = split_table(self.n, self.sec)
+        t.wrap(aw, ah)
+        # never leave the header or the headline alone at the foot of a page
+        if sum(t._rowHeights[:3]) > ah:
+            return []
+        return [t] + self.callouts
+
+    def draw(self):
+        y = self.height
+        for f, h in zip(self.parts, self._heights):
+            y -= h
+            f.drawOn(self.canv, 0, y)
+
+
+# ---------------------------------------------------------------- actions
 PILL = {
     "fixed": (AMBER, PILL_AMBER),   # a real date or deadline
     "soft": (GREEN, PILL_GREEN),    # a day without a date, or "to be set"
@@ -353,48 +405,48 @@ def due_style(a):
 
 
 def action_table(actions):
-    head = [Mono("ID"), Mono("Action"), Mono("Action (FR)"),
-            Mono("Owner / Responsable"), Mono("Due / Échéance")]
+    if bilingual():
+        head = [Mono("ID"), Mono("Action"), Mono("Action (FR)"),
+                Mono("Owner / Responsable"), Mono("Due / Échéance")]
+        widths = [27.2, 113, 117, 111.7, CONTENT_W - 27.2 - 113 - 117 - 111.7]
+    else:
+        head = [Mono("ID"), Mono("Action"), Mono("Owner"), Mono("Due")]
+        widths = [27.2, 250, 100, CONTENT_W - 27.2 - 250 - 100]
+    due_w = widths[-1] - 10
     rows = [head]
     for a in actions:
         color, bg = PILL[due_style(a)]
         due = a.get("due")
-        due_txt = L(due, "en") if isinstance(due, dict) else (due or "")
-        if isinstance(due, dict) and due.get("fr") and due["fr"] != due["en"]:
-            due_txt = f"{due['en']} / {due['fr']}"
-        due_w = CONTENT_W - 27.2 - 113 - 117 - 111.7 - 10
+        due_txt = both(due) if isinstance(due, dict) else (due or "")
         pill = Mono(due_txt, size=9, color=color, tracking=0, upper=False, bg=bg)
         extra_note = ""
-        if pill.text_width() + 12 > due_w and isinstance(due, dict) and due.get("fr"):
+        if pill.text_width() + 12 > due_w and isinstance(due, dict) and due.get("fr") and bilingual():
             # too wide for the column: EN alone in the pill, FR moves to the note line
             pill = Mono(due["en"], size=9, color=color, tracking=0, upper=False, bg=bg)
             extra_note = due["fr"]
         due_cell = [pill]
-        note = a.get("note")
-        n_txt = ""
-        if note:
-            n_en, n_fr = L(note, "en"), L(note, "fr")
-            n_txt = n_en + (f" / {n_fr}" if n_fr and n_fr != n_en else "")
+        n_txt = both(a.get("note")) if a.get("note") else ""
         if extra_note:
             n_txt = extra_note + (f". {n_txt}" if n_txt else "")
         if n_txt:
             due_cell += [Spacer(1, 6), P(n_txt, ST["note"])]
-        rows.append([
-            Mono(a.get("id", ""), size=9, color=GREEN, tracking=0, upper=False),
-            P(L(a.get("action"), "en"), ST["act_en"]),
-            P(L(a.get("action"), "fr"), ST["act_fr"]),
-            [P(L(a.get("owner"), "en"), ST["owner_en"]), P(L(a.get("owner"), "fr"), ST["act_fr"])],
-            due_cell,
-        ])
-    widths = [27.2, 113, 117, 111.7, CONTENT_W - 27.2 - 113 - 117 - 111.7]
+        owner = [P(L(a.get("owner"), "en"), ST["owner_en"])]
+        if bilingual():
+            owner.append(P(L(a.get("owner"), "fr"), ST["act_fr"]))
+        row = [Mono(a.get("id", ""), size=9, color=GREEN, tracking=0, upper=False),
+               P(L(a.get("action"), "en"), ST["act_en"])]
+        if bilingual():
+            row.append(P(L(a.get("action"), "fr"), ST["act_fr"]))
+        row += [owner, due_cell]
+        rows.append(row)
     t = Table(rows, colWidths=widths, repeatRows=1, splitByRow=1)
-    st = [("VALIGN", (0, 0), (-1, -1), "TOP"),
-          ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 10),
-          ("TOPPADDING", (0, 0), (-1, 0), 0), ("BOTTOMPADDING", (0, 0), (-1, 0), 8),
-          ("LINEBELOW", (0, 0), (-1, 0), 0.8, RULE),
-          ("TOPPADDING", (0, 1), (-1, -1), 10), ("BOTTOMPADDING", (0, 1), (-1, -1), 12),
-          ("LINEBELOW", (0, 1), (-1, -1), 0.8, HAIR)]
-    t.setStyle(TableStyle(st))
+    t.setStyle(TableStyle([
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 10),
+        ("TOPPADDING", (0, 0), (-1, 0), 0), ("BOTTOMPADDING", (0, 0), (-1, 0), 8),
+        ("LINEBELOW", (0, 0), (-1, 0), 0.8, RULE),
+        ("TOPPADDING", (0, 1), (-1, -1), 10), ("BOTTOMPADDING", (0, 1), (-1, -1), 12),
+        ("LINEBELOW", (0, 1), (-1, -1), 0.8, HAIR)]))
     return t
 
 
@@ -402,21 +454,26 @@ def actions_block(d):
     acts = d.get("actions", [])
     if not acts:
         return []
-    return [PageBreak(), Rule(INK, 1.6), Spacer(1, 12),
-            P("Action items", ST["h2"]), P("Suivis et responsabilités", ST["h2_fr"]),
-            Spacer(1, 18), action_table(acts)]
+    out = [PageBreak(), Rule(INK, 1.6), Spacer(1, 12), P("Action items", ST["h2"])]
+    if bilingual():
+        out.append(P("Suivis et responsabilités", ST["h2_fr"]))
+    return out + [Spacer(1, 18), action_table(acts)]
 
 
+# ---------------------------------------------------------------- to confirm
 def confirm_block(d):
     items = d.get("to_confirm", [])
     if not items:
         return []
 
     def item(it):
-        body = f"<b>{it.get('title', '')}</b> {L(it.get('text'), 'en')}" if it.get("title") else L(it.get("text"), "en")
-        inner = Table([[[P(body, ST["confirm"]), Spacer(1, 6),
-                          P(L(it.get("text"), "fr") or it.get("fr", ""), ST["confirm_fr"])]]],
-                      colWidths=[COL_W])
+        en = L(it.get("text"), "en")
+        body = f"<b>{it.get('title', '')}</b> {en}" if it.get("title") else en
+        content = [P(body, ST["confirm"])]
+        fr = L(it.get("text"), "fr") or it.get("fr", "")
+        if bilingual() and fr:
+            content += [Spacer(1, 6), P(fr, ST["confirm_fr"])]
+        inner = Table([[content]], colWidths=[COL_W])
         inner.setStyle(TableStyle([
             ("LINEBEFORE", (0, 0), (0, 0), 2.2, AMBER),
             ("LEFTPADDING", (0, 0), (-1, -1), 12), ("RIGHTPADDING", (0, 0), (-1, -1), 8),
@@ -434,15 +491,16 @@ def confirm_block(d):
         ("VALIGN", (0, 0), (-1, -1), "TOP"),
         ("LEFTPADDING", (0, 0), (-1, -1), 0), ("RIGHTPADDING", (0, 0), (-1, -1), 0),
         ("TOPPADDING", (0, 0), (-1, -1), 0), ("BOTTOMPADDING", (0, 0), (-1, -1), 18)]))
-    return [KeepTogether([Spacer(1, 20), Rule(RULE, 0.8), Spacer(1, 18),
-                          P("To confirm before circulating", ST["h3"]),
-                          P("À confirmer avant diffusion", ST["h3_fr"]),
-                          Spacer(1, 16), grid])]
+    head = [Spacer(1, 20), Rule(RULE, 0.8), Spacer(1, 18),
+            P("To confirm before circulating", ST["h3"])]
+    if bilingual():
+        head.append(P("À confirmer avant diffusion", ST["h3_fr"]))
+    return [KeepTogether(head + [Spacer(1, 16), grid])]
 
 
 # ---------------------------------------------------------------- document
 class FooterCanvas(rl_canvas.Canvas):
-    """Draws the footer on the last page (or every page when footer == 'all')."""
+    """Draws the footer on the last page (or every page when footer_mode == 'all')."""
     footer_left = ""
     footer_right = ""
     mode = "last"
@@ -481,25 +539,28 @@ class FooterCanvas(rl_canvas.Canvas):
 
 
 def build(d, out):
+    MODE["en_only"] = str(d.get("language", "bilingual")).lower() in ("en", "english")
     register_fonts()
     story = header_block(d)
     for i, sec in enumerate(d.get("sections", []), 1):
         if i > 1:
             story.append(Spacer(1, 18))
-        story += section(i, sec)
+        story.append(Section(i, sec))
     story += actions_block(d)
     story += confirm_block(d)
 
+    org = d.get("org", "Dar Al-'Ulum Montréal")
     date_short = L(d.get("date"), "short") if isinstance(d.get("date"), dict) else ""
-    FooterCanvas.footer_left = d.get("footer", f"{d.get('org', 'Dar Al-’Ulum Montréal')} · Staff Meeting Minutes / Procès-verbal")
+    default_footer = f"{org} · Staff Meeting Minutes" + (" / Procès-verbal" if bilingual() else "")
+    FooterCanvas.footer_left = d.get("footer", default_footer)
     FooterCanvas.footer_right = date_short
     FooterCanvas.mode = d.get("footer_mode", "last")
 
     doc = BaseDocTemplate(str(out), pagesize=letter,
                           leftMargin=MARGIN, rightMargin=MARGIN, topMargin=36, bottomMargin=72,
-                          title=f"Staff Meeting Minutes / Procès-verbal — {date_short}",
-                          author=d.get("org", "Dar Al-'Ulum Montréal"))
-    frame = Frame(MARGIN, 72, CONTENT_W, PAGE_H - 36 - 72, leftPadding=0, rightPadding=0,
+                          title=f"{'Staff Meeting Minutes' if not bilingual() else 'Staff Meeting Minutes / Procès-verbal'} — {date_short}",
+                          author=org)
+    frame = Frame(MARGIN, 72, CONTENT_W, FRAME_H, leftPadding=0, rightPadding=0,
                   topPadding=0, bottomPadding=0, id="main")
     doc.addPageTemplates([PageTemplate(id="main", frames=[frame])])
     doc.build(story, canvasmaker=FooterCanvas)
