@@ -18,7 +18,7 @@
     "en": "Principal"
   },
   "present": {
-    "en": "Principal, Maulana Nisar (madrasa supervisor)"
+    "en": "Principal, Maulana Nisar (Head of Hifz)"
   },
   "sections": [
     {
@@ -28,7 +28,7 @@
       },
       "paragraphs": [
         {
-          "en": "Maulana Nisar described the madrasa afternoons as overwhelming: every question, request and problem in the building routes through one person, and in the largest slots there are thirty or more students at once. Tuesday is the worst case, with <b>32 to 33 students between 14:00 and 16:00</b>. New students are quiet for the first weeks; once they settle in, one instructor cannot hold a group that size alone, and the second instructor in the room does not carry it firmly enough on his own."
+          "en": "Maulana Nisar described the madrasa afternoons as overwhelming: every question, request and problem in the building routes through one person, and in the largest slots there are thirty or more students at once. Tuesday is the worst case, with <b>32 to 33 students between 14:00 and 16:00</b>. New students are quiet for the first weeks; once they settle in, one instructor cannot hold a group that size alone, and the second instructor in the room, Mufti Masrur, does not hold the group firmly enough on his own."
         },
         {
           "en": "Cover thins out further in the afternoon. Both instructors leave for Salah, and Maulana Harun leaves at 14:00 to collect his children, so there are stretches with no instructor in the room. The principal will ask Maulana Harun to stay <b>until 16:00 on Tuesdays and Thursdays</b>, since he comes to collect his child anyway. If he cannot, the principal will look for someone else and Maulana Nisar should not carry those slots alone in the meantime."
@@ -42,7 +42,7 @@
       },
       "paragraphs": [
         {
-          "en": "At dismissal the supervisor cannot be upstairs and downstairs at the same time. Academic teachers run past the end of their lesson, bring the students down late, and leave them with the instructor, who is then managing the whole floor alone. Reminders worked poorly last year because they were occasional; this year the principal meets the academic team regularly and will raise it again at the next meeting, and the supervisor should bring it up as well whenever it repeats week after week."
+          "en": "At dismissal the Head of Hifz cannot be upstairs and downstairs at the same time. Academic teachers run past the end of their lesson, bring the students down late, and leave them with the instructor, who is then managing the whole floor alone. Reminders worked poorly last year because they were occasional; this year the principal meets the academic team regularly and will raise it again at the next meeting, and Maulana Nisar should bring it up as well whenever it repeats week after week."
         },
         {
           "en": "The rule already given to the academic team this week: <b>come down before 16:00 and stay with the students until 16:00</b>. On a rotation, one teacher stays until <b>16:15</b> for the closing, once or twice a week, so the instructor is never covering the exit by himself. Cover for Thursday and Friday afternoons is thinner, with one teacher gone and another leaving early on Thursday; Brother Anas is the most flexible person on the team and the one to ask when someone is needed on the fly."
@@ -52,35 +52,35 @@
         {
           "type": "reminder",
           "lead": {
-            "en": "The supervisor stays downstairs at dismissal."
+            "en": "The Head of Hifz stays downstairs at dismissal."
           },
           "text": {
-            "en": "Going up to fetch late groups is not the supervisor's job. The academic teachers are responsible for bringing everyone down on time; the principal will supply the written version of what was agreed with them."
+            "en": "Going up to fetch late groups is not Maulana Nisar's job. The academic teachers are responsible for bringing everyone down on time; the principal will supply the written version of what was agreed with them."
           }
         }
       ]
     },
     {
-      "heading": "Delegation and Sabak Sawal",
+      "heading": "Delegation and Sabaq Para",
       "headline": {
-        "en": "Divide the students among the instructors, rotate monthly"
+        "en": "Sabaq tracking to Maulana Harun; divide the students, rotate monthly"
       },
       "paragraphs": [
         {
-          "en": "The principle the principal set out is delegation with supervision: hand the routine task to someone, keep checking that it is done properly, and treat the arrangement as a trial that can be adjusted. The first task to delegate is Sabak tracking, which can go to the assisting instructor while the supervisor checks in rather than doing it."
+          "en": "The principle the principal set out is delegation with supervision: hand the routine task to someone, keep checking that it is done properly, and treat the arrangement as a trial that can be adjusted. The first task to delegate is Sabaq tracking, which goes to <b>Maulana Harun</b> while Maulana Nisar checks in rather than doing it himself."
         },
         {
-          "en": "For Sabak Sawal, the girls' section already runs a <b>taqseem</b>: each instructor is given a list of eight to ten students and is responsible for making sure each of them has recited by a set time. Students currently delay until break, then until 14:00, and no one person can keep every student's status in mind. With a named instructor and a time attached to each student, a missed day is caught on day one instead of day three. The taqseem is to be <b>rotated every month</b>. The supervisor already keeps a plan for certain students who need watching and will add the others to it; the list can be written up by the scribe and passed to the principal rather than drafted by the supervisor."
+          "en": "For Sabaq Para, the girls' section already runs a <b>taqseem</b>: each instructor is given a list of eight to ten students and is responsible for making sure each of them has recited by a set time. Students currently delay until break, then until 14:00, and no one person can keep every student's status in mind. With a named instructor and a time attached to each student, a missed day is caught on day one instead of day three. The taqseem is to be <b>rotated every month</b>. Maulana Nisar already keeps a plan for certain students who need watching and will add the others to it; the list can be written up by the scribe and passed to the principal rather than drafted by hand."
         }
       ],
       "callouts": [
         {
           "type": "decision",
           "lead": {
-            "en": "Sabak Sawal by taqseem."
+            "en": "Sabaq Para by taqseem."
           },
           "text": {
-            "en": "Eight to ten students per instructor, a deadline for each student's recitation, the division rotated monthly. The supervisor sets it up however works best; the principal only needs to know where each student is."
+            "en": "Eight to ten students per instructor, a deadline for each student's recitation, the division rotated monthly. Maulana Nisar sets it up however works best; the principal only needs to know where each student is."
           }
         }
       ]
@@ -88,35 +88,35 @@
     {
       "heading": "Crisis management, not everything",
       "headline": {
-        "en": "The supervisor's job is crisis management and quality control"
+        "en": "The Head of Hifz does crisis management and quality control"
       },
       "paragraphs": [
         {
-          "en": "The principal defined the supervisor's priority as crisis management first and overall quality control second. Anything mundane that can be moved away from the supervisor should be, so that when a real problem lands there is capacity for it. Water, washroom, schedule questions and small academic queries do not belong on that desk."
+          "en": "The principal defined the Head of Hifz's priority as crisis management first and overall quality control second. Anything mundane that can be moved away from Maulana Nisar should be, so that when a real problem lands there is capacity for it. Water, washroom, schedule questions and small academic queries do not belong on that desk."
         },
         {
-          "en": "When someone repeatedly brings the supervisor a problem they could have solved, name the pattern and push it back: ask what they looked at before coming, and whether the supervisor genuinely had to be involved. A parent calling to ask whether a child is still on site is redirected to the <b>secretary</b>, who calls the supervisor in charge and calls the parent back. Persistent cases should be brought to these meetings so the principal can deal with them."
+          "en": "When someone repeatedly brings a problem they could have solved themselves, name the pattern and push it back: ask what they looked at before coming, and whether the Head of Hifz genuinely had to be involved. A parent calling to ask whether a child is still on site is redirected to the <b>secretary</b>, who calls the supervisor in charge and calls the parent back. Persistent cases should be brought to these meetings so the principal can deal with them."
         }
       ]
     },
     {
-      "heading": "Bathroom pass",
+      "heading": "Bathroom requests",
       "headline": {
-        "en": "One pass on the desk, starting today"
+        "en": "Bathroom requests go to Maulana Shadman, no pass system"
       },
       "paragraphs": [
         {
-          "en": "Bathroom requests move off the supervisor immediately. From today the classroom instructor handles them, mornings and afternoons. The mechanism is a single <b>bathroom pass kept on the desk</b>: a student takes the pass, goes, comes back and sits down, and the next student takes it. No one asks, no one waits at the door."
+          "en": "Bathroom requests move off the Head of Hifz immediately. From today they are handled by <b>Maulana Shadman</b>, mornings and afternoons, and no student brings them to Maulana Nisar. A pass-on-the-desk system, where a student takes a single pass, goes, returns it and the next student follows without asking, was discussed and decided against; requests go through Maulana Shadman in person."
         }
       ],
       "callouts": [
         {
           "type": "decision",
           "lead": {
-            "en": "Bathroom pass in effect today."
+            "en": "Bathroom requests delegated to Maulana Shadman."
           },
           "text": {
-            "en": "Handled by the instructor in the room, never by the supervisor. Students use the pass on the desk without asking."
+            "en": "In effect today, mornings and afternoons. The bathroom pass was considered and rejected."
           }
         }
       ]
@@ -128,7 +128,7 @@
       },
       "paragraphs": [
         {
-          "en": "The supervisor asked to use the other side of the hall when numbers are high, even though the aim is to keep everyone on one half where they can be seen. The principal agreed: when there are a lot of students, the second half is available if it is not otherwise in use."
+          "en": "Maulana Nisar asked to use the other side of the hall when numbers are high, even though the aim is to keep everyone on one half where they can be seen. The principal agreed: when there are a lot of students, the second half is available if it is not otherwise in use."
         },
         {
           "en": "At recess this week the whole hall stood empty while four teachers said they were free and no one was with the students. Supervision is to be done <b>standing and moving</b>, with two teachers sent to cover the break rather than everyone sitting, and the team is expected to be proactive about it. The break is fifteen minutes, though by the time students settle they sit for closer to seven. The principal will raise this at Monday's meeting."
@@ -145,7 +145,7 @@
           "en": "Lunch supervision has had no differentiation: everyone is nominally on and no one owns it. It will now be assigned by <b>name and date</b>, and that person carries it as their responsibility whether or not the principal is present or watching."
         },
         {
-          "en": "Lunch has grown from twenty minutes to twenty-five and now to <b>forty</b>, which leaves room for fifteen minutes to eat and up to thirty minutes outside. Whenever the sky is clear, including in winter, the supervising teacher takes the students out for a walk around the block or to the market area to stretch and come back. It is not optional, and it applies to every student: no one stays in. The principal suggested the instruction will land better if it comes from the supervisor at Monday's meeting."
+          "en": "Lunch has grown from twenty minutes to twenty-five and now to <b>forty</b>, which leaves room for fifteen minutes to eat and up to thirty minutes outside. Whenever the sky is clear, including in winter, the supervising teacher takes the students out for a walk around the block or to the market area to stretch and come back. It is not optional, and it applies to every student: no one stays in. The principal suggested the instruction will land better if it comes from Maulana Nisar at Monday's meeting."
         }
       ],
       "callouts": [
@@ -189,7 +189,7 @@
     {
       "id": "A3",
       "action": {
-        "en": "Give the supervisor the written version of this week's decisions with the academic team."
+        "en": "Give Maulana Nisar the written version of this week's decisions with the academic team."
       },
       "owner": {
         "en": "Principal"
@@ -201,7 +201,7 @@
     {
       "id": "A4",
       "action": {
-        "en": "Draw up the Sabak Sawal taqseem: eight to ten students per instructor with a recitation deadline. Scribe writes it up, copy to the principal."
+        "en": "Draw up the Sabaq Para taqseem: eight to ten students per instructor with a recitation deadline. Scribe writes it up, copy to the principal."
       },
       "owner": {
         "en": "Maulana Nisar"
@@ -216,7 +216,7 @@
     {
       "id": "A5",
       "action": {
-        "en": "Delegate Sabak tracking to the assisting instructor and check in rather than do it."
+        "en": "Hand Sabaq tracking to Maulana Harun and check in rather than do it."
       },
       "owner": {
         "en": "Maulana Nisar"
@@ -228,10 +228,10 @@
     {
       "id": "A6",
       "action": {
-        "en": "Put the bathroom pass on the desk; instructors handle bathroom requests, mornings and afternoons."
+        "en": "Route all bathroom requests to Maulana Shadman, mornings and afternoons; no pass system."
       },
       "owner": {
-        "en": "Maulana Nisar"
+        "en": "Maulana Nisar, Maulana Shadman"
       },
       "due": {
         "en": "Wed 9 Sep"
@@ -303,12 +303,6 @@
       "title": "Closing rotation.",
       "text": {
         "en": "The 16:15 closing was described as once a week and as at least twice. Fix the number of days and who takes them."
-      }
-    },
-    {
-      "title": "Sabak delegate.",
-      "text": {
-        "en": "The name of the instructor who takes over Sabak tracking is garbled in the transcript."
       }
     }
   ],
