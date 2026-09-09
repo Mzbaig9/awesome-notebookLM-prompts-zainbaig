@@ -1,10 +1,10 @@
 # Staff Meeting, School Logistics
 
-**Date:** Wednesday, 9 September 2026
-**Institution:** Dar Al-Ulum Montreal
-**Chair:** Mufti Mirza-Zain Baig, Principal
-**Present:** Principal and teaching staff (four teachers spoke on record, speakers not named in the transcript)
-**Source:** Audio transcript, bilingual (French and English)
+**Date:** Wednesday, 9 September 2026  
+**Institution:** Dar Al-Ulum Montreal  
+**Chair:** Mufti Mirza-Zain Baig, Principal  
+**Present:** Principal and teaching staff (four teachers spoke on record, speakers not named in the transcript)  
+**Source:** Audio transcript, bilingual (French and English)  
 
 ## 1. Projector and classroom equipment
 
