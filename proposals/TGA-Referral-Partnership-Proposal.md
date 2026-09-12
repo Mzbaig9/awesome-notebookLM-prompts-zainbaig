@@ -28,7 +28,7 @@ TGA remains responsible for the delivery of the academic program, the platform, 
 
 ## 3. Pricing and Referral Fees for Schools
 
-All prices and fees below are one time amounts, per student. They are not monthly. The tier a school sits in is determined by the total number of students the school has enrolled with TGA at the time the invoice is issued, including any students added after the initial enrolment. The whole school is priced at its tier, the pricing is not marginal.
+All prices and fees below are one time amounts, per student. The tier a school sits in is determined by the total number of students the school has enrolled with TGA at the time the invoice is issued, including any students added after the initial enrolment. The whole school is priced at its tier, the pricing is not marginal.
 
 | Tier | Students enrolled at the school | Price to the school (per student, one time) | My referral fee (per student, one time) | Net to TGA (per student, one time) |
 |---|---|---|---|---|
