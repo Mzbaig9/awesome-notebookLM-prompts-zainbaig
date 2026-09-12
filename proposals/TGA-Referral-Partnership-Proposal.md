@@ -60,21 +60,15 @@ Homeschool referrals would be tracked through a referral code assigned to me and
 
 ## 6. Payment of Referral Fees
 
-TGA invoices each school and each homeschool family directly. TGA pays my referral fees once per month, within fifteen days of the end of the month, on all amounts collected in that month. Each payment comes with a statement listing every school and every homeschool student credited to me, the tier applied, the amount collected, and the fee calculated.
+TGA invoices each school and each homeschool family directly. My referral fee is earned only on invoices the school or family has actually paid to TGA. No fee is payable on an invoice that is unpaid, refunded, or waived, and if an invoice is paid late the fee on it is paid in the cycle after TGA receives the money.
 
-I invoice TGA for the amount shown on the statement and I am responsible for my own taxes, including HST where applicable.
+Where a school pays monthly, TGA pays my referral fee once per month, within fifteen days of the end of the month, on all invoices paid in that month.
 
-## 7. Term, Exclusivity, and Ending the Partnership
+Where a school pays yearly or bi-annually in advance, my referral fee on the full amount of that paid invoice is paid in the same way, within fifteen days of the end of the month in which TGA received the payment, rather than being spread over the months the payment covers. The fee is calculated at the tier the school sits in on the invoice date, applied to the number of students and months the invoice covers. If the school later withdraws students and TGA refunds part of that invoice, the fee on the refunded portion is deducted from my next payment.
 
-I am proposing an initial term of twelve months from signature, renewing automatically for further twelve month periods unless either side gives sixty days written notice.
+Each payment comes with a statement listing every school and every homeschool student credited to me, the tier applied, the invoices paid, and the fee calculated. I invoice TGA for the amount shown on the statement and I am responsible for my own taxes, including HST where applicable.
 
-The partnership would be non exclusive on both sides. TGA may work with other referral partners and may sell directly. I may represent other products, provided I do not represent a competing academic program to the same schools while this agreement is in force.
-
-A school I introduce is credited to me for as long as that school remains an active TGA client. If the partnership ends, TGA continues to pay referral fees on schools already signed for a further twelve months from the date of termination, after which the accounts pass fully to TGA. Homeschool referral fees follow the same twelve month tail.
-
-Either side may end the agreement immediately in writing if the other side materially breaches it and does not correct the breach within thirty days of being notified.
-
-## 8. Conduct and Standards
+## 7. Conduct and Standards
 
 I would represent TGA accurately and would not make promises about the program, the curriculum, results, or accreditation beyond what TGA has provided in writing. Any marketing material carrying the TGA name would be approved by TGA before use.
 
@@ -82,11 +76,11 @@ I would keep confidential all information about TGA's pricing, students, schools
 
 I would not offer any inducement, discount, or side arrangement to a school or family that is not written into this agreement.
 
-## 9. Reporting
+## 8. Reporting
 
 I would provide TGA with a short monthly update on my pipeline, listing schools in discussion, expected student numbers, and expected start dates. TGA would provide me with the monthly fee statement described in section 6 and access to enrolment figures for the schools in my portfolio.
 
-## 10. Next Steps
+## 9. Next Steps
 
 If these terms are acceptable in principle, I propose a short call to confirm the open points, after which the formal referral agreement can be prepared for signature.
 
