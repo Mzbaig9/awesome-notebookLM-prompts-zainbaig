@@ -1,0 +1,153 @@
+{
+  "org": "School planning call",
+  "kicker": "Positioning, branding and marketing",
+  "title": "Grades 1 to 6 Focus, Website and Marketing Plan",
+  "date": {
+    "en": "Sunday 13 Sep 2026",
+    "short": "13 Sep 2026"
+  },
+  "meeting": "WhatsApp call, two participants",
+  "chair": "Advisor (Speaker 1)",
+  "present": "Principal of the academy (Speaker 2)",
+  "footer": "Meeting Minutes · Positioning and marketing call",
+  "sections": [
+    {
+      "heading": "Programme focus",
+      "headline": "One focus: grades 1 to 6, built so families need no separate maktab",
+      "paragraphs": [
+        "The school positions itself around a single offer: a <b>grade 1 to 6 programme</b> in which Islamic studies are covered within the school day, so that parents do not need a separate evening maktab. The advisor's case is that this is the least disruptive change available. The school already has a teacher in place from 9 to 3, and the programme can run with the current staff rather than by recruiting for a full-time hifz stream, whose standards would require staffing and supervision the school does not have.",
+        "The current cohort supports the direction. The school has about 25 students, none of them enrolled as full-time hifz students. Memorisation today runs through juz 30 and 29 and Surah Yasin, with Surah al-Baqarah for grades 4, 5 and 6, and this continues as the Quran component of the programme.",
+        "The principal voiced reservations but agreed to try the approach and revisit it if it does not work. The advisor starts building immediately."
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": "Proceed with the grade 1 to 6, no-maktab positioning.",
+          "text": "A full-time hifz programme was weighed against it and set aside for now: it demands dedicated staffing, while the integrated model can start with the team already in place. The principal agreed to try it and review if it does not deliver."
+        }
+      ]
+    },
+    {
+      "heading": "Rollout and enrolment",
+      "headline": "Build the schedule in three weeks, announce it two weeks ahead",
+      "paragraphs": [
+        "Nothing changes for students immediately. The school keeps running as it is while the new schedule is built, over roughly <b>three weeks</b>. Once it is ready, staff and families are told about two weeks in advance that this is the timetable from a fixed start date.",
+        "The commercial logic is capacity. Marketed on this single focus, the school is expected to fill to <b>65 students within one to two years</b>, after which admissions run from a waitlist. The path discussed was 25 students today, around 50 next year and 65 the year after."
+      ],
+      "callouts": [
+        {
+          "type": "note",
+          "lead": "Growth is conditional on consistency.",
+          "text": "Both participants named consistent posting and consistent marketing as the condition for reaching these numbers. A one-off launch push will not carry the school to capacity."
+        }
+      ]
+    },
+    {
+      "heading": "Branding and identity",
+      "headline": "Everything that leaves the school gets a new look",
+      "paragraphs": [
+        "The visual identity of the school's outgoing documents changes now. The logo and letterhead move to a <b>clean, current letterhead</b> in place of the old one, and the communication templates are refreshed so that what parents receive no longer looks like previous years' material. The two participants compared their templates on the call: the school's is close to the advisor's model but is missing elements that will be added.",
+        "AI tools are to be used to produce this material quickly rather than commissioning it."
+      ]
+    },
+    {
+      "heading": "Website, domain and email",
+      "headline": "The advisor builds the site; school email moves to its own domain",
+      "paragraphs": [
+        "The advisor takes on building the <b>school website and the marketing plan</b>, and the principal has shared the website credentials. The domain itself is inexpensive, on the order of 10 dollars a year. Google Workspace for the school's mailboxes was quoted at 150.",
+        "Staff addresses move from gmail.com to the academy's own domain, for example a principal address at the academy domain, with mail forwarded to the existing Gmail inbox. The purpose is credibility: a domain address signals a renewed, established institution to prospective parents."
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "lead": "Google Workspace or forwarding only.",
+          "text": "Workspace was quoted at 150 against roughly 10 dollars a year for the domain alone. Paying for Workspace or simply forwarding domain email to Gmail was left open."
+        }
+      ]
+    },
+    {
+      "heading": "Marketing content and hiring",
+      "headline": "Video and photos early this week, then consistent posting",
+      "paragraphs": [
+        "A video is to be shot and photographs taken <b>early this week</b> for the website, the Google business listing and social media. The instruction from both sides was to work as fast as possible on this.",
+        "Beyond the launch, growth depends on regular posting and sustained marketing rather than a single push. In parallel, the principal is working on hiring; no role or timeline was specified on the call."
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": "Build the school website and draft the marketing plan around the grade 1 to 6 focus.",
+      "owner": "Advisor",
+      "due": "As soon as possible",
+      "due_style": "soft"
+    },
+    {
+      "id": "A2",
+      "action": "Build the new grade 1 to 6 schedule while the school runs as is.",
+      "owner": "Advisor and principal",
+      "due": "About 3 weeks"
+    },
+    {
+      "id": "A3",
+      "action": "Announce the new schedule and its start date to staff and families.",
+      "owner": "Principal",
+      "due": "2 weeks before launch"
+    },
+    {
+      "id": "A4",
+      "action": "Produce the new logo and letterhead and refresh the outgoing templates, using AI tools.",
+      "owner": "Principal and advisor",
+      "due": "To be set",
+      "due_style": "soft"
+    },
+    {
+      "id": "A5",
+      "action": "Set up email on the academy domain, starting with the principal address, forwarded to Gmail.",
+      "owner": "Advisor",
+      "due": "To be set",
+      "due_style": "soft"
+    },
+    {
+      "id": "A6",
+      "action": "Shoot the video and take photographs for the website, Google listing and social media.",
+      "owner": "Advisor and principal",
+      "due": "Early this week",
+      "due_style": "soft"
+    },
+    {
+      "id": "A7",
+      "action": "Post consistently on social media once the launch material exists.",
+      "owner": "Principal",
+      "due": "Ongoing"
+    },
+    {
+      "id": "A8",
+      "action": "Continue the hiring process.",
+      "owner": "Principal",
+      "due": "Ongoing"
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Date of the call.",
+      "text": "The transcript is timestamped 14 Sep 2026, 1:14 AM. The minutes assume the evening of Sunday 13 Sep."
+    },
+    {
+      "title": "Participants and school name.",
+      "text": "The transcript only has Speaker 1 and Speaker 2 and never names the academy. Replace \"advisor\" and \"principal\" with names."
+    },
+    {
+      "title": "Programme wording.",
+      "text": "Transcribed as \"no maktab\", read here as the promise that families need no separate maktab. Confirm it is not a programme name."
+    },
+    {
+      "title": "Enrolment path.",
+      "text": "25 today and 65 within two years are clear. The intermediate figures were garbled (10 to 15, 20, 50 or 56)."
+    },
+    {
+      "title": "Domain and Workspace.",
+      "text": "The 150 for Workspace has no unit, and \"I bought it\" may mean the domain is already purchased. Confirm both."
+    }
+  ]
+}
