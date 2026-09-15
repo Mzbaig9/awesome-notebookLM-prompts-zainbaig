@@ -309,8 +309,8 @@
         "fr": "Trouver du matériel de calligraphie pour la première année."
       },
       "owner": {
-        "en": "Administration (Simone)",
-        "fr": "Administration (Simone)"
+        "en": "Madame Maimoona",
+        "fr": "Madame Maimoona"
       },
       "due": {
         "en": "To be set",
@@ -398,13 +398,6 @@
     }
   ],
   "to_confirm": [
-    {
-      "title": "Handwriting material.",
-      "text": {
-        "en": "Simone was named as looking into what to buy; role and date not stated.",
-        "fr": "Confirmer la responsable et l'échéance."
-      }
-    },
     {
       "title": "Google Drive item.",
       "text": {
