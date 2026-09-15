@@ -46,20 +46,20 @@
           "fr": "Sœur Humaira, mathématiques au secondaire : des exercices faits ou sautés différemment par chaque élève, ce qui en fait une consigne manquante plutôt que du travail facultatif. En écriture de 4e et 6e année, des résumés de lecture au lieu de textes, mieux que rien mais pas de l'écriture ciblée."
         },
         {
-          "en": "Sister Menia: vocabulary dictated, one text barely done and barely corrected, no real feedback; the principal trained her today on supervising correction while circulating, since even a class of eighteen seen ten at a time allows it. Mariatou: correction inconsistent from page to page and in blue pen. Madame Manija and Madame William: the same pattern of uncorrected pages. The weekly problem-solving in math leaves no trace in any book.",
-          "fr": "Sœur Menia : vocabulaire dicté, un texte à peine fait et à peine corrigé, aucune rétroaction réelle ; la direction l'a formée aujourd'hui sur la supervision de la correction en circulant, puisque même un groupe de dix-huit vu dix à la fois le permet. Mariatou : correction inégale d'une page à l'autre et au stylo bleu. Madame Manija et Madame William : le même schéma de pages non corrigées. La résolution de problèmes hebdomadaire en mathématiques ne laisse de trace dans aucun cahier."
+          "en": "Madame Menia: vocabulary dictated, one text barely done and barely corrected, no real feedback; the principal trained her today on supervising correction while circulating, since even a class of eighteen seen ten at a time allows it. Mariatou: correction inconsistent from page to page and in blue pen. Madame Maimoona and Madame William: the same pattern of uncorrected pages. The weekly problem-solving in math leaves no trace in any book.",
+          "fr": "Madame Menia : vocabulaire dicté, un texte à peine fait et à peine corrigé, aucune rétroaction réelle ; la direction l'a formée aujourd'hui sur la supervision de la correction en circulant, puisque même un groupe de dix-huit vu dix à la fois le permet. Mariatou : correction inégale d'une page à l'autre et au stylo bleu. Madame Maimoona et Madame William : le même schéma de pages non corrigées. La résolution de problèmes hebdomadaire en mathématiques ne laisse de trace dans aucun cahier."
         }
       ],
       "callouts": [
         {
           "type": "decision",
           "lead": {
-            "en": "Two weeks to rectify, then individual meetings.",
-            "fr": "Deux semaines pour corriger, puis rencontres individuelles."
+            "en": "Two weeks to rectify, by 30 September, then individual meetings.",
+            "fr": "Deux semaines pour corriger, d'ici le 30 septembre, puis rencontres individuelles."
           },
           "text": {
-            "en": "The principal presents the common findings to the whole team at today's staff meeting, without naming anyone, and gives every teacher two weeks to bring their books in order. After that, each teacher is seen individually.",
-            "fr": "La direction présente les constats communs à toute l'équipe à la réunion du personnel d'aujourd'hui, sans nommer personne, et accorde deux semaines à chaque enseignant pour remettre ses cahiers en ordre. Ensuite, chaque enseignant est rencontré individuellement."
+            "en": "The principal presents the common findings to the whole team at today's staff meeting, without naming anyone. Every teacher has until <b>Wednesday 30 September</b> to bring their books in order. After that date, each teacher is seen individually.",
+            "fr": "La direction présente les constats communs à toute l'équipe à la réunion du personnel d'aujourd'hui, sans nommer personne. Chaque enseignant a jusqu'au <b>mercredi 30 septembre</b> pour remettre ses cahiers en ordre. Après cette date, chaque enseignant est rencontré individuellement."
           }
         }
       ]
@@ -67,13 +67,13 @@
     {
       "heading": "Correction and supervision",
       "headline": {
-        "en": "Every unit seen and initialled by the teacher before the week ends",
-        "fr": "Chaque unité vue et paraphée par l'enseignant avant la fin de la semaine"
+        "en": "Every page seen and initialled by the teacher",
+        "fr": "Chaque page vue et paraphée par l'enseignant"
       },
       "paragraphs": [
         {
-          "en": "Correction stays the teacher's responsibility even when students do it themselves. The teacher circulates, checks each book and initials what has been seen. Initials on every page were proposed; the consultant considers one unit, three or four pages, the realistic rhythm since a unit takes about a week. <b>By the end of each week the whole unit has been seen and corrected.</b>",
-          "fr": "La correction reste la responsabilité de l'enseignant, même lorsque les élèves la font eux-mêmes. L'enseignant circule, vérifie chaque cahier et paraphe ce qu'il a vu. Un paraphe à chaque page a été proposé ; la conseillère juge plus réaliste une vérification par unité, trois ou quatre pages, puisqu'une unité prend environ une semaine. <b>À la fin de chaque semaine, toute l'unité a été vue et corrigée.</b>"
+          "en": "Correction stays the teacher's responsibility even when students do it themselves. The teacher circulates, checks each book and <b>initials every page once it has been seen</b>. A page overlooked here and there is understandable; whole units without a mark are not. Since a unit takes about a week, the practical check is that nothing in the week's unit is left unseen by Friday.",
+          "fr": "La correction reste la responsabilité de l'enseignant, même lorsque les élèves la font eux-mêmes. L'enseignant circule, vérifie chaque cahier et <b>paraphe chaque page une fois vue</b>. Une page oubliée ici et là se comprend ; des unités entières sans aucune marque, non. Puisqu'une unité prend environ une semaine, le repère pratique est qu'aucune page de l'unité de la semaine ne reste sans vérification le vendredi."
         },
         {
           "en": "Self-correction is a check mark, not a drawing, and never twenty-five minutes for one page. Teachers are on their feet and moving through the room, during correction and during instruction alike. With ten to fifteen students per class, no page has a reason to go unchecked.",
@@ -88,8 +88,8 @@
             "fr": "Convention de correction."
           },
           "text": {
-            "en": "A school-wide convention is needed so that anyone opening a book can tell teacher marking from student marking: pen colour, initialling frequency, and peer correction with books swapped anonymously, which the principal favours. Not written in the meeting.",
-            "fr": "Une convention commune est nécessaire pour que quiconque ouvre un cahier distingue la correction de l'enseignant de celle de l'élève : couleur de stylo, fréquence du paraphe et correction en paires avec échange anonyme des cahiers, que la direction privilégie. Non rédigée en réunion."
+            "en": "A school-wide convention is still needed so that anyone opening a book can tell teacher marking from student marking: pen colour, and peer correction with books swapped anonymously, which the principal favours. Not written in the meeting.",
+            "fr": "Une convention commune reste nécessaire pour que quiconque ouvre un cahier distingue la correction de l'enseignant de celle de l'élève : couleur de stylo, et correction en paires avec échange anonyme des cahiers, que la direction privilégie. Non rédigée en réunion."
           }
         }
       ]
@@ -200,15 +200,15 @@
       ]
     },
     {
-      "heading": "Ministry exam and projects",
+      "heading": "Standardized testing and projects",
       "headline": {
-        "en": "Past exams collected this week, then a skills workbook for the year",
-        "fr": "Examens antérieurs récupérés cette semaine, puis un cahier d'habiletés pour l'année"
+        "en": "Past standardized tests collected this week, then a skills workbook for the year",
+        "fr": "Examens standardisés antérieurs récupérés cette semaine, puis un cahier d'habiletés pour l'année"
       },
       "paragraphs": [
         {
-          "en": "The principal visits JMC this week to collect the past ministry exams in person, then analyses the skills each question requires, builds activities for those skills and assembles a week-by-week preparation workbook for teachers to follow to the end of the year, aligned with the program.",
-          "fr": "La direction se rend à JMC cette semaine pour récupérer en personne les examens antérieurs du ministère, puis analyse les habiletés que chaque question exige, bâtit des activités pour ces habiletés et assemble un cahier de préparation semaine par semaine que les enseignants suivront jusqu'à la fin de l'année, aligné sur le programme."
+          "en": "Preparation for the standardized testing starts now rather than in the spring. The principal visits JMC this week to collect the past ministry exams in person, then analyses the skills each question requires, builds activities for those skills and assembles a week-by-week preparation workbook for teachers to follow to the end of the year, aligned with the program. Writing tasks already follow the exam's three-period process.",
+          "fr": "La préparation aux examens standardisés commence maintenant plutôt qu'au printemps. La direction se rend à JMC cette semaine pour récupérer en personne les examens antérieurs du ministère, puis analyse les habiletés que chaque question exige, bâtit des activités pour ces habiletés et assemble un cahier de préparation semaine par semaine que les enseignants suivront jusqu'à la fin de l'année, aligné sur le programme. Les tâches d'écriture suivent déjà le processus en trois périodes de l'examen."
         },
         {
           "en": "Two tools were shown. The principal's interactive lesson platform built on the Caméléon manual, with knowledge checks and test previews and videos to come, is the basis for a homeschool-support offer for families who want guidance without full enrolment. The consultant's observation tracker totals observations by date, level and teacher and holds each action plan; she will digitise her handwritten notes straight into it.",
@@ -232,8 +232,8 @@
         "en": "Tue 15 Sep"
       },
       "note": {
-        "en": "At today's staff meeting. Individual meetings follow the two weeks.",
-        "fr": "À la réunion du personnel d'aujourd'hui. Rencontres individuelles après les deux semaines."
+        "en": "At today's staff meeting. Individual meetings after 30 September.",
+        "fr": "À la réunion du personnel d'aujourd'hui. Rencontres individuelles après le 30 septembre."
       }
     },
     {
@@ -247,16 +247,14 @@
         "fr": "Tout le personnel enseignant"
       },
       "due": {
-        "en": "In two weeks",
-        "fr": "Dans deux semaines"
-      },
-      "due_style": "soft"
+        "en": "Wed 30 Sep"
+      }
     },
     {
       "id": "A3",
       "action": {
-        "en": "Write the correction convention: pen colours, initialling frequency, peer correction.",
-        "fr": "Rédiger la convention de correction : couleurs de stylo, fréquence du paraphe, correction en paires."
+        "en": "Write the correction convention: pen colours, peer correction, initials on every page.",
+        "fr": "Rédiger la convention de correction : couleurs de stylo, correction en paires, paraphe à chaque page."
       },
       "owner": {
         "en": "Principal and consultant",
@@ -353,8 +351,8 @@
     {
       "id": "A9",
       "action": {
-        "en": "Collect the past ministry exams from JMC.",
-        "fr": "Récupérer les examens antérieurs du ministère à JMC."
+        "en": "Collect the past standardized tests (ministry exams) from JMC.",
+        "fr": "Récupérer les examens standardisés antérieurs (examens du ministère) à JMC."
       },
       "owner": {
         "en": "Principal",
@@ -369,8 +367,8 @@
     {
       "id": "A10",
       "action": {
-        "en": "Build the week-by-week exam-preparation workbook from the skills in the past exams.",
-        "fr": "Bâtir le cahier de préparation semaine par semaine à partir des habiletés relevées dans les examens antérieurs."
+        "en": "Build the week-by-week standardized-test preparation workbook from the skills in the past exams.",
+        "fr": "Bâtir le cahier de préparation aux examens standardisés, semaine par semaine, à partir des habiletés relevées dans les examens antérieurs."
       },
       "owner": {
         "en": "Principal",
@@ -381,35 +379,37 @@
         "fr": "À déterminer"
       },
       "due_style": "soft"
+    },
+    {
+      "id": "A11",
+      "action": {
+        "en": "Update the shared Google Drive with the complete student lists and contact emails, so teachers check the Drive before asking.",
+        "fr": "Mettre à jour le Google Drive partagé avec les listes complètes d'élèves et les courriels de contact, pour que les enseignants consultent le Drive avant de demander."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "due_style": "soft"
     }
   ],
   "to_confirm": [
-    {
-      "title": "Names as transcribed.",
-      "text": {
-        "en": "Madame Manija and Madame William are as the transcript renders them and may be garbled.",
-        "fr": "Vérifier ces deux noms."
-      }
-    },
-    {
-      "title": "Deadline date.",
-      "text": {
-        "en": "Teachers were given “two weeks”; no calendar date was fixed.",
-        "fr": "Fixer la date exacte de l'échéance."
-      }
-    },
-    {
-      "title": "Initialling frequency.",
-      "text": {
-        "en": "Per page was proposed, per unit preferred; the minutes record per unit, weekly.",
-        "fr": "Trancher avant de diffuser la convention."
-      }
-    },
     {
       "title": "Handwriting material.",
       "text": {
         "en": "Simone was named as looking into what to buy; role and date not stated.",
         "fr": "Confirmer la responsable et l'échéance."
+      }
+    },
+    {
+      "title": "Google Drive item.",
+      "text": {
+        "en": "Added at the principal's request; the transcript only mentions student lists and emails, so adjust the wording if the scope is wider.",
+        "fr": "Préciser la portée de la mise à jour du Drive."
       }
     }
   ],
