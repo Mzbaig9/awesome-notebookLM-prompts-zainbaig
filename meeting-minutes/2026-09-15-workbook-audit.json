@@ -22,8 +22,8 @@
     "fr": "Direction"
   },
   "present": {
-    "en": "Principal, pedagogical consultant, Madame Maimoona (administration)",
-    "fr": "Direction, conseillère pédagogique, Madame Maimoona (administration)"
+    "en": "Principal and pedagogical consultant",
+    "fr": "Direction et conseillère pédagogique"
   },
   "sections": [
     {
@@ -146,8 +146,8 @@
             "fr": "Suspendre l'académique une semaine."
           },
           "text": {
-            "en": "The consultant proposed stopping math and French for a week to rebuild rules and routine, with a story or a drawing as the pretext for content. Administration is wary because grade 1 parents are new and watching. Stays open. Mariatou is proposed for the same cycle afterwards.",
-            "fr": "La conseillère propose de suspendre les mathématiques et le français une semaine pour rétablir les règles et la routine, avec une histoire ou un dessin comme prétexte de contenu. L'administration hésite parce que les parents de première année sont nouveaux et attentifs. Reste ouvert. Mariatou est proposée pour le même cycle ensuite."
+            "en": "The consultant proposed stopping math and French for a week to rebuild rules and routine, with a story or a drawing as the pretext for content. The principal is wary because grade 1 parents are new and watching. Stays open. Mariatou is proposed for the same cycle afterwards.",
+            "fr": "La conseillère propose de suspendre les mathématiques et le français une semaine pour rétablir les règles et la routine, avec une histoire ou un dessin comme prétexte de contenu. La direction hésite parce que les parents de première année sont nouveaux et attentifs. Reste ouvert. Mariatou est proposée pour le même cycle ensuite."
           }
         }
       ]
