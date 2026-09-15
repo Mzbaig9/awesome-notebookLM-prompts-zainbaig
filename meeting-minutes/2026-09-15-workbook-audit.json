@@ -1,0 +1,409 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Academic leadership meeting",
+    "fr": "Réunion de direction pédagogique"
+  },
+  "title": {
+    "en": "Workbook Audit, Correction Rules and the Grade 1 Intervention",
+    "fr": "Vérification des cahiers, règles de correction et intervention en première année"
+  },
+  "date": {
+    "en": "Tuesday 15 Sep 2026",
+    "fr": "Mardi 15 sept. 2026",
+    "short": "15 Sep 2026"
+  },
+  "meeting": {
+    "en": "Observation and audit review",
+    "fr": "Bilan des observations"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Principal, pedagogical consultant, administration",
+    "fr": "Direction, conseillère pédagogique, administration"
+  },
+  "sections": [
+    {
+      "heading": "Workbook audit",
+      "headline": {
+        "en": "Sporadic correction and almost no writing, in every class",
+        "fr": "Correction sporadique et presque pas d'écriture, dans toutes les classes"
+      },
+      "paragraphs": [
+        {
+          "en": "The principal reviewed the workbooks and manuals across primary and secondary. The pattern repeats from grade to grade: exercises done by some students and not others, pages skipped without correction, marking in the same blue pen as the work, and no self-correction. <b>No class shows correction that is being supervised.</b>",
+          "fr": "La direction a passé en revue les cahiers et les manuels du primaire et du secondaire. Le constat se répète d'un niveau à l'autre : des exercices faits par certains élèves et pas par d'autres, des pages sautées sans correction, une correction au même stylo bleu que le travail, et aucune autocorrection. <b>Aucune classe ne montre une correction supervisée.</b>"
+        },
+        {
+          "en": "In grade 6 French the manual is at about page 25, but the notebooks hold one dictée dated 4 September and a single text dated 14 September, the day the books were requested; the weekly writing journal agreed at the start of the year does not exist yet. In secondary math, when each student skips different exercises the problem is a missing assignment, not optional work. The weekly problem-solving in math leaves no trace either.",
+          "fr": "En français de 6e année, le manuel est rendu vers la page 25, mais les cahiers contiennent une seule dictée datée du 4 septembre et un seul texte daté du 14 septembre, le jour où les cahiers ont été demandés ; le journal d'écriture hebdomadaire convenu en début d'année n'existe pas encore. En mathématiques au secondaire, quand chaque élève saute des exercices différents, c'est une consigne qui manque, pas du travail facultatif. La résolution de problèmes hebdomadaire ne laisse pas de trace non plus."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Two weeks to rectify, then individual meetings.",
+            "fr": "Deux semaines pour corriger, puis rencontres individuelles."
+          },
+          "text": {
+            "en": "The principal presents the common findings to the whole team at today's staff meeting, without naming anyone, and gives every teacher two weeks to bring their books in order. After that, each teacher is seen individually.",
+            "fr": "La direction présente les constats communs à toute l'équipe à la réunion du personnel d'aujourd'hui, sans nommer personne, et accorde deux semaines à chaque enseignant pour remettre ses cahiers en ordre. Ensuite, chaque enseignant est rencontré individuellement."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Correction and supervision",
+      "headline": {
+        "en": "Every unit seen and initialled by the teacher before the week ends",
+        "fr": "Chaque unité vue et paraphée par l'enseignant avant la fin de la semaine"
+      },
+      "paragraphs": [
+        {
+          "en": "Correction stays the teacher's responsibility even when students do it themselves. The teacher circulates, checks each book and initials what has been seen. Initials on every page were proposed; the consultant considers one unit, three or four pages, the realistic rhythm since a unit takes about a week. <b>By the end of each week the whole unit has been seen and corrected.</b>",
+          "fr": "La correction reste la responsabilité de l'enseignant, même lorsque les élèves la font eux-mêmes. L'enseignant circule, vérifie chaque cahier et paraphe ce qu'il a vu. Un paraphe à chaque page a été proposé ; la conseillère juge plus réaliste une vérification par unité, trois ou quatre pages, puisqu'une unité prend environ une semaine. <b>À la fin de chaque semaine, toute l'unité a été vue et corrigée.</b>"
+        },
+        {
+          "en": "Self-correction is a check mark, not a drawing, and never twenty-five minutes for one page. Teachers are on their feet and moving through the room, during correction and during instruction alike. With ten to fifteen students per class, no page has a reason to go unchecked.",
+          "fr": "L'autocorrection, c'est un crochet, pas un dessin, et jamais vingt-cinq minutes pour une page. L'enseignant est debout et circule dans la classe, pendant la correction comme pendant l'enseignement. Avec dix à quinze élèves par groupe, aucune page n'a de raison de rester sans vérification."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "lead": {
+            "en": "Correction convention.",
+            "fr": "Convention de correction."
+          },
+          "text": {
+            "en": "A school-wide convention is needed so that anyone opening a book can tell teacher marking from student marking: pen colour, initialling frequency, and peer correction with books swapped anonymously, which the principal favours. Not written in the meeting.",
+            "fr": "Une convention commune est nécessaire pour que quiconque ouvre un cahier distingue la correction de l'enseignant de celle de l'élève : couleur de stylo, fréquence du paraphe et correction en paires avec échange anonyme des cahiers, que la direction privilégie. Non rédigée en réunion."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Writing",
+      "headline": {
+        "en": "A writing journal every week, and three to four periods per text",
+        "fr": "Un journal d'écriture chaque semaine, et trois à quatre périodes par texte"
+      },
+      "paragraphs": [
+        {
+          "en": "The rules set at the start of the year are restated: <b>a writing journal entry every week at minimum</b>, and targeted writing rather than only comprehension work. A full text follows the ministry-exam process, context, plan, draft, then correction, and takes three to four periods; faster students get extra exercises meanwhile. Teachers plan for that pace instead of treating it as lost time.",
+          "fr": "Les règles fixées en début d'année sont rappelées : <b>au minimum une entrée au journal d'écriture chaque semaine</b>, et de l'écriture ciblée plutôt que du seul travail de compréhension. Un texte complet suit le processus de l'examen du ministère, contexte, plan, brouillon, puis correction, et prend trois à quatre périodes ; les élèves plus rapides reçoivent d'autres exercices entre-temps. Les enseignants planifient ce rythme au lieu de le traiter comme du temps perdu."
+        },
+        {
+          "en": "The principal confirmed that the portal course hours sit well below the French hours in the timetable, so blocking three or four periods every two weeks for writing does not compromise the program.",
+          "fr": "La direction a confirmé que les heures de cours du portail sont bien en deçà des heures de français à l'horaire ; bloquer trois ou quatre périodes toutes les deux semaines pour l'écriture ne compromet donc pas le programme."
+        }
+      ]
+    },
+    {
+      "heading": "Grade 1 intervention",
+      "headline": {
+        "en": "Three weeks of class model, team teaching and evaluation",
+        "fr": "Trois semaines : classe modèle, co-enseignement et évaluation"
+      },
+      "paragraphs": [
+        {
+          "en": "Grade 1 is the most urgent case. Between the first and second observation the agitation rose sharply, children who would normally never do so are running to the stairs during transitions, and basic routines such as sending students to their places one at a time are not in place. The notebooks are inconsistent because the class is, and there is no handwriting instruction or material although several children cannot yet form letters. Many grade 1 families are new, so the impression carries beyond the class.",
+          "fr": "La première année est le cas le plus urgent. Entre la première et la deuxième observation, l'agitation a nettement monté, des enfants qui ne le feraient jamais courent vers les escaliers pendant les transitions, et les routines de base, comme envoyer les élèves à leur place un par un, ne sont pas en place. Les cahiers sont irréguliers parce que la classe l'est, et il n'y a ni enseignement ni matériel de calligraphie alors que plusieurs enfants ne savent pas encore former les lettres. Beaucoup de familles de première année sont nouvelles ; l'impression dépasse la classe."
+        },
+        {
+          "en": "The consultant has already modelled a lesson and the teacher found it useful. Two principles were passed on: <b>firmness is a matter of safety for the whole group</b>, not harshness towards one child, and a teacher may hold a child running towards the stairs to keep them safe. A diagnostic such as dictating the alphabet belongs on a shared large sheet, not on page one of a new notebook.",
+          "fr": "La conseillère a déjà modelé une leçon et l'enseignante l'a trouvée utile. Deux principes ont été transmis : <b>la fermeté est une question de sécurité pour tout le groupe</b>, pas de dureté envers un enfant, et une enseignante peut retenir un enfant qui court vers l'escalier pour sa sécurité. Un diagnostic comme la dictée de l'alphabet se fait sur une grande feuille commune, pas à la page un d'un cahier neuf."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Grade 1, three-week cycle.",
+            "fr": "Première année, cycle de trois semaines."
+          },
+          "text": {
+            "en": "Week one, the consultant teaches and the teacher observes with notes. Week two, team teaching. Week three, the teacher is on her own and is evaluated. Each week ends with a tight observation debrief. The principal covers the other classroom observations for the next two weeks so the consultant can concentrate on this class.",
+            "fr": "Semaine un, la conseillère enseigne et l'enseignante observe en prenant des notes. Semaine deux, co-enseignement. Semaine trois, l'enseignante est seule et est évaluée. Chaque semaine se termine par un retour d'observation serré. La direction reprend les autres observations en classe pendant les deux prochaines semaines pour que la conseillère se concentre sur ce groupe."
+          }
+        },
+        {
+          "type": "open",
+          "lead": {
+            "en": "Pausing academics for a week.",
+            "fr": "Suspendre l'académique une semaine."
+          },
+          "text": {
+            "en": "The consultant proposed stopping math and French for a week to rebuild rules and routine, with a story or a drawing as the pretext for content. Administration is wary because grade 1 parents are new and watching. Stays open. A second teacher was named for the same cycle; see the confirmation list.",
+            "fr": "La conseillère propose de suspendre les mathématiques et le français une semaine pour rétablir les règles et la routine, avec une histoire ou un dessin comme prétexte de contenu. L'administration hésite parce que les parents de première année sont nouveaux et attentifs. Reste ouvert. Une deuxième enseignante a été nommée pour le même cycle ; voir la liste à confirmer."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "The secondary portal",
+      "headline": {
+        "en": "Portal opened every class, attendance weekly, hand-ins on the scheduled day",
+        "fr": "Portail ouvert à chaque cours, présences chaque semaine, remises le jour prévu"
+      },
+      "paragraphs": [
+        {
+          "en": "The activity report pulled yesterday shows near-zero hours and zero hand-ins for secondary 3, 4 and 5 on the portal. Every barrier has been removed: each student has a Chromebook, the booklets are printed, the internet is fast, and one hour on a fixed day each week is set aside to scan, send and submit the week's work with the phones bought for that purpose. Teachers correct in class, not on the portal; the school handles the rest.",
+          "fr": "Le rapport d'activité tiré hier montre presque aucune heure et aucune remise pour le secondaire 3, 4 et 5 sur le portail. Tous les obstacles ont été levés : chaque élève a un Chromebook, les cahiers sont imprimés, l'internet est rapide, et une heure un jour fixe chaque semaine est réservée pour numériser, envoyer et remettre le travail de la semaine avec les téléphones achetés à cet effet. Les enseignants corrigent en classe, pas sur le portail ; l'école s'occupe du reste."
+        },
+        {
+          "en": "The standing rule, repeated last Thursday: <b>the portal is opened at every class</b> and attendance is recorded on it every week. The principal raises the zero-activity report with the teachers concerned.",
+          "fr": "La règle en vigueur, répétée jeudi dernier : <b>le portail est ouvert à chaque cours</b> et les présences y sont consignées chaque semaine. La direction aborde le rapport d'activité nulle avec les enseignants concernés."
+        }
+      ]
+    },
+    {
+      "heading": "Time use and transitions",
+      "headline": {
+        "en": "Stay in the classroom, and report missing furniture instead of hunting for it",
+        "fr": "Rester en classe, et signaler le mobilier manquant au lieu de le chercher"
+      },
+      "paragraphs": [
+        {
+          "en": "Classes are regularly starting fifteen minutes late: teachers waiting in the corridor for their students, desks and chairs moved between rooms and then searched for, transitions used for personal check-ins. The teacher is in the classroom when students arrive, and <b>any missing desk or chair is reported to the principal</b>, who will equip every room. Five minutes at each end of a period is accepted; a quarter of an hour is not. Collecting books one at a time or standing at the screen for twenty minutes are tasks a student can take over; the consultant suggested a short video of such habits.",
+          "fr": "Les cours commencent régulièrement avec quinze minutes de retard : des enseignants qui attendent leurs élèves dans le corridor, des bureaux et des chaises déplacés d'un local à l'autre puis cherchés, des transitions utilisées pour des vérifications personnelles. L'enseignant est en classe à l'arrivée des élèves, et <b>tout bureau ou chaise manquant est signalé à la direction</b>, qui équipera chaque local. Cinq minutes à chaque bout d'une période, c'est accepté ; un quart d'heure, non. Ramasser les cahiers un à un ou rester vingt minutes devant l'écran sont des tâches qu'un élève peut assumer ; la conseillère propose une courte vidéo de ces habitudes."
+        },
+        {
+          "en": "Every teacher now has planning time on the timetable, about eight hours a week, and the groups are deliberately kept small rather than merged. The principal no longer accepts the answer that there is too much to do.",
+          "fr": "Chaque enseignant dispose maintenant de temps de planification à l'horaire, environ huit heures par semaine, et les groupes sont volontairement gardés petits plutôt que fusionnés. La direction n'accepte plus la réponse qu'il y a trop à faire."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "WhatsApp groups stay separate.",
+            "fr": "Les groupes WhatsApp restent séparés."
+          },
+          "text": {
+            "en": "Merging the staff groups was proposed and rejected. The groups were split last year so that absences and schedules are not visible to the whole team, and they remain controlled by administration. The old community group is unused; the Saint-Laurent group is the one to keep.",
+            "fr": "La fusion des groupes du personnel, proposée, est rejetée. Les groupes ont été séparés l'an dernier pour que les absences et les horaires ne soient pas visibles de toute l'équipe, et ils restent contrôlés par l'administration. L'ancien groupe communautaire ne sert plus ; le groupe Saint-Laurent est celui à conserver."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Ministry exam and projects",
+      "headline": {
+        "en": "Past exams collected this week, then a skills workbook for the year",
+        "fr": "Examens antérieurs récupérés cette semaine, puis un cahier d'habiletés pour l'année"
+      },
+      "paragraphs": [
+        {
+          "en": "The principal visits JMC this week to collect the past ministry exams in person, then analyses the skills each question requires, builds activities for those skills and assembles a week-by-week preparation workbook for teachers to follow to the end of the year, aligned with the program.",
+          "fr": "La direction se rend à JMC cette semaine pour récupérer en personne les examens antérieurs du ministère, puis analyse les habiletés que chaque question exige, bâtit des activités pour ces habiletés et assemble un cahier de préparation semaine par semaine que les enseignants suivront jusqu'à la fin de l'année, aligné sur le programme."
+        },
+        {
+          "en": "Two tools were shown. The principal's interactive lesson platform built on the Caméléon manual, with knowledge checks and test previews and videos to come, is the basis for a homeschool-support offer for families who want guidance without full enrolment. The consultant's observation tracker totals observations by date, level and teacher and holds each action plan; she will digitise her handwritten notes straight into it.",
+          "fr": "Deux outils ont été présentés. La plateforme de leçons interactives de la direction, bâtie sur le manuel Caméléon, avec vérifications des connaissances, aperçus de tests et vidéos à venir, sert de base à une offre de soutien à l'école-maison pour les familles qui veulent un accompagnement sans inscription complète. Le suivi des observations de la conseillère totalise les observations par date, niveau et enseignant et conserve chaque plan d'action ; elle y numérisera directement ses notes manuscrites."
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Present the common workbook findings to the whole team, without naming anyone, and announce the two-week deadline.",
+        "fr": "Présenter les constats communs sur les cahiers à toute l'équipe, sans nommer personne, et annoncer l'échéance de deux semaines."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Tue 15 Sep"
+      },
+      "note": {
+        "en": "At today's staff meeting. Individual meetings follow the two weeks.",
+        "fr": "À la réunion du personnel d'aujourd'hui. Rencontres individuelles après les deux semaines."
+      }
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Bring every workbook in order: supervised correction, weekly writing journal, weekly problem solving, no skipped pages.",
+        "fr": "Remettre chaque cahier en ordre : correction supervisée, journal d'écriture hebdomadaire, résolution de problèmes hebdomadaire, aucune page sautée."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "In two weeks",
+        "fr": "Dans deux semaines"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Write the correction convention: pen colours, initialling frequency, peer correction.",
+        "fr": "Rédiger la convention de correction : couleurs de stylo, fréquence du paraphe, correction en paires."
+      },
+      "owner": {
+        "en": "Principal and consultant",
+        "fr": "Direction et conseillère"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Run the grade 1 cycle: class model, then team teaching, then solo teaching with evaluation, with a debrief each week.",
+        "fr": "Mener le cycle de première année : classe modèle, puis co-enseignement, puis enseignement seule avec évaluation, avec un retour chaque semaine."
+      },
+      "owner": {
+        "en": "Pedagogical consultant",
+        "fr": "Conseillère pédagogique"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "due_style": "soft",
+      "note": {
+        "en": "Three consecutive weeks.",
+        "fr": "Trois semaines consécutives."
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Cover the other classroom observations while the consultant is in grade 1.",
+        "fr": "Assurer les autres observations en classe pendant que la conseillère est en première année."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Next two weeks",
+        "fr": "Deux prochaines semaines"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Source handwriting material for grade 1.",
+        "fr": "Trouver du matériel de calligraphie pour la première année."
+      },
+      "owner": {
+        "en": "Administration (Simone)",
+        "fr": "Administration (Simone)"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Open the portal at every class, record attendance weekly, and hold the weekly scan-and-submit hour on the scheduled day.",
+        "fr": "Ouvrir le portail à chaque cours, consigner les présences chaque semaine et tenir l'heure hebdomadaire de numérisation et de remise le jour prévu."
+      },
+      "owner": {
+        "en": "Secondary teachers",
+        "fr": "Enseignants du secondaire"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Be in the classroom when students arrive, and report any missing desk or chair to the principal.",
+        "fr": "Être en classe à l'arrivée des élèves et signaler tout bureau ou chaise manquant à la direction."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Collect the past ministry exams from JMC.",
+        "fr": "Récupérer les examens antérieurs du ministère à JMC."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A10",
+      "action": {
+        "en": "Build the week-by-week exam-preparation workbook from the skills in the past exams.",
+        "fr": "Bâtir le cahier de préparation semaine par semaine à partir des habiletés relevées dans les examens antérieurs."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Grade 1 teacher's name.",
+      "text": {
+        "en": "The transcript garbles it, and the second teacher proposed for the same cycle. Neither is named here.",
+        "fr": "Confirmer les deux noms."
+      }
+    },
+    {
+      "title": "Deadline date.",
+      "text": {
+        "en": "Teachers were given “two weeks”; no calendar date was fixed.",
+        "fr": "Fixer la date exacte de l'échéance."
+      }
+    },
+    {
+      "title": "Initialling frequency.",
+      "text": {
+        "en": "Per page was proposed, per unit preferred; the minutes record per unit, weekly.",
+        "fr": "Trancher avant de diffuser la convention."
+      }
+    },
+    {
+      "title": "Handwriting material.",
+      "text": {
+        "en": "Simone was named as looking into what to buy; role and date not stated.",
+        "fr": "Confirmer la responsable et l'échéance."
+      }
+    }
+  ],
+  "footer": "Dar Al-'Ulum Montréal · Leadership Minutes / Procès-verbal · Internal"
+}
