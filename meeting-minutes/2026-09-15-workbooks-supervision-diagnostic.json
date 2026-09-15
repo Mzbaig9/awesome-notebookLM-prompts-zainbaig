@@ -1,0 +1,446 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Weekly staff meeting",
+    "fr": "Réunion hebdomadaire du personnel"
+  },
+  "title": {
+    "en": "Workbooks, Supervision and the Diagnostic Test",
+    "fr": "Cahiers, surveillance et test diagnostique"
+  },
+  "date": {
+    "en": "Tuesday 15 Sep 2026",
+    "fr": "Mardi 15 sept. 2026",
+    "short": "15 Sep 2026"
+  },
+  "meeting": {
+    "en": "Staff meeting",
+    "fr": "Réunion du personnel"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Teachers, administration",
+    "fr": "Enseignants, direction"
+  },
+  "sections": [
+    {
+      "heading": "Workbook audit",
+      "headline": {
+        "en": "One correction standard,<br/>workbooks re-checked on 28 September",
+        "fr": "Une seule norme de correction,<br/>cahiers revus le 28 septembre"
+      },
+      "paragraphs": [
+        {
+          "en": "The audit looked at how teachers use the manuals and how many activities reach the students, not at what students have achieved. The result was not satisfactory. Assigned exercises vary from one student to the next in the same group, and corrections appear as check marks, circles or notes in blue, red or green, so a parent opening the book cannot tell who corrected what.",
+          "fr": "La vérification portait sur l'usage des manuels par les enseignants et sur le nombre d'activités proposées aux élèves, non sur leurs acquis. Le résultat n'est pas satisfaisant. Les exercices assignés varient d'un élève à l'autre dans un même groupe, et les corrections prennent la forme de crochets, de cercles ou de notes en bleu, en rouge ou en vert : un parent qui ouvre le cahier ne sait pas qui a corrigé quoi."
+        },
+        {
+          "en": "The standard is now fixed. <b>Teacher corrections are in red pen.</b> An exercise that is not assigned is circled in blue so a blank page is never ambiguous. Students may correct their own work, but the teacher still reviews it, writes review with their initials, and corrects in the book directly where needed. Parents judge the school on what is in the manual.",
+          "fr": "La norme est désormais fixée. <b>Les corrections de l'enseignant se font au stylo rouge.</b> Un exercice non assigné est encerclé en bleu pour qu'une page vide ne soit jamais ambiguë. Les élèves peuvent s'autocorriger, mais l'enseignant révise, inscrit review avec ses initiales et corrige lui-même dans le cahier au besoin. Les parents jugent l'école sur ce qui se trouve dans le manuel."
+        },
+        {
+          "en": "No one is held to account individually for this first round. Teachers have two weeks to bring the workbooks up to standard. On <b>Monday 28 September</b> the mathematics and English manuals go back to the principal's office and the feedback will then be individual. History and science will be called for later.",
+          "fr": "Personne n'est tenu responsable individuellement pour cette première ronde. Les enseignants ont deux semaines pour mettre les cahiers à la norme. Le <b>lundi 28 septembre</b>, les manuels de mathématiques et d'anglais retournent au bureau de la direction et la rétroaction sera alors individuelle. Histoire et sciences suivront plus tard."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "reminder",
+          "lead": {
+            "en": "Red for corrections, blue for what is not assigned.",
+            "fr": "Rouge pour les corrections, bleu pour ce qui n'est pas assigné."
+          },
+          "text": {
+            "en": "Writing in the manuals with a red pen is expected, not forbidden. The question came up and was settled on the spot.",
+            "fr": "Écrire dans les manuels au stylo rouge est attendu, et non interdit. La question a été posée et tranchée sur place."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Writing, problems, homework",
+      "headline": {
+        "en": "More writing, complete problems,<br/>and an escalation path for homework",
+        "fr": "Plus d'écriture, des problèmes complets,<br/>et une marche à suivre pour les devoirs"
+      },
+      "paragraphs": [
+        {
+          "en": "Grade 6 English has too little writing. Comprehension work tests understanding of a text, not production. <b>Writing has to start now</b>, through regular short pieces such as a sentence of the day. In mathematics, situational problems must be completed in full, and Grade 6 needs more of them.",
+          "fr": "En anglais de 6e année, on n'écrit pas assez. La compréhension de texte vérifie la compréhension, non la production. <b>L'écriture doit commencer maintenant</b>, par de courtes productions régulières comme la phrase du jour. En mathématiques, les situations-problèmes doivent être complétées en entier, et la 6e année en a besoin de davantage."
+        },
+        {
+          "en": "The principal has obtained the ministry examinations for Grade 4, Grade 6, Secondary 2 and Secondary 4 and will build a full-year guide from them.",
+          "fr": "La direction a obtenu les examens du ministère pour la 4e année, la 6e année, le secondaire 2 et le secondaire 4 et en tirera un guide pour toute l'année."
+        },
+        {
+          "en": "When a student repeatedly does not do the work, the teacher documents each step: the student was told, the parents were emailed, the follow-up was consistent. <b>After roughly three emails to the parents without a response</b>, the matter goes to the principal, who intervenes. One email is not enough to escalate.",
+          "fr": "Quand un élève ne fait pas son travail de façon répétée, l'enseignant consigne chaque démarche : l'élève a été avisé, les parents ont reçu un courriel, les relances ont été constantes. <b>Après environ trois courriels aux parents sans réponse</b>, le dossier passe à la direction, qui intervient. Un seul courriel ne suffit pas pour escalader."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "lead": {
+            "en": "Grade 6 follow-up.",
+            "fr": "Suivi de la 6e année."
+          },
+          "text": {
+            "en": "The Grade 6 French teacher reported homework returned undone or careless despite detailed instructions. A homework log is kept in class, and the principal intends to review Grade 6 work directly. The form of that follow-up was not settled.",
+            "fr": "L'enseignante de français de 6e année a signalé des devoirs rendus non faits ou bâclés malgré des consignes détaillées. Un registre des devoirs est tenu en classe, et la direction entend revoir directement les travaux de 6e année. La forme de ce suivi reste à préciser."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Diagnostic test and 25 September",
+      "headline": {
+        "en": "Progress email on 25 September,<br/>diagnostic test from 28 September",
+        "fr": "Point d'avancement le 25 septembre,<br/>test diagnostique dès le 28 septembre"
+      },
+      "paragraphs": [
+        {
+          "en": "On <b>Friday 25 September</b> each teacher emails the principal the point reached in every subject taught: mathematics, English, French and science. The observations on students in difficulty agreed at the last meeting are due the same day. A student in difficulty means behaviour issues, suspected special needs, homework repeatedly not done, or any child who needs an intervention the classroom alone cannot provide.",
+          "fr": "Le <b>vendredi 25 septembre</b>, chaque enseignant envoie à la direction le point atteint dans chaque matière : mathématiques, anglais, français et sciences. Les observations sur les élèves en difficulté convenues à la dernière réunion sont dues le même jour. Un élève en difficulté : problèmes de comportement, besoins particuliers soupçonnés, devoirs non faits de façon répétée, ou tout enfant qui a besoin d'une intervention au-delà de la classe."
+        },
+        {
+          "en": "In the week of <b>28 to 30 September</b> the principal supplies a standardized diagnostic test in English, French and mathematics, not science or history, completed within one hour. Teachers only administer it. It is unannounced, mostly reading comprehension, with no grammar. It gives parents an objective measure early in the year, and the principal will write to them afterwards to explain that it is a diagnostic, not a selection.",
+          "fr": "Dans la semaine du <b>28 au 30 septembre</b>, la direction fournit un test diagnostique standardisé en anglais, en français et en mathématiques, ni en sciences ni en histoire, complété en une heure. Les enseignants ne font que l'administrer. Il n'est pas annoncé, porte surtout sur la compréhension de lecture et n'aborde pas la grammaire. Il donne aux parents une mesure objective tôt dans l'année, et la direction leur écrira ensuite pour expliquer qu'il s'agit d'un diagnostic, non d'une sélection."
+        },
+        {
+          "en": "Unit tests already scheduled that week go ahead; the diagnostic covers different material. Because 25 September is a heavy day, the weekly report due that Friday at 8:00 PM may this once be submitted <b>by Saturday 26 September at noon</b>.",
+          "fr": "Les tests d'unité déjà prévus cette semaine-là ont lieu ; le diagnostic porte sur une autre matière. Comme le 25 septembre est chargé, le rapport hebdomadaire attendu ce vendredi à 20 h peut, cette fois seulement, être remis <b>au plus tard le samedi 26 septembre à midi</b>."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "One sitting, unannounced.",
+            "fr": "Une seule séance, non annoncée."
+          },
+          "text": {
+            "en": "Splitting the test over several days to reduce stress was proposed and rejected: announcing it would defeat the diagnostic. The test is shorter than last year's.",
+            "fr": "Répartir le test sur plusieurs jours pour réduire le stress a été proposé puis écarté : l'annoncer ferait perdre au diagnostic sa valeur. Le test est plus court que celui de l'an dernier."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Supervision and transitions",
+      "headline": {
+        "en": "No group is ever left without an adult",
+        "fr": "Aucun groupe laissé sans adulte"
+      },
+      "paragraphs": [
+        {
+          "en": "A classroom was found unattended today, and at 8:05 this morning Secondary 1, 3, 4 and 5 students were still downstairs with no teacher asking why. The rule is <b>reasonable supervision</b>: the adult has taken the steps to make sure the group is watched. A teacher who must step out asks the teacher next door to watch the group. Closing the door and leaving is not reasonable; a colleague watching two groups for a few minutes is.",
+          "fr": "Une classe a été trouvée sans surveillance aujourd'hui, et à 8 h 05 ce matin, des élèves de secondaire 1, 3, 4 et 5 étaient encore en bas sans qu'aucun enseignant ne s'en préoccupe. La règle est la <b>surveillance raisonnable</b> : l'adulte a pris les mesures pour que le groupe soit surveillé. L'enseignant qui doit s'absenter demande au voisin de surveiller son groupe. Fermer la porte et partir n'est pas raisonnable ; une collègue qui surveille deux groupes quelques minutes l'est."
+        },
+        {
+          "en": "Transitions follow the same logic. A teacher who leaves a group hands it to a nearby adult, and the colleague asked says yes. When the schedule breaks down, whoever is nearby takes the initiative instead of waiting for it to be written. After a break, if students are not there within a minute or two, the teacher goes looking for them. Older groups may be sent ahead when the teacher can see them go; younger groups are kept together and walked.",
+          "fr": "Les transitions suivent la même logique. L'enseignant qui quitte un groupe le confie à un adulte à proximité, et la collègue sollicitée accepte. Quand l'horaire flanche, celui qui est à proximité prend l'initiative au lieu d'attendre que ce soit écrit. Après une pause, si les élèves ne sont pas là au bout d'une ou deux minutes, l'enseignant va les chercher. Les groupes plus âgés peuvent partir devant quand l'enseignant les voit partir ; les plus jeunes restent ensemble et sont accompagnés."
+        },
+        {
+          "en": "In class, teachers stand and circulate rather than remain seated.",
+          "fr": "En classe, les enseignants se tiennent debout et circulent au lieu de rester assis."
+        }
+      ]
+    },
+    {
+      "heading": "Handwriting",
+      "headline": {
+        "en": "Correct letter formation every time,<br/>workbooks for the grades that need them",
+        "fr": "Corriger le tracé chaque fois,<br/>des cahiers d'écriture au besoin"
+      },
+      "paragraphs": [
+        {
+          "en": "Handwriting is weak in several groups, Grade 3 and Grade 4 in particular. Whoever works on writing with a group <b>corrects letter formation immediately and every time</b>, a letter started from the tail or a stroke made bottom-up, because efficient handwriting is what makes fast writers. Neat letters that ignore the lines are corrected too.",
+          "fr": "L'écriture manuscrite est faible dans plusieurs groupes, en 3e et en 4e année surtout. Quiconque travaille l'écriture avec un groupe <b>corrige le tracé des lettres immédiatement et chaque fois</b>, une lettre commencée par la queue ou un trait fait de bas en haut, car une écriture efficace rend les élèves rapides. Des lettres nettes qui ne respectent pas les lignes se corrigent aussi."
+        },
+        {
+          "en": "Administration will order the handwriting workbook, an expensive curriculum book. Grade 3 is confirmed. Teachers assess their other groups as a whole, not on one student, and tell administration which grades need it. A Grade 6 version exists. Once the books arrive they are worked through properly and marked.",
+          "fr": "La direction commandera le cahier d'écriture, un ouvrage de programme coûteux. La 3e année est confirmée. Les enseignants évaluent leurs autres groupes dans leur ensemble, non sur un seul élève, et indiquent à la direction quels niveaux en ont besoin. Une version pour la 6e année existe. Une fois reçus, les cahiers sont travaillés correctement et corrigés."
+        }
+      ]
+    },
+    {
+      "heading": "Rooms, furniture, who to ask",
+      "headline": {
+        "en": "Furniture goes to administration,<br/>children to the secretary",
+        "fr": "Le mobilier relève de la direction,<br/>les enfants du secrétariat"
+      },
+      "paragraphs": [
+        {
+          "en": "Any room short of desks is reported to administration by message, with the room number. Room 201 is missing desks and its chairs are too small. The once-a-week English group of seven Grade 4 to 6 girls and four secondary girls has been working standing; <b>foldable tables will be set up</b> for that period.",
+          "fr": "Tout local qui manque de pupitres est signalé à la direction par message, avec le numéro du local. Le local 201 manque de pupitres et ses chaises sont trop petites. Le groupe d'anglais hebdomadaire de sept filles de la 4e à la 6e année et de quatre filles du secondaire travaillait debout ; <b>des tables pliantes seront installées</b> pour cette période."
+        },
+        {
+          "en": "Chairs, tables and anything about the building go to administration, not the secretary. The secretary handles children, including calling home when a child is sick. That call is weighed first, since a parent may lose a day's pay: a child with a headache or sore stomach can lie down in the office, watched, for up to an hour, and a child who says the same thing every morning is not sent home on the claim alone.",
+          "fr": "Chaises, tables et tout ce qui touche le bâtiment relèvent de la direction, non du secrétariat. Le secrétariat s'occupe des enfants, y compris de l'appel à la maison quand un enfant est malade. Cet appel se pèse d'abord, car un parent peut perdre une journée de salaire : un enfant qui a mal à la tête ou au ventre peut s'allonger au bureau, sous surveillance, jusqu'à une heure, et un enfant qui dit la même chose chaque matin n'est pas renvoyé sur sa seule parole."
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Apply the correction standard in every workbook: red pen for teacher corrections, blue circle for unassigned exercises, review and initials on student self-corrections.",
+        "fr": "Appliquer la norme de correction dans chaque cahier : stylo rouge pour les corrections, cercle bleu pour les exercices non assignés, mention review et initiales sur les autocorrections."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Immediately",
+        "fr": "Dès maintenant"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Email the principal the point reached in each subject: mathematics, English, French, science.",
+        "fr": "Envoyer à la direction par courriel le point atteint dans chaque matière : mathématiques, anglais, français, sciences."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Fri 25 Sep"
+      },
+      "note": {
+        "en": "Same day as the observations on students in difficulty.",
+        "fr": "Même jour que les observations sur les élèves en difficulté."
+      }
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Leave the mathematics and English workbooks in the principal's office for the second audit.",
+        "fr": "Déposer les cahiers de mathématiques et d'anglais au bureau de la direction pour la deuxième vérification."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Mon 28 Sep"
+      },
+      "note": {
+        "en": "Individual feedback follows. History and science later.",
+        "fr": "Rétroaction individuelle ensuite. Histoire et sciences plus tard."
+      }
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Prepare the one-hour diagnostic test in English, French and mathematics, then email parents once it has been given.",
+        "fr": "Préparer le test diagnostique d'une heure en anglais, en français et en mathématiques, puis écrire aux parents une fois le test passé."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "28 to 30 Sep",
+        "fr": "28 au 30 septembre"
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Administer the diagnostic test in one unannounced sitting; keep planned unit tests as scheduled.",
+        "fr": "Administrer le test diagnostique en une seule séance non annoncée ; maintenir les tests d'unité prévus."
+      },
+      "owner": {
+        "en": "Subject teachers",
+        "fr": "Enseignants concernés"
+      },
+      "due": {
+        "en": "28 to 30 Sep",
+        "fr": "28 au 30 septembre"
+      },
+      "note": {
+        "en": "English, French and mathematics only.",
+        "fr": "Anglais, français et mathématiques seulement."
+      }
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Submit the weekly report for the week of 21 September; extended deadline this once.",
+        "fr": "Remettre le rapport hebdomadaire de la semaine du 21 septembre ; échéance prolongée cette fois seulement."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Sat 26 Sep, noon",
+        "fr": "Sam. 26 sept., midi"
+      }
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Increase writing in Grade 6 English and complete situational problems in full in mathematics.",
+        "fr": "Augmenter l'écriture en anglais de 6e année et compléter les situations-problèmes en entier en mathématiques."
+      },
+      "owner": {
+        "en": "Subject teachers",
+        "fr": "Enseignants concernés"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Document steps taken when homework is not done; escalate to the principal after about three unanswered emails to parents.",
+        "fr": "Consigner les démarches quand les devoirs ne sont pas faits ; escalader à la direction après environ trois courriels aux parents sans réponse."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Hand any group you leave to a nearby adult; go looking for students missing after a break; stand and circulate in class.",
+        "fr": "Confier tout groupe que l'on quitte à un adulte à proximité ; aller chercher les élèves absents après une pause ; rester debout et circuler en classe."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A10",
+      "action": {
+        "en": "Message administration with the room number for any room missing desks or with undersized chairs, starting with room 201.",
+        "fr": "Envoyer à la direction le numéro de tout local où manquent des pupitres ou dont les chaises sont trop petites, à commencer par le local 201."
+      },
+      "owner": {
+        "en": "Teachers concerned",
+        "fr": "Enseignants concernés"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A11",
+      "action": {
+        "en": "Set up foldable tables for the once-a-week English group and supply the missing desks and chairs.",
+        "fr": "Installer des tables pliantes pour le groupe d'anglais hebdomadaire et fournir les pupitres et chaises manquants."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A12",
+      "action": {
+        "en": "Assess each group's handwriting and tell administration which grades need the handwriting workbook.",
+        "fr": "Évaluer l'écriture de chaque groupe et indiquer à la direction quels niveaux ont besoin du cahier d'écriture."
+      },
+      "owner": {
+        "en": "Teachers concerned",
+        "fr": "Enseignants concernés"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "note": {
+        "en": "Grade 3 is already confirmed.",
+        "fr": "La 3e année est déjà confirmée."
+      }
+    },
+    {
+      "id": "A13",
+      "action": {
+        "en": "Order the handwriting workbooks for the grades identified.",
+        "fr": "Commander les cahiers d'écriture pour les niveaux identifiés."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A14",
+      "action": {
+        "en": "Build the full-year guide from the ministry examinations for Grade 4, Grade 6, Secondary 2 and Secondary 4.",
+        "fr": "Élaborer le guide annuel à partir des examens du ministère pour la 4e année, la 6e année, le secondaire 2 et le secondaire 4."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Workbooks for 28 September.",
+      "text": {
+        "en": "Mathematics and English were named for the second audit. Whether French is included, and whether Grade 3, not submitted the first time, is expected, was not stated.",
+        "fr": "Préciser les matières et les niveaux attendus le 28 septembre."
+      }
+    },
+    {
+      "title": "Diagnostic test day.",
+      "text": {
+        "en": "The test falls in the week of 28 to 30 September; the exact day for each level, and whether every grade sits it, was not fixed.",
+        "fr": "Fixer le jour du test pour chaque niveau."
+      }
+    },
+    {
+      "title": "Handwriting workbook grades.",
+      "text": {
+        "en": "Grade 3 is confirmed; Grade 4 and Grade 6 depend on the teachers' assessment, and no date was set for the order.",
+        "fr": "Confirmer les niveaux et la date de la commande."
+      }
+    },
+    {
+      "title": "Grade 6 follow-up.",
+      "text": {
+        "en": "A homework log and direct review by the principal were both mentioned; the form and frequency were not settled.",
+        "fr": "Préciser la forme du suivi de la 6e année."
+      }
+    }
+  ]
+}
