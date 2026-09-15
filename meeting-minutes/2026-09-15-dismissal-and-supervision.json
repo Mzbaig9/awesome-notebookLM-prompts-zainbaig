@@ -1,0 +1,88 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {"en": "Management meeting, boys' section"},
+  "title": {"en": "Dismissal Roles, Salah Supervision and Furniture"},
+  "date": {"en": "Tuesday 15 Sep 2026", "short": "15 Sep 2026"},
+  "meeting": {"en": "Weekly check-in"},
+  "chair": {"en": "Principal"},
+  "present": {"en": "Principal, boys' section supervisor"},
+  "sections": [
+    {
+      "heading": "Dismissal, 4:00 to 4:15",
+      "headline": {"en": "The supervisor stays inside,<br/>an academic tutor takes the cars outside"},
+      "paragraphs": [
+        {"en": "The chaos inside the building at dismissal outweighs the chaos outside, so the roles are being split. The <b>supervisor and Mustafa manage the inside</b>: students seated by group with their bags, quiet, and lined up along the wall in the order their rides tend to arrive. An academic tutor is posted outside to identify the incoming cars and send students out, and the supervisor only steps outside when a situation requires it. Which teachers stay behind until 4:15 to help with the Metro and bus group will be set out in a schedule."},
+        {"en": "The principal will be at the door at <b>4:00 on Wednesday and Thursday</b> this week, and again on Monday and Tuesday next week, to train the outside person on the cars. He is not available Friday. Today runs as usual; the schedule takes effect tomorrow. The transition will take a few weeks, and a slower walk-up is an acceptable price for a calmer hall."},
+        {"en": "Walkie-talkies are hard to hear at that time of day and a newcomer will miss students. The working rule is a one-minute buffer: if a student called for does not come out, open the door and call back inside. The current staging stays in place, Secondary 1 and 2 in one area, Secondary 3 and 4 on the other side, Grade 6 on one side and Grades 4 and 5 nearest the doors, with a teacher beside each group."}
+      ],
+      "callouts": [
+        {"type": "decision", "lead": {"en": "Inside first, then swap."},
+         "text": {"en": "The supervisor offered to be the person outside every day, staying ten or fifteen minutes after dismissal. The principal chose to keep him inside because nobody else is as invested in building that system. Once it runs on its own, the roles switch: the outside person is trained on the inside protocols and the supervisor returns to the door."}}
+      ]
+    },
+    {
+      "heading": "Salah supervision and initiative",
+      "headline": {"en": "Teachers supervise the students around them,<br/>groups are back by 1:50"},
+      "paragraphs": [
+        {"en": "Salah is at <b>2:05</b> and the hall is now used almost to the back. Teachers who come down tend to pray and nothing more, which leaves supervision of the whole hall on one person. The principal will speak to the staff about taking initiative: each teacher watches the students near them at salah and at dismissal without being asked. Lack of initiative was named as a problem across the board, not only at prayer time."},
+        {"en": "The main thing that breaks the set-up is groups returning late. One teacher has twice brought his group back at 1:50 or 1:55, when students should already be seated, and has been told both times that <b>groups must be back by 1:50</b>. From now on the supervisor keeps a note of repeats and tells the principal, who intervenes directly after a third instance."}
+      ],
+      "callouts": [
+        {"type": "reminder", "lead": {"en": "Log it, then escalate."},
+         "text": {"en": "Individual patterns, a teacher who is repeatedly late, a student who repeatedly disrupts, are to be recorded and reported to the principal rather than handled a third time by the supervisor alone."}}
+      ]
+    },
+    {
+      "heading": "Classroom follow-up",
+      "headline": {"en": "Student requests go through Mohammed Harun, then Mustafa"},
+      "paragraphs": [
+        {"en": "The class discussed last week is running more easily. Students are being taught that they do not come to the supervisor directly: requests go through <b>Mohammed Harun, then Mustafa</b>. Mohammed Shimal is not used for this because he is often on the other side with a group of about thirty."},
+        {"en": "The supervisor still wants to go over the report the principal sent last week. He had expected the meeting tomorrow and had not prepared it, so the review moves to the next check-in."}
+      ]
+    },
+    {
+      "heading": "Benches, desks and rooms",
+      "headline": {"en": "Four benches are available now,<br/>two or three desks for classroom C"},
+      "paragraphs": [
+        {"en": "At least five benches are needed downstairs. <b>Four are free immediately</b>: two in the corner of the Alimiyah room upstairs and two in Ibrahim's class, none of them in use, and they can be taken permanently, along with anything else spare from the Alimiyah side."},
+        {"en": "Desks are being carried from one classroom to another almost daily to seat everyone. Two or three more are needed, above all in classroom C, the room directly below at the end of the corridor near the Alimiyah room (the rooms are A, B and C). The principal will count what the school has; most desks are already in use. The desk that held the tablets was moved out and the tablets can stay on the floor for now."},
+        {"en": "The corner room by the washroom is to be emptied to make it breathable. The one or two desks in it go to classrooms, the printing equipment moves in so teachers have a small place to work, and the library material and other stored items go to the girls' side. The principal will ask a few brothers to come around <b>7 or 8 this evening</b> to do it."}
+      ]
+    },
+    {
+      "heading": "Lunch and water",
+      "headline": {"en": "A second microwave, no filter for now"},
+      "paragraphs": [
+        {"en": "The microwave line takes about fifteen minutes, from 11:50 to 12:05 or later, because most boys use it. At least one more microwave will be bought, either beside the first or on the other side of the room."},
+        {"en": "The boys bring water bottles and there have been no complaints, so the water filters used on the girls' side are not needed upstairs at this point."}
+      ]
+    },
+    {
+      "heading": "Weekly check-in",
+      "headline": {"en": "Tuesdays at 1:30"},
+      "paragraphs": [
+        {"en": "This meeting will be held <b>every Tuesday at 1:30</b>. The principal meets the academic tutors on Wednesdays, so anything raised on Tuesday can be passed to them the next day."}
+      ]
+    }
+  ],
+  "actions": [
+    {"id": "A1", "action": {"en": "Issue the dismissal schedule: who stays until 4:15 for the Metro and bus group, who is posted outside."}, "owner": {"en": "Principal"}, "due": {"en": "Wed 16 Sep"}},
+    {"id": "A2", "action": {"en": "Be at the door at 4:00 to train the outside person on identifying the cars."}, "owner": {"en": "Principal"}, "due": {"en": "Wed 16, Thu 17 Sep"}, "note": {"en": "Then Mon 21 and Tue 22 Sep. Not Friday."}},
+    {"id": "A3", "action": {"en": "Run the inside dismissal system: seated by group with bags, quiet, lined up along the wall by usual pick-up order."}, "owner": {"en": "Supervisor, Mustafa"}, "due": {"en": "Wed 16 Sep"}, "note": {"en": "Then continuously."}},
+    {"id": "A4", "action": {"en": "Take the outside post at dismissal and send students out as their rides arrive; one-minute buffer, then call back inside."}, "owner": {"en": "Academic tutor (to be named)"}, "due": {"en": "Wed 16 Sep"}},
+    {"id": "A5", "action": {"en": "Speak to the teaching staff about supervising the students around them at salah and at dismissal on their own initiative."}, "owner": {"en": "Principal"}, "due": {"en": "This week"}},
+    {"id": "A6", "action": {"en": "Keep a record of late returns and other repeated individual issues and report them to the principal."}, "owner": {"en": "Supervisor"}, "due": {"en": "Ongoing"}},
+    {"id": "A7", "action": {"en": "Collect the four unused benches, two from the Alimiyah corner upstairs and two from Ibrahim's class, for downstairs."}, "owner": {"en": "Supervisor"}, "due": {"en": "This week"}},
+    {"id": "A8", "action": {"en": "Count the desks and place two or three in classroom C."}, "owner": {"en": "Principal"}, "due": {"en": "This week"}},
+    {"id": "A9", "action": {"en": "Empty the corner room by the washroom with a few brothers, move printing in, library and stored items to the girls' side."}, "owner": {"en": "Principal"}, "due": {"en": "Tue 15 Sep, 7 to 8 PM"}},
+    {"id": "A10", "action": {"en": "Buy at least one additional microwave for the boys' lunch area."}, "owner": {"en": "Administration"}, "due": {"en": "To be set"}, "due_style": "soft"},
+    {"id": "A11", "action": {"en": "Go over last week's report on the class discussed."}, "owner": {"en": "Principal, supervisor"}, "due": {"en": "Tue 22 Sep, 1:30 PM"}}
+  ],
+  "to_confirm": [
+    {"title": "Outside post.", "text": {"en": "The academic tutor who takes the outside post at dismissal was not named in the meeting."}},
+    {"title": "Fifth bench.", "text": {"en": "Five benches were asked for and four were located. Where the fifth comes from was left to whatever is spare on the Alimiyah side."}},
+    {"title": "Mohammed Harun and Mohammed Shimal.", "text": {"en": "The transcript does not make clear whether they are staff or student monitors; check before circulating."}},
+    {"title": "Microwave purchase.", "text": {"en": "One more or two side by side was left open, and no owner or date was fixed."}},
+    {"title": "Attendee.", "text": {"en": "The boys' section supervisor is not named in the transcript; add his name to the Present cell."}}
+  ]
+}
