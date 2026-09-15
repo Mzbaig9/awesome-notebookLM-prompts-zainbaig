@@ -28,13 +28,13 @@
     {
       "heading": "Student lists",
       "headline": {
-        "en": "One list per teacher, formatted by the principal, in use from tomorrow",
-        "fr": "Une liste par enseignante, mise en forme par la direction, en usage dès demain"
+        "en": "One list per teacher, handed in tomorrow and formatted by the principal",
+        "fr": "Une liste par enseignante, remise demain et mise en forme par la direction"
       },
       "paragraphs": [
         {
-          "en": "The teachers have already divided the students among themselves on a provisional schedule. That list is <b>sent to the principal today</b>, who formats it on the Henri-Bourassa hifz model: one sheet per teacher, with a box per student for the new lesson (sabaq), one for revision (sabqi and dawr) and one for remarks.",
-          "fr": "Les enseignantes ont déjà réparti les élèves entre elles sur un horaire provisoire. Cette liste est <b>transmise à la direction aujourd'hui</b>, qui la met en forme selon le modèle de hifz d'Henri-Bourassa : une feuille par enseignante, avec pour chaque élève une case pour la nouvelle leçon (sabaq), une pour la révision (sabqi et dawr) et une pour les remarques."
+          "en": "The teachers have already divided the students among themselves on a provisional schedule. That list is <b>handed to the principal tomorrow</b>, who generates the sheets on the Henri-Bourassa hifz model: one sheet per teacher, with a box per student for sabaq, para and dawr, and one for remarks.",
+          "fr": "Les enseignantes ont déjà réparti les élèves entre elles sur un horaire provisoire. Cette liste est <b>remise à la direction demain</b>, qui produit les feuilles selon le modèle de hifz d'Henri-Bourassa : une feuille par enseignante, avec pour chaque élève une case pour le sabaq, le para et le dawr, et une pour les remarques."
         },
         {
           "en": "The sheet exists so that the teacher always knows where each student stands and can answer a parent on the spot.",
@@ -49,8 +49,8 @@
             "fr": "Rotation mensuelle."
           },
           "text": {
-            "en": "A yearly and a weekly assignment were both raised. The division changes <b>month by month</b> so that no student becomes attached to one teacher. The teachers propose it, the principal corrects it against the timetable, and it starts tomorrow.",
-            "fr": "Une répartition annuelle et une répartition hebdomadaire ont été évoquées. La répartition change <b>chaque mois</b> pour qu'aucune élève ne s'habitue à une seule enseignante. Les enseignantes la proposent, la direction la corrige selon l'horaire, et elle s'applique dès demain."
+            "en": "A yearly and a weekly assignment were raised. The division changes <b>month by month</b> so that no student becomes attached to one teacher. The teachers propose it, the principal corrects it against the timetable, and the sheets are in use from 16 September.",
+            "fr": "Une répartition annuelle et une hebdomadaire ont été évoquées. La répartition change <b>chaque mois</b> pour qu'aucune élève ne s'habitue à une seule enseignante. Les enseignantes la proposent, la direction la corrige selon l'horaire, et les feuilles sont en usage dès le 16 septembre."
           }
         }
       ]
@@ -75,17 +75,17 @@
     {
       "heading": "Student programmes",
       "headline": {
-        "en": "Within two weeks, a written programme and a target for every student, sent to the parents",
-        "fr": "D'ici deux semaines, un programme écrit et un objectif pour chaque élève, envoyés aux parents"
+        "en": "By 25 September, a written programme and a target for every student, sent to the parents",
+        "fr": "D'ici le 25 septembre, un programme écrit et un objectif pour chaque élève, envoyés aux parents"
       },
       "paragraphs": [
         {
-          "en": "The school wants one standard on both campuses. This year <b>every student, in every class, receives an individual programme</b> matched to her level: where she stands now and what steady effort should produce, for example five or six ajza by year end, or ten with more work at home.",
-          "fr": "L'école veut une seule norme sur les deux campus. Cette année, <b>chaque élève, dans chaque classe, reçoit un programme individuel</b> adapté à son niveau : où elle en est et ce qu'un effort régulier devrait donner, par exemple cinq ou six ajza d'ici la fin de l'année, ou dix avec plus de travail à la maison."
+          "en": "The school wants one standard on both campuses. This year every student, in every class, receives an individual programme matched to her level: where she stands now and what steady effort should produce, for example five or six ajza by year end, or ten with more work at home.",
+          "fr": "L'école veut une seule norme sur les deux campus. Cette année, chaque élève, dans chaque classe, reçoit un programme individuel adapté à son niveau : où elle en est et ce qu'un effort régulier devrait donner, par exemple cinq ou six ajza d'ici la fin de l'année, ou dix avec plus de travail à la maison."
         },
         {
-          "en": "In about two weeks the principal and the teachers agree on each programme, write it up and send it to the parents. Parents have said they do not know how the memorisation is going; a written target shows them, for example, that their daughter is stuck at two ajza because she does not read at home. The report lists entry level, correction phase, then memorisation, so that parents understand the method.",
-          "fr": "Dans environ deux semaines, la direction et les enseignantes fixent chaque programme, le rédigent et l'envoient aux parents. Les parents ont dit ne pas savoir comment avance la mémorisation ; un objectif écrit leur montre, par exemple, que leur fille reste à deux ajza parce qu'elle ne lit pas à la maison. Le rapport présente le niveau d'entrée, la phase de correction, puis la mémorisation, pour que les parents comprennent la méthode."
+          "en": "On <b>25 September</b> the principal and the teachers agree on each programme, write it up and send it to the parents. Parents have said they do not know how the memorisation is going; a written target shows them, for example, that their daughter is stuck at two ajza because she does not read at home. The report lists entry level, correction phase, then memorisation, so that parents understand the method.",
+          "fr": "Le <b>25 septembre</b>, la direction et les enseignantes fixent chaque programme, le rédigent et l'envoient aux parents. Les parents ont dit ne pas savoir comment avance la mémorisation ; un objectif écrit leur montre, par exemple, que leur fille reste à deux ajza parce qu'elle ne lit pas à la maison. Le rapport présente le niveau d'entrée, la phase de correction, puis la mémorisation, pour que les parents comprennent la méthode."
         }
       ]
     },
@@ -109,12 +109,12 @@
         {
           "type": "case",
           "lead": {
-            "en": "Rayyan.",
-            "fr": "Rayyan."
+            "en": "Rayyan, son of Shaikh Haroon.",
+            "fr": "Rayyan, fils de Shaikh Haroon."
           },
           "text": {
-            "en": "Keen and quick to memorise, but with about seven articulation points to correct. His teacher corrects one makhraj at a time (seen and zay, then dal and kha) while letting him memorise. The principal wants him back on the Qaida first; his father wants him to keep memorising. <b>The principal speaks with the father.</b>",
-            "fr": "Motivé et rapide à mémoriser, mais avec environ sept points d'articulation à corriger. Son enseignante corrige un makhraj à la fois (sin et zay, puis dal et kha) tout en le laissant mémoriser. La direction veut d'abord le ramener à la Qaida ; son père veut qu'il continue à mémoriser. <b>La direction parle avec le père.</b>"
+            "en": "Keen and quick to memorise, but with about seven articulation points to correct. His teacher corrects one makhraj at a time (seen and zay, then dal and kha) while letting him memorise. The principal wants him back on the Qaida first; his father wants him to keep memorising. <b>The principal speaks with Shaikh Haroon.</b>",
+            "fr": "Motivé et rapide à mémoriser, mais avec environ sept points d'articulation à corriger. Son enseignante corrige un makhraj à la fois (sin et zay, puis dal et kha) tout en le laissant mémoriser. La direction veut d'abord le ramener à la Qaida ; son père veut qu'il continue à mémoriser. <b>La direction parle avec Shaikh Haroon.</b>"
           }
         }
       ]
@@ -122,13 +122,13 @@
     {
       "heading": "Supervision and conduct",
       "headline": {
-        "en": "Two teachers downstairs and two upstairs before 8:00, and no leaning on the wall in class",
-        "fr": "Deux enseignantes en bas et deux en haut avant 8 h, et pas d'appui contre le mur en classe"
+        "en": "Two teachers downstairs and two upstairs from 7:45 to 8:05, and no leaning on the wall in class",
+        "fr": "Deux enseignantes en bas et deux en haut de 7 h 45 à 8 h 05, et pas d'appui contre le mur en classe"
       },
       "paragraphs": [
         {
-          "en": "This morning the secondary girls were standing in the upstairs corridor talking in front of the classrooms. From now on, in the ten minutes before 8:00, <b>two teachers stand on the ground floor and two upstairs</b> so that students go straight to class. The principal also speaks with the academic teachers so that the morning is coordinated between the two teams.",
-          "fr": "Ce matin, les filles du secondaire se tenaient dans le corridor de l'étage à discuter devant les classes. Désormais, pendant les dix minutes avant 8 h, <b>deux enseignantes se tiennent au rez-de-chaussée et deux à l'étage</b> pour que les élèves aillent directement en classe. La direction parle aussi aux enseignantes du volet académique afin que le matin soit coordonné entre les deux équipes."
+          "en": "This morning the secondary girls were standing in the upstairs corridor talking in front of the classrooms. From now on, <b>from 7:45 to 8:05</b>, two teachers stand on the ground floor and two upstairs so that students go straight to class. The principal also speaks with the academic teachers so that the morning is coordinated between the two teams.",
+          "fr": "Ce matin, les filles du secondaire se tenaient dans le corridor de l'étage à discuter devant les classes. Désormais, <b>de 7 h 45 à 8 h 05</b>, deux enseignantes se tiennent au rez-de-chaussée et deux à l'étage pour que les élèves aillent directement en classe. La direction parle aussi aux enseignantes du volet académique afin que le matin soit coordonné entre les deux équipes."
         },
         {
           "en": "Walking between the classes, the principal noticed students slumped against the wall during recitation. Teachers do not stay in one place: they <b>move among the students</b>, straighten their posture and have them recite from wherever the teacher is standing. Several already do this; it becomes the rule for everyone.",
@@ -149,16 +149,14 @@
         "fr": "Enseignantes"
       },
       "due": {
-        "en": "Today",
-        "fr": "Aujourd'hui"
-      },
-      "due_style": "soft"
+        "en": "Wed 16 Sep"
+      }
     },
     {
       "id": "A2",
       "action": {
-        "en": "Format one sheet per teacher on the Henri-Bourassa model (sabaq, revision, remarks) and correct the division against the timetable.",
-        "fr": "Mettre en forme une feuille par enseignante sur le modèle d'Henri-Bourassa (sabaq, révision, remarques) et corriger la répartition selon l'horaire."
+        "en": "Generate one sheet per teacher on the Henri-Bourassa model (sabaq, para, dawr, remarks) and correct the division against the timetable.",
+        "fr": "Produire une feuille par enseignante sur le modèle d'Henri-Bourassa (sabaq, para, dawr, remarques) et corriger la répartition selon l'horaire."
       },
       "owner": {
         "en": "Principal",
@@ -171,8 +169,8 @@
     {
       "id": "A3",
       "action": {
-        "en": "Check that every assigned student recited each session and record the lesson and revision on the sheet.",
-        "fr": "Vérifier que chaque élève assignée a récité à chaque séance et consigner la leçon et la révision sur la feuille."
+        "en": "Check that every assigned student recited each session and record sabaq, para and dawr on the sheet.",
+        "fr": "Vérifier que chaque élève assignée a récité à chaque séance et consigner le sabaq, le para et le dawr sur la feuille."
       },
       "owner": {
         "en": "All teachers",
@@ -209,10 +207,8 @@
         "fr": "Direction et enseignantes"
       },
       "due": {
-        "en": "In two weeks",
-        "fr": "Dans deux semaines"
-      },
-      "due_style": "soft"
+        "en": "Fri 25 Sep"
+      }
     },
     {
       "id": "A6",
@@ -230,8 +226,8 @@
       },
       "due_style": "soft",
       "note": {
-        "en": "After the programme meeting.",
-        "fr": "Après la réunion sur les programmes."
+        "en": "After the 25 September meeting.",
+        "fr": "Après la réunion du 25 septembre."
       }
     },
     {
@@ -253,8 +249,8 @@
     {
       "id": "A8",
       "action": {
-        "en": "Speak with Rayyan's father about returning to the Qaida before further memorisation.",
-        "fr": "Parler au père de Rayyan du retour à la Qaida avant de poursuivre la mémorisation."
+        "en": "Speak with Shaikh Haroon about Rayyan returning to the Qaida before further memorisation.",
+        "fr": "Parler à Shaikh Haroon du retour de Rayyan à la Qaida avant de poursuivre la mémorisation."
       },
       "owner": {
         "en": "Principal",
@@ -269,8 +265,8 @@
     {
       "id": "A9",
       "action": {
-        "en": "Cover the morning arrival, two teachers on the ground floor and two upstairs, until 8:00.",
-        "fr": "Assurer l'accueil du matin, deux enseignantes au rez-de-chaussée et deux à l'étage, jusqu'à 8 h."
+        "en": "Cover the morning arrival from 7:45 to 8:05, two teachers on the ground floor and two upstairs.",
+        "fr": "Assurer l'accueil du matin de 7 h 45 à 8 h 05, deux enseignantes au rez-de-chaussée et deux à l'étage."
       },
       "owner": {
         "en": "All teachers",
@@ -316,41 +312,5 @@
       }
     }
   ],
-  "to_confirm": [
-    {
-      "title": "Programme meeting date.",
-      "text": {
-        "en": "The meeting to set every student's programme was given as “in two weeks” with no date attached.",
-        "fr": "Fixer la date exacte de la réunion sur les programmes."
-      }
-    },
-    {
-      "title": "Morning supervision start.",
-      "text": {
-        "en": "The start time was heard as 7:50 or 7:54; the end at 8:00 is clear.",
-        "fr": "Confirmer l'heure de début de la surveillance du matin."
-      }
-    },
-    {
-      "title": "Rayyan.",
-      "text": {
-        "en": "The transcript calls him the Sheikh's son and mentions the name Haroon nearby; confirm which family before the minutes name him.",
-        "fr": "Confirmer l'identité de l'élève et de la famille concernée."
-      }
-    },
-    {
-      "title": "Revision boxes.",
-      "text": {
-        "en": "The sheet's revision categories were garbled in the transcript and are written here as sabqi and dawr, on the Henri-Bourassa model.",
-        "fr": "Confirmer les catégories de la feuille de suivi."
-      }
-    },
-    {
-      "title": "Start date of the lists.",
-      "text": {
-        "en": "“Tomorrow” was taken as Wednesday 16 September from the transcript date.",
-        "fr": "Confirmer que les listes entrent en usage le 16 septembre."
-      }
-    }
-  ]
+  "to_confirm": []
 }
