@@ -1,0 +1,356 @@
+{
+  "kicker": {
+    "en": "Madrasa teachers meeting",
+    "fr": "Réunion des enseignantes"
+  },
+  "title": {
+    "en": "Student Lists, Daily Follow-up and Individual Programmes",
+    "fr": "Listes d'élèves, suivi quotidien et programmes individuels"
+  },
+  "date": {
+    "en": "Tuesday 15 Sep 2026",
+    "fr": "Mardi 15 sept. 2026",
+    "short": "15 Sep 2026"
+  },
+  "meeting": {
+    "en": "Madrasa teachers meeting",
+    "fr": "Réunion des enseignantes de la madrasa"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Ustadha Ikram, Ustadha Karimah, Ustadha Fatimah, Ustadha Amina, Ustadha Raeesah, Ustadha Halimah, Ustadha Emtethal",
+    "fr": ""
+  },
+  "sections": [
+    {
+      "heading": "Student lists",
+      "headline": {
+        "en": "One list per teacher, formatted by the principal, in use from tomorrow",
+        "fr": "Une liste par enseignante, mise en forme par la direction, en usage dès demain"
+      },
+      "paragraphs": [
+        {
+          "en": "The teachers have already divided the students among themselves on a provisional schedule. That list is <b>sent to the principal today</b>, who formats it on the Henri-Bourassa hifz model: one sheet per teacher, with a box per student for the new lesson (sabaq), one for revision (sabqi and dawr) and one for remarks.",
+          "fr": "Les enseignantes ont déjà réparti les élèves entre elles sur un horaire provisoire. Cette liste est <b>transmise à la direction aujourd'hui</b>, qui la met en forme selon le modèle de hifz d'Henri-Bourassa : une feuille par enseignante, avec pour chaque élève une case pour la nouvelle leçon (sabaq), une pour la révision (sabqi et dawr) et une pour les remarques."
+        },
+        {
+          "en": "The sheet exists so that the teacher always knows where each student stands and can answer a parent on the spot.",
+          "fr": "La feuille sert à ce que l'enseignante sache toujours où en est chaque élève et puisse répondre à un parent sur-le-champ."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Monthly rotation.",
+            "fr": "Rotation mensuelle."
+          },
+          "text": {
+            "en": "A yearly and a weekly assignment were both raised. The division changes <b>month by month</b> so that no student becomes attached to one teacher. The teachers propose it, the principal corrects it against the timetable, and it starts tomorrow.",
+            "fr": "Une répartition annuelle et une répartition hebdomadaire ont été évoquées. La répartition change <b>chaque mois</b> pour qu'aucune élève ne s'habitue à une seule enseignante. Les enseignantes la proposent, la direction la corrige selon l'horaire, et elle s'applique dès demain."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Daily follow-up",
+      "headline": {
+        "en": "Every student recites every session, and her teacher checks that she did",
+        "fr": "Chaque élève récite à chaque séance, et son enseignante le vérifie"
+      },
+      "paragraphs": [
+        {
+          "en": "With six to eight students each, every teacher is <b>personally responsible</b> for knowing whether each of her students actually recited. A student who sits through a two-hour session, then leaves for class ten minutes before the end, has not read. The sheet makes that visible the same day.",
+          "fr": "Avec six à huit élèves chacune, chaque enseignante est <b>personnellement responsable</b> de savoir si chacune de ses élèves a réellement récité. Une élève qui attend toute une séance de deux heures, puis part en classe dix minutes avant la fin, n'a pas lu. La feuille rend cela visible le jour même."
+        },
+        {
+          "en": "The record also protects the teacher. A student who arrived with five ajza memorised and then spent months on tajweed correction has a documented reason for not adding pages. The entry level in tajweed and hifz is written down on day one, and irregular attendance goes in the remarks box.",
+          "fr": "Le registre protège aussi l'enseignante. Une élève arrivée avec cinq ajza mémorisés et qui a ensuite passé des mois en correction de tajwid a une raison documentée de ne pas ajouter de pages. Le niveau d'entrée en tajwid et en hifz est noté dès le premier jour, et l'assiduité irrégulière va dans la case des remarques."
+        }
+      ]
+    },
+    {
+      "heading": "Student programmes",
+      "headline": {
+        "en": "Within two weeks, a written programme and a target for every student, sent to the parents",
+        "fr": "D'ici deux semaines, un programme écrit et un objectif pour chaque élève, envoyés aux parents"
+      },
+      "paragraphs": [
+        {
+          "en": "The school wants one standard on both campuses. This year <b>every student, in every class, receives an individual programme</b> matched to her level: where she stands now and what steady effort should produce, for example five or six ajza by year end, or ten with more work at home.",
+          "fr": "L'école veut une seule norme sur les deux campus. Cette année, <b>chaque élève, dans chaque classe, reçoit un programme individuel</b> adapté à son niveau : où elle en est et ce qu'un effort régulier devrait donner, par exemple cinq ou six ajza d'ici la fin de l'année, ou dix avec plus de travail à la maison."
+        },
+        {
+          "en": "In about two weeks the principal and the teachers agree on each programme, write it up and send it to the parents. Parents have said they do not know how the memorisation is going; a written target shows them, for example, that their daughter is stuck at two ajza because she does not read at home. The report lists entry level, correction phase, then memorisation, so that parents understand the method.",
+          "fr": "Dans environ deux semaines, la direction et les enseignantes fixent chaque programme, le rédigent et l'envoient aux parents. Les parents ont dit ne pas savoir comment avance la mémorisation ; un objectif écrit leur montre, par exemple, que leur fille reste à deux ajza parce qu'elle ne lit pas à la maison. Le rapport présente le niveau d'entrée, la phase de correction, puis la mémorisation, pour que les parents comprennent la méthode."
+        }
+      ]
+    },
+    {
+      "heading": "Tajweed standard",
+      "headline": {
+        "en": "Correction comes before pages, even when the parents push for hifz",
+        "fr": "La correction passe avant les pages, même quand les parents réclament du hifz"
+      },
+      "paragraphs": [
+        {
+          "en": "Many students arrive from the academic school or other programmes with weak articulation points and habits from years of lenient correction. The school <b>does not lower its tajweed standard</b> to match what a student did elsewhere. The first months go to the makharij and to correcting what is already memorised; only then does memorisation accelerate.",
+          "fr": "Beaucoup d'élèves arrivent de l'école régulière ou d'autres programmes avec des points d'articulation faibles et des habitudes prises après des années de correction indulgente. L'école <b>ne baisse pas sa norme de tajwid</b> pour rejoindre ce qu'une élève faisait ailleurs. Les premiers mois vont aux makharij et à la correction de ce qui est déjà mémorisé ; ce n'est qu'ensuite que la mémorisation s'accélère."
+        },
+        {
+          "en": "Parents will push for speed. The answer is the same each time: a wrong recitation of the Qur'an is not a small matter, errors memorised must be unlearned, and a student who spent last year on letter correction is now memorising properly. When a family asks for leniency, the teacher refers them to the written programme and the principal handles the conversation.",
+          "fr": "Les parents pousseront pour aller vite. La réponse est la même chaque fois : une récitation fautive du Coran n'est pas un détail, les erreurs mémorisées doivent être désapprises, et une élève qui a passé l'an dernier à corriger ses lettres mémorise aujourd'hui correctement. Quand une famille demande de l'indulgence, l'enseignante renvoie au programme écrit et la direction mène la conversation."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {
+            "en": "Rayyan.",
+            "fr": "Rayyan."
+          },
+          "text": {
+            "en": "Keen and quick to memorise, but with about seven articulation points to correct. His teacher corrects one makhraj at a time (seen and zay, then dal and kha) while letting him memorise. The principal wants him back on the Qaida first; his father wants him to keep memorising. <b>The principal speaks with the father.</b>",
+            "fr": "Motivé et rapide à mémoriser, mais avec environ sept points d'articulation à corriger. Son enseignante corrige un makhraj à la fois (sin et zay, puis dal et kha) tout en le laissant mémoriser. La direction veut d'abord le ramener à la Qaida ; son père veut qu'il continue à mémoriser. <b>La direction parle avec le père.</b>"
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Supervision and conduct",
+      "headline": {
+        "en": "Two teachers downstairs and two upstairs before 8:00, and no leaning on the wall in class",
+        "fr": "Deux enseignantes en bas et deux en haut avant 8 h, et pas d'appui contre le mur en classe"
+      },
+      "paragraphs": [
+        {
+          "en": "This morning the secondary girls were standing in the upstairs corridor talking in front of the classrooms. From now on, in the ten minutes before 8:00, <b>two teachers stand on the ground floor and two upstairs</b> so that students go straight to class. The principal also speaks with the academic teachers so that the morning is coordinated between the two teams.",
+          "fr": "Ce matin, les filles du secondaire se tenaient dans le corridor de l'étage à discuter devant les classes. Désormais, pendant les dix minutes avant 8 h, <b>deux enseignantes se tiennent au rez-de-chaussée et deux à l'étage</b> pour que les élèves aillent directement en classe. La direction parle aussi aux enseignantes du volet académique afin que le matin soit coordonné entre les deux équipes."
+        },
+        {
+          "en": "Walking between the classes, the principal noticed students slumped against the wall during recitation. Teachers do not stay in one place: they <b>move among the students</b>, straighten their posture and have them recite from wherever the teacher is standing. Several already do this; it becomes the rule for everyone.",
+          "fr": "En passant entre les classes, la direction a remarqué des élèves affalées contre le mur pendant la récitation. Les enseignantes ne restent pas à une place : elles <b>circulent parmi les élèves</b>, redressent leur position et les font réciter de l'endroit où elles se trouvent. Plusieurs le font déjà ; cela devient la règle pour toutes."
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Send the complete student list, with the division among teachers, to the principal.",
+        "fr": "Transmettre à la direction la liste complète des élèves, avec la répartition entre enseignantes."
+      },
+      "owner": {
+        "en": "Teaching staff",
+        "fr": "Enseignantes"
+      },
+      "due": {
+        "en": "Today",
+        "fr": "Aujourd'hui"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Format one sheet per teacher on the Henri-Bourassa model (sabaq, revision, remarks) and correct the division against the timetable.",
+        "fr": "Mettre en forme une feuille par enseignante sur le modèle d'Henri-Bourassa (sabaq, révision, remarques) et corriger la répartition selon l'horaire."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Wed 16 Sep"
+      }
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Check that every assigned student recited each session and record the lesson and revision on the sheet.",
+        "fr": "Vérifier que chaque élève assignée a récité à chaque séance et consigner la leçon et la révision sur la feuille."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Toutes les enseignantes"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Record each new student's tajweed and hifz level on entry, and note irregular attendance in the remarks box.",
+        "fr": "Noter le niveau de tajwid et de hifz de chaque nouvelle élève à l'entrée, et inscrire l'assiduité irrégulière dans la case des remarques."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Toutes les enseignantes"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Meet to set an individual programme and a yearly target for every student.",
+        "fr": "Se réunir pour fixer un programme individuel et un objectif annuel pour chaque élève."
+      },
+      "owner": {
+        "en": "Principal and teachers",
+        "fr": "Direction et enseignantes"
+      },
+      "due": {
+        "en": "In two weeks",
+        "fr": "Dans deux semaines"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Write up each student's programme and send it to the parents.",
+        "fr": "Rédiger le programme de chaque élève et l'envoyer aux parents."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft",
+      "note": {
+        "en": "After the programme meeting.",
+        "fr": "Après la réunion sur les programmes."
+      }
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Rotate the student division among teachers at the start of each month.",
+        "fr": "Faire tourner la répartition des élèves entre enseignantes au début de chaque mois."
+      },
+      "owner": {
+        "en": "Teachers and principal",
+        "fr": "Enseignantes et direction"
+      },
+      "due": {
+        "en": "Monthly",
+        "fr": "Chaque mois"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Speak with Rayyan's father about returning to the Qaida before further memorisation.",
+        "fr": "Parler au père de Rayyan du retour à la Qaida avant de poursuivre la mémorisation."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Cover the morning arrival, two teachers on the ground floor and two upstairs, until 8:00.",
+        "fr": "Assurer l'accueil du matin, deux enseignantes au rez-de-chaussée et deux à l'étage, jusqu'à 8 h."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Toutes les enseignantes"
+      },
+      "due": {
+        "en": "Wed 16 Sep"
+      },
+      "note": {
+        "en": "Then every morning.",
+        "fr": "Puis chaque matin."
+      }
+    },
+    {
+      "id": "A10",
+      "action": {
+        "en": "Coordinate morning supervision with the academic teachers.",
+        "fr": "Coordonner la surveillance du matin avec les enseignantes du volet académique."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A11",
+      "action": {
+        "en": "Circulate among students during recitation and correct their sitting posture.",
+        "fr": "Circuler parmi les élèves pendant la récitation et corriger leur position assise."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Toutes les enseignantes"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Programme meeting date.",
+      "text": {
+        "en": "The meeting to set every student's programme was given as “in two weeks” with no date attached.",
+        "fr": "Fixer la date exacte de la réunion sur les programmes."
+      }
+    },
+    {
+      "title": "Morning supervision start.",
+      "text": {
+        "en": "The start time was heard as 7:50 or 7:54; the end at 8:00 is clear.",
+        "fr": "Confirmer l'heure de début de la surveillance du matin."
+      }
+    },
+    {
+      "title": "Rayyan.",
+      "text": {
+        "en": "The transcript calls him the Sheikh's son and mentions the name Haroon nearby; confirm which family before the minutes name him.",
+        "fr": "Confirmer l'identité de l'élève et de la famille concernée."
+      }
+    },
+    {
+      "title": "Revision boxes.",
+      "text": {
+        "en": "The sheet's revision categories were garbled in the transcript and are written here as sabqi and dawr, on the Henri-Bourassa model.",
+        "fr": "Confirmer les catégories de la feuille de suivi."
+      }
+    },
+    {
+      "title": "Start date of the lists.",
+      "text": {
+        "en": "“Tomorrow” was taken as Wednesday 16 September from the transcript date.",
+        "fr": "Confirmer que les listes entrent en usage le 16 septembre."
+      }
+    }
+  ]
+}
