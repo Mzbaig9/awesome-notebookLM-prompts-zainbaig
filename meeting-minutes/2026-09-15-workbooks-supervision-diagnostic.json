@@ -97,8 +97,8 @@
     {
       "heading": "Diagnostic test and 25 September",
       "headline": {
-        "en": "Progress email on 25 September,<br/>diagnostic test from 28 September",
-        "fr": "Point d'avancement le 25 septembre,<br/>test diagnostique dès le 28 septembre"
+        "en": "Progress email on 25 September,<br/>diagnostic test on Monday 28 September",
+        "fr": "Point d'avancement le 25 septembre,<br/>test diagnostique le lundi 28 septembre"
       },
       "paragraphs": [
         {
@@ -106,8 +106,8 @@
           "fr": "Le <b>vendredi 25 septembre</b>, chaque enseignant envoie à la direction le point atteint dans chaque matière : mathématiques, anglais, français et sciences. Les observations sur les élèves en difficulté convenues à la dernière réunion sont dues le même jour. Un élève en difficulté : problèmes de comportement, besoins particuliers soupçonnés, devoirs non faits de façon répétée, ou tout enfant qui a besoin d'une intervention au-delà de la classe."
         },
         {
-          "en": "In the week of <b>28 to 30 September</b> the principal supplies a standardized diagnostic test in English, French and mathematics, not science or history, completed within one hour. Teachers only administer it. It is unannounced, mostly reading comprehension, with no grammar. It gives parents an objective measure early in the year, and the principal will write to them afterwards to explain that it is a diagnostic, not a selection.",
-          "fr": "Dans la semaine du <b>28 au 30 septembre</b>, la direction fournit un test diagnostique standardisé en anglais, en français et en mathématiques, ni en sciences ni en histoire, complété en une heure. Les enseignants ne font que l'administrer. Il n'est pas annoncé, porte surtout sur la compréhension de lecture et n'aborde pas la grammaire. Il donne aux parents une mesure objective tôt dans l'année, et la direction leur écrira ensuite pour expliquer qu'il s'agit d'un diagnostic, non d'une sélection."
+          "en": "On <b>Monday 28 September</b> the principal supplies a standardized diagnostic test in English, French and mathematics, not science or history, completed within one hour. Teachers only administer it. It is unannounced, mostly reading comprehension, with no grammar. It gives parents an objective measure early in the year, and the principal will write to them afterwards to explain that it is a diagnostic, not a selection.",
+          "fr": "Le <b>lundi 28 septembre</b>, la direction fournit un test diagnostique standardisé en anglais, en français et en mathématiques, ni en sciences ni en histoire, complété en une heure. Les enseignants ne font que l'administrer. Il n'est pas annoncé, porte surtout sur la compréhension de lecture et n'aborde pas la grammaire. Il donne aux parents une mesure objective tôt dans l'année, et la direction leur écrira ensuite pour expliquer qu'il s'agit d'un diagnostic, non d'une sélection."
         },
         {
           "en": "Unit tests already scheduled that week go ahead; the diagnostic covers different material. Because 25 September is a heavy day, the weekly report due that Friday at 8:00 PM may this once be submitted <b>by Saturday 26 September at noon</b>.",
@@ -122,8 +122,8 @@
             "fr": "Une seule séance, non annoncée."
           },
           "text": {
-            "en": "Splitting the test over several days to reduce stress was proposed and rejected: announcing it would defeat the diagnostic. The test is shorter than last year's.",
-            "fr": "Répartir le test sur plusieurs jours pour réduire le stress a été proposé puis écarté : l'annoncer ferait perdre au diagnostic sa valeur. Le test est plus court que celui de l'an dernier."
+            "en": "Splitting the test over several days to reduce stress was proposed and rejected: announcing it would defeat the diagnostic. The test is shorter than last year's and is given on a single day.",
+            "fr": "Répartir le test sur plusieurs jours pour réduire le stress a été proposé puis écarté : l'annoncer ferait perdre au diagnostic sa valeur. Le test est plus court que celui de l'an dernier et se donne en une seule journée."
           }
         }
       ]
@@ -188,8 +188,8 @@
     {
       "id": "A1",
       "action": {
-        "en": "Apply the correction standard in every workbook: red pen for teacher corrections, blue circle for unassigned exercises, review and initials on student self-corrections.",
-        "fr": "Appliquer la norme de correction dans chaque cahier : stylo rouge pour les corrections, cercle bleu pour les exercices non assignés, mention review et initiales sur les autocorrections."
+        "en": "Apply the correction standard: red pen, blue circle for unassigned exercises, review and initials on self-corrections.",
+        "fr": "Appliquer la norme de correction : stylo rouge, cercle bleu pour les exercices non assignés, review et initiales sur les autocorrections."
       },
       "owner": {
         "en": "All teachers",
@@ -233,8 +233,8 @@
         "en": "Mon 28 Sep"
       },
       "note": {
-        "en": "Individual feedback follows. History and science later.",
-        "fr": "Rétroaction individuelle ensuite. Histoire et sciences plus tard."
+        "en": "Individual feedback follows.",
+        "fr": "Rétroaction individuelle ensuite."
       }
     },
     {
@@ -248,8 +248,7 @@
         "fr": "Direction"
       },
       "due": {
-        "en": "28 to 30 Sep",
-        "fr": "28 au 30 septembre"
+        "en": "Mon 28 Sep"
       }
     },
     {
@@ -263,8 +262,7 @@
         "fr": "Enseignants concernés"
       },
       "due": {
-        "en": "28 to 30 Sep",
-        "fr": "28 au 30 septembre"
+        "en": "Mon 28 Sep"
       },
       "note": {
         "en": "English, French and mathematics only.",
@@ -304,8 +302,8 @@
     {
       "id": "A8",
       "action": {
-        "en": "Document steps taken when homework is not done; escalate to the principal after about three unanswered emails to parents.",
-        "fr": "Consigner les démarches quand les devoirs ne sont pas faits ; escalader à la direction après environ trois courriels aux parents sans réponse."
+        "en": "Document steps taken on missing homework; escalate to the principal after about three unanswered emails.",
+        "fr": "Consigner les démarches pour les devoirs non faits ; escalader à la direction après environ trois courriels sans réponse."
       },
       "owner": {
         "en": "All teachers",
@@ -319,8 +317,8 @@
     {
       "id": "A9",
       "action": {
-        "en": "Hand any group you leave to a nearby adult; go looking for students missing after a break; stand and circulate in class.",
-        "fr": "Confier tout groupe que l'on quitte à un adulte à proximité ; aller chercher les élèves absents après une pause ; rester debout et circuler en classe."
+        "en": "Hand any group you leave to a nearby adult; fetch students missing after a break; stand and circulate in class.",
+        "fr": "Confier tout groupe quitté à un adulte proche ; aller chercher les élèves manquants après une pause ; circuler en classe."
       },
       "owner": {
         "en": "All teachers",
@@ -334,8 +332,8 @@
     {
       "id": "A10",
       "action": {
-        "en": "Message administration with the room number for any room missing desks or with undersized chairs, starting with room 201.",
-        "fr": "Envoyer à la direction le numéro de tout local où manquent des pupitres ou dont les chaises sont trop petites, à commencer par le local 201."
+        "en": "Report rooms missing desks or with undersized chairs to administration, room number included, starting with 201.",
+        "fr": "Signaler à la direction, avec le numéro du local, les pupitres manquants ou les chaises trop petites, à commencer par le 201."
       },
       "owner": {
         "en": "Teachers concerned",
@@ -399,8 +397,8 @@
     {
       "id": "A14",
       "action": {
-        "en": "Build the full-year guide from the ministry examinations for Grade 4, Grade 6, Secondary 2 and Secondary 4.",
-        "fr": "Élaborer le guide annuel à partir des examens du ministère pour la 4e année, la 6e année, le secondaire 2 et le secondaire 4."
+        "en": "Build the full-year guide from the ministry examinations.",
+        "fr": "Élaborer le guide annuel à partir des examens du ministère."
       },
       "owner": {
         "en": "Principal",
@@ -413,34 +411,5 @@
       "due_style": "soft"
     }
   ],
-  "to_confirm": [
-    {
-      "title": "Workbooks for 28 September.",
-      "text": {
-        "en": "Mathematics and English were named for the second audit. Whether French is included, and whether Grade 3, not submitted the first time, is expected, was not stated.",
-        "fr": "Préciser les matières et les niveaux attendus le 28 septembre."
-      }
-    },
-    {
-      "title": "Diagnostic test day.",
-      "text": {
-        "en": "The test falls in the week of 28 to 30 September; the exact day for each level, and whether every grade sits it, was not fixed.",
-        "fr": "Fixer le jour du test pour chaque niveau."
-      }
-    },
-    {
-      "title": "Handwriting workbook grades.",
-      "text": {
-        "en": "Grade 3 is confirmed; Grade 4 and Grade 6 depend on the teachers' assessment, and no date was set for the order.",
-        "fr": "Confirmer les niveaux et la date de la commande."
-      }
-    },
-    {
-      "title": "Grade 6 follow-up.",
-      "text": {
-        "en": "A homework log and direct review by the principal were both mentioned; the form and frequency were not settled.",
-        "fr": "Préciser la forme du suivi de la 6e année."
-      }
-    }
-  ]
+  "to_confirm": []
 }
