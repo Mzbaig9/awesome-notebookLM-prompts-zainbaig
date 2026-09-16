@@ -38,8 +38,8 @@
           "fr": "Deux transitions donnent le rythme de tout l'après-midi. Les classes descendent pour la prière <b>à 14 h au plus tard</b> ; un retard à ce moment décale tout ce qui suit. En fin de journée, les enseignants descendent avec leur groupe entre 15 h 50 et 15 h 55 et restent avec lui jusqu'à 16 h. Un court horaire de fermeture sera envoyé au personnel aujourd'hui."
         },
         {
-          "en": "Dismissal has become chaotic downstairs after 4:00 PM, and there have been incidents in the past. Until it settles, the Sheikh stays inside with the students while a second adult is outside, watching the cars and the WhatsApp group where parents announce the student they are collecting. The principal will stay until 4:15 PM and explain the outdoor role. The arrangement can be relaxed once the routine holds.",
-          "fr": "La sortie est devenue chaotique en bas après 16 h, et il y a eu des incidents par le passé. Jusqu'à ce que la situation se stabilise, le cheikh reste à l'intérieur avec les élèves pendant qu'un second adulte est dehors pour surveiller les voitures et le groupe WhatsApp où les parents annoncent l'élève qu'ils viennent chercher. La direction restera jusqu'à 16 h 15 et expliquera le rôle à l'extérieur. Le dispositif pourra être allégé une fois la routine installée."
+          "en": "Dismissal has become chaotic downstairs after 4:00 PM, and there have been incidents in the past. Until it settles, the Sheikh stays inside with the students while a second adult is outside, watching the cars and the WhatsApp group where parents announce the student they are collecting. The principal will be present at dismissal and will explain the outdoor role. The arrangement can be relaxed once the routine holds.",
+          "fr": "La sortie est devenue chaotique en bas après 16 h, et il y a eu des incidents par le passé. Jusqu'à ce que la situation se stabilise, le cheikh reste à l'intérieur avec les élèves pendant qu'un second adulte est dehors pour surveiller les voitures et le groupe WhatsApp où les parents annoncent l'élève qu'ils viennent chercher. La direction sera présente à la sortie et expliquera le rôle à l'extérieur. Le dispositif pourra être allégé une fois la routine installée."
         }
       ]
     },
@@ -68,8 +68,8 @@
           "fr": "D'ici le <b>vendredi 25 septembre</b>, chaque enseignant envoie par courriel à la direction deux choses : la liste des élèves qui présentent des difficultés exigeant une intervention plus spécialisée, qu'elles soient comportementales ou de compréhension, et le point exact atteint en français, en mathématiques et en English language arts, chapitre par chapitre, pour chaque niveau enseigné."
         },
         {
-          "en": "On <b>Monday 28 September</b>, students sit a diagnostic test built by the principal on the material already covered. Teachers only hand out the test, supervise it and return it; the principal marks it and writes the report. Students are not to be told in advance.",
-          "fr": "Le <b>lundi 28 septembre</b>, les élèves passent un test diagnostique préparé par la direction sur la matière déjà vue. Les enseignants se limitent à distribuer le test, à le surveiller et à le remettre ; la direction le corrige et rédige le rapport. Les élèves ne doivent pas en être informés à l'avance."
+          "en": "On <b>Monday 28 September</b>, students sit diagnostic tests in <b>French, mathematics and English language arts</b>, built by the principal on the material already covered. Teachers only hand out the tests, supervise them and return them; the principal marks them and writes the report. Students are not to be told in advance.",
+          "fr": "Le <b>lundi 28 septembre</b>, les élèves passent des tests diagnostiques en <b>français, en mathématiques et en English language arts</b>, préparés par la direction sur la matière déjà vue. Les enseignants se limitent à distribuer les tests, à les surveiller et à les remettre ; la direction les corrige et rédige le rapport. Les élèves ne doivent pas en être informés à l'avance."
         },
         {
           "en": "The purpose is a factual report to parents before the first parent meeting: the child's actual level and what to work on at home. Establishing this in the first month, together with the teacher comments from 25 September, avoids the usual exchange later in the year where the school and the home each blame the other. For separated parents, the report goes to both.",
@@ -93,8 +93,8 @@
           "fr": "Les 4e, 5e et 6e années ainsi que le secondaire 2 et 4 ont des épreuves du ministère ; les élèves doivent donc écrire régulièrement dans les deux langues d'enseignement. Trois formes d'écriture sont distinguées : les réponses rédigées dans le cadre d'une tâche, un texte où l'écriture elle-même est évaluée, <b>au moins une fois par semaine</b>, et le processus d'écriture complet, de la recherche d'idées au brouillon, à sa correction et au texte final, <b>au moins une fois par mois</b>."
         },
         {
-          "en": "In mathematics, every page of the workbook is to be completed. Grade 6 needs sustained work on problem solving: the workbook offers only one or two situations per chapter, so teachers add one extra problem a week from outside resources, translated into English with AI where needed. Once the principal has access to the ministry examinations, expected this week or next, short preparation booklets will be built for Grades 4 to 6.",
-          "fr": "En mathématiques, chaque page du cahier doit être complétée. La 6e année demande un travail soutenu en résolution de problèmes : le cahier n'offre qu'une ou deux situations par chapitre, les enseignants ajoutent donc une situation-problème de plus par semaine à partir de ressources externes, traduites en anglais avec l'IA au besoin. Dès que la direction aura accès aux épreuves ministérielles, attendu cette semaine ou la suivante, de courts cahiers de préparation seront préparés pour la 4e à la 6e année."
+          "en": "In mathematics, every page of the workbook is to be completed. Grade 6 needs sustained work on problem solving: the workbook offers only one or two situations per chapter, so teachers add one extra problem-solving situation a week drawn from the <b>Mazone CEC</b> platform, translated into English with AI where needed. Once the principal has access to the ministry examinations, expected this week or next, short preparation booklets will be built for Grades 4 to 6.",
+          "fr": "En mathématiques, chaque page du cahier doit être complétée. La 6e année demande un travail soutenu en résolution de problèmes : le cahier n'offre qu'une ou deux situations par chapitre, les enseignants ajoutent donc une situation-problème de plus par semaine tirée de la plateforme <b>Mazone CEC</b>, traduite en anglais avec l'IA au besoin. Dès que la direction aura accès aux épreuves ministérielles, attendu cette semaine ou la suivante, de courts cahiers de préparation seront préparés pour la 4e à la 6e année."
         }
       ]
     },
@@ -187,14 +187,14 @@
       ],
       "callouts": [
         {
-          "type": "open",
+          "type": "note",
           "lead": {
-            "en": "Teacher work update.",
-            "fr": "Mise à jour sur la façon de travailler."
+            "en": "Teacher workspace.",
+            "fr": "Espace de travail des enseignants."
           },
           "text": {
-            "en": "A teacher asked for the promised update on the teacher working method. The principal had planned it for the previous evening and now intends to do it on a Tuesday evening, ahead of the Tuesday and Wednesday morning recycling pickup.",
-            "fr": "Une enseignante a demandé la mise à jour promise sur la façon de travailler des enseignants. La direction l'avait prévue la veille au soir et compte maintenant la faire un mardi soir, avant la collecte du recyclage du mardi et du mercredi matin."
+            "en": "A space will be cleared for teachers to work. The principal will have it done by next week, timed with the Tuesday and Wednesday morning recycling pickup so the material removed goes out at once.",
+            "fr": "Un espace sera dégagé pour que les enseignants puissent travailler. La direction le fera d'ici la semaine prochaine, en coordination avec la collecte du recyclage du mardi et du mercredi matin pour que le matériel retiré parte aussitôt."
           }
         }
       ]
@@ -250,8 +250,8 @@
     {
       "id": "A4",
       "action": {
-        "en": "Prepare the diagnostic tests, mark them and write the parent reports.",
-        "fr": "Préparer les tests diagnostiques, les corriger et rédiger les rapports aux parents."
+        "en": "Prepare the French, math and English language arts diagnostic tests, mark them and write the parent reports.",
+        "fr": "Préparer les tests diagnostiques de français, de mathématiques et d'English language arts, les corriger et rédiger les rapports aux parents."
       },
       "owner": {
         "en": "Principal",
@@ -269,8 +269,8 @@
     {
       "id": "A5",
       "action": {
-        "en": "Administer and supervise the diagnostic test, then return it to the principal. Do not announce it to students.",
-        "fr": "Faire passer et surveiller le test diagnostique, puis le remettre à la direction. Ne pas l'annoncer aux élèves."
+        "en": "Administer and supervise the diagnostic tests, then return them to the principal. Do not announce them to students.",
+        "fr": "Faire passer et surveiller les tests diagnostiques, puis les remettre à la direction. Ne pas les annoncer aux élèves."
       },
       "owner": {
         "en": "All teachers",
@@ -299,8 +299,8 @@
     {
       "id": "A7",
       "action": {
-        "en": "Assessed writing once a week, full writing process once a month, one extra problem-solving situation a week in Grade 6.",
-        "fr": "Écriture évaluée une fois par semaine, processus d'écriture complet une fois par mois, une situation-problème de plus par semaine en 6e année."
+        "en": "Assessed writing once a week, full writing process once a month, one extra Mazone CEC problem-solving situation a week in Grade 6.",
+        "fr": "Écriture évaluée une fois par semaine, processus d'écriture complet une fois par mois, une situation-problème Mazone CEC de plus par semaine en 6e année."
       },
       "owner": {
         "en": "Subject teachers",
@@ -376,63 +376,27 @@
         "fr": "Direction"
       },
       "due": {
-        "en": "This week",
-        "fr": "Cette semaine"
+        "en": "Next meeting",
+        "fr": "Prochaine réunion"
       },
       "due_style": "soft"
     },
     {
       "id": "A12",
       "action": {
-        "en": "Send the update on the teacher working method.",
-        "fr": "Transmettre la mise à jour sur la façon de travailler des enseignants."
+        "en": "Clear a working space for teachers.",
+        "fr": "Dégager un espace de travail pour les enseignants."
       },
       "owner": {
         "en": "Principal",
         "fr": "Direction"
       },
       "due": {
-        "en": "Tuesday evening",
-        "fr": "Mardi soir"
+        "en": "Next week",
+        "fr": "Semaine prochaine"
       },
       "due_style": "soft"
     }
   ],
-  "to_confirm": [
-    {
-      "title": "Scope of the diagnostic test.",
-      "text": {
-        "en": "It was introduced as a mathematics test, but progress was requested in French, mathematics and English language arts. Confirm which subjects are tested on 28 September.",
-        "fr": "Confirmer les matières visées par le test du 28 septembre."
-      }
-    },
-    {
-      "title": "Principal's 4:15 PM presence.",
-      "text": {
-        "en": "The day or days on which the principal stays until 4:15 PM for dismissal were not stated.",
-        "fr": "Préciser les jours de présence jusqu'à 16 h 15."
-      }
-    },
-    {
-      "title": "Problem-solving resource.",
-      "text": {
-        "en": "The source recommended for extra Grade 6 problem-solving situations was garbled in the transcript (\"Amazon CCC\"). Name it before circulating.",
-        "fr": "Nommer la ressource recommandée pour les situations-problèmes."
-      }
-    },
-    {
-      "title": "Teacher work update.",
-      "text": {
-        "en": "What the update covers, and the link to the recycling pickup, were not clear. The date is given only as \"Tuesday evening\".",
-        "fr": "Préciser l'objet de la mise à jour et fixer la date."
-      }
-    },
-    {
-      "title": "Desk delivery.",
-      "text": {
-        "en": "No date was fixed for the extra desks or the folding table; \"this week\" is an assumption.",
-        "fr": "Fixer la date de livraison des pupitres."
-      }
-    }
-  ]
+  "to_confirm": []
 }
