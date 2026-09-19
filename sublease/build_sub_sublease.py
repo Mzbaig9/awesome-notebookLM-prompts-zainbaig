@@ -218,52 +218,46 @@ def french():
     s.append(P("17. Le Sous-sous-locataire ne cédera pas, ne transférera pas et ne sous-louera pas les Locaux, en tout ou en partie, "
                "sans le consentement écrit préalable du Sous-sous-locateur, du Sous-locateur et du Locateur.", num))
 
-    s.append(P("<u>Consentement du Sous-locateur et avis au Locateur</u>", h))
+    s.append(P("<u>Consentement du Sous-locateur</u>", h))
     s.append(P("18. Par sa signature, le Sous-locateur consent à la présente sous-location de second rang conformément à l'article 24 "
                "du Contrat de sous-location. Ce consentement est limité aux personnes nommément désignées comme Sous-sous-locataire, "
                "ne libère pas le Sous-locataire de ses obligations, ne crée aucun lien contractuel direct entre le Sous-locateur et "
                "le Sous-sous-locataire autre que les droits réservés à l'article 12, et ne peut être invoqué pour toute autre "
                "sous-location ou cession.", num))
-    s.append(P("19. Conformément aux articles 1870 et 1871 du Code civil du Québec, le Sous-sous-locateur, avec la collaboration du "
-               "Sous-locateur, avisera sans délai le Locateur par écrit de son intention de sous-louer ainsi que du nom et de "
-               "l'adresse de chaque personne formant le Sous-sous-locataire. Le présent contrat est conditionnel à ce que le "
-               "Locateur ne refuse pas son consentement pour un motif sérieux dans les quinze (15) jours de la réception de "
-               "l'avis. En cas de refus, le présent contrat est résolu, tout Loyer payé d'avance est remboursé et aucune partie "
-               "n'a de recours contre le Sous-locateur.", num))
 
     s.append(P("<u>Cas de défaillance et recours</u>", h))
-    s.append(P("20. Le Sous-sous-locataire est en défaut s'il ne paie pas le Loyer à échéance, manque à l'une de ses obligations "
+    s.append(P("19. Le Sous-sous-locataire est en défaut s'il ne paie pas le Loyer à échéance, manque à l'une de ses obligations "
                "aux termes du présent contrat, du Contrat de sous-location ou du Bail initial, abandonne les Locaux, les utilise "
                "à des fins non autorisées ou illégales, ou si les Locaux sont endommagés par sa négligence ou celle de ses invités. "
                "Le Sous-sous-locateur dispose alors des recours prévus à l'article 14 du Contrat de sous-location et au Code civil "
                "du Québec, sans préjudice des recours du Sous-locateur.", num))
 
     s.append(P("<u>Loi applicable et langue</u>", h))
-    s.append(P("21. Le présent contrat est régi par les lois de la province de Québec, notamment le Code civil du Québec "
+    s.append(P("20. Le présent contrat est régi par les lois de la province de Québec, notamment le Code civil du Québec "
                "(art. 1851 et suivants, 1870 à 1876 et 1892 et suivants). Tout litige relève de la compétence du Tribunal "
                "administratif du logement ou, selon le cas, des tribunaux de droit commun du district de Montréal. En cas de "
                "conflit entre le présent contrat et une disposition d'ordre public, cette dernière prévaut et le contrat est "
                "réputé modifié en conséquence.", num))
-    s.append(P("22. Les parties ont reçu une version française du présent contrat et de l'Annexe A et ont expressément demandé, "
+    s.append(P("21. Les parties ont reçu une version française du présent contrat et de l'Annexe A et ont expressément demandé, "
                "conformément à l'article 55 de la Charte de la langue française, à être liées par la version anglaise.", num))
 
     s.append(P("<u>Avis</u>", h))
-    s.append(P("23. Tout avis au Sous-locateur sera signifié ou envoyé à : Mirza-Zain Baig, 39, rue de Dinan, Laval (Québec) H7N 2X8, "
+    s.append(P("22. Tout avis au Sous-locateur sera signifié ou envoyé à : Mirza-Zain Baig, 39, rue de Dinan, Laval (Québec) H7N 2X8, "
                "ou mzbaig9@gmail.com.", num))
-    s.append(P("24. Tout avis au Sous-sous-locateur sera signifié ou envoyé à : Nithin Goud Maragoni, "
+    s.append(P("23. Tout avis au Sous-sous-locateur sera signifié ou envoyé à : Nithin Goud Maragoni, "
                "adresse : ______________________________________________, courriel : ______________________________.", num))
-    s.append(P("25. Tout avis au Sous-sous-locataire sera signifié ou envoyé à Kulwinder Singh, Parveen Sharma et Mohit Panchal au "
+    s.append(P("24. Tout avis au Sous-sous-locataire sera signifié ou envoyé à Kulwinder Singh, Parveen Sharma et Mohit Panchal au "
                "2775, boul. Toupin, Montréal (Québec) H4R 1G7. Les avis seront faits par écrit et signifiés en personne, par "
                "courrier recommandé (Postes Canada) ou par courriel avec confirmation de réception.", num))
 
     s.append(P("<u>Dispositions générales</u>", h))
-    s.append(P("26. Le Sous-sous-locateur ou le Sous-locateur peut pénétrer dans les Locaux moyennant un préavis de 24 heures pour "
+    s.append(P("25. Le Sous-sous-locateur ou le Sous-locateur peut pénétrer dans les Locaux moyennant un préavis de 24 heures pour "
                "les inspecter, les entretenir ou y effectuer des réparations.", num))
-    s.append(P("27. Au moment de la prise de possession ou dans les 7 jours qui suivent, le Sous-sous-locateur remettra au "
+    s.append(P("26. Au moment de la prise de possession ou dans les 7 jours qui suivent, le Sous-sous-locateur remettra au "
                "Sous-sous-locataire un formulaire d'inspection décrivant l'état des Locaux et de leur contenu.", num))
-    s.append(P("28. Le présent contrat, avec l'Annexe A, constitue l'entente complète entre les parties; toute modification doit "
+    s.append(P("27. Le présent contrat, avec l'Annexe A, constitue l'entente complète entre les parties; toute modification doit "
                "être faite par écrit et signée par le Sous-sous-locateur, le Sous-sous-locataire et le Sous-locateur.", num))
-    s.append(P("29. Le présent contrat peut être signé en plusieurs exemplaires et par signature électronique, chacun valant original. "
+    s.append(P("28. Le présent contrat peut être signé en plusieurs exemplaires et par signature électronique, chacun valant original. "
                "Chaque signataire reconnaît avoir reçu un exemplaire signé.", num))
 
     s.append(P("<b>EN FOI DE QUOI</b> les parties ont signé le ____ ________________ 2026."))
@@ -380,51 +374,45 @@ def english():
     s.append(P("17. The Sub-Subtenant will not assign, transfer or further sublet the Premises or any part of them without the "
                "prior written consent of the Sub-Sublandlord, the Sublandlord and the Landlord.", num))
 
-    s.append(P("<u>Consent of the Sublandlord and Notice to the Landlord</u>", h))
+    s.append(P("<u>Consent of the Sublandlord</u>", h))
     s.append(P("18. By signing this Agreement the Sublandlord consents to this sub-sublease pursuant to clause 24 of the Sublease. "
                "This consent is limited to the persons named as Sub-Subtenant, does not release the Subtenant from any "
                "obligation, creates no direct contractual relationship between the Sublandlord and the Sub-Subtenant other than "
                "the rights reserved in clause 12, and may not be relied upon for any other sublease or assignment.", num))
-    s.append(P("19. In accordance with articles 1870 and 1871 of the Civil Code of Québec, the Sub-Sublandlord, with the cooperation "
-               "of the Sublandlord, will promptly give the Landlord written notice of the intended sub-sublease together with the "
-               "name and address of each person comprising the Sub-Subtenant. This Agreement is conditional upon the Landlord not "
-               "refusing consent for a serious reason within fifteen (15) days of receiving that notice. If the Landlord so "
-               "refuses, this Agreement is resolved, any Rent paid in advance will be refunded, and no party will have any "
-               "recourse against the Sublandlord.", num))
 
     s.append(P("<u>Event of Default and Remedies</u>", h))
-    s.append(P("20. The Sub-Subtenant is in default if it fails to pay the Rent when due, fails to perform any obligation under this "
+    s.append(P("19. The Sub-Subtenant is in default if it fails to pay the Rent when due, fails to perform any obligation under this "
                "Agreement, the Sublease or the Master Lease, abandons the Premises, uses them for any unpermitted or illegal "
                "purpose, or if the Premises are damaged through the negligence or wilful act of the Sub-Subtenant or its guests. "
                "The Sub-Sublandlord then has the remedies set out in clause 14 of the Sublease and in the Civil Code of Québec, "
                "without prejudice to the remedies of the Sublandlord.", num))
 
     s.append(P("<u>Governing Law and Language</u>", h))
-    s.append(P("21. This Agreement is governed by the laws of the Province of Quebec, including the Civil Code of Québec "
+    s.append(P("20. This Agreement is governed by the laws of the Province of Quebec, including the Civil Code of Québec "
                "(arts. 1851 et seq., 1870 to 1876 and 1892 et seq.). Any dispute falls within the jurisdiction of the Tribunal "
                "administratif du logement or, as the case may be, the courts of the district of Montréal. If any provision of "
                "this Agreement conflicts with a provision of public order, the latter prevails and this Agreement is deemed "
                "amended accordingly.", num))
-    s.append(P("22. The parties have received a French version of this Agreement and of Schedule A and have expressly requested, "
+    s.append(P("21. The parties have received a French version of this Agreement and of Schedule A and have expressly requested, "
                "in accordance with section 55 of the Charter of the French language, to be bound by the English version.", num))
 
     s.append(P("<u>Notices</u>", h))
-    s.append(P("23. All notices to the Sublandlord will be served or sent to: Mirza-Zain Baig, 39 Rue de Dinan, Laval, QC H7N 2X8, "
+    s.append(P("22. All notices to the Sublandlord will be served or sent to: Mirza-Zain Baig, 39 Rue de Dinan, Laval, QC H7N 2X8, "
                "or mzbaig9@gmail.com.", num))
-    s.append(P("24. All notices to the Sub-Sublandlord will be served or sent to: Nithin Goud Maragoni, "
+    s.append(P("23. All notices to the Sub-Sublandlord will be served or sent to: Nithin Goud Maragoni, "
                "Address: ______________________________________________, Email: ______________________________.", num))
-    s.append(P("25. All notices to the Sub-Subtenant will be served or sent to Kulwinder Singh, Parveen Sharma and Mohit Panchal at "
+    s.append(P("24. All notices to the Sub-Subtenant will be served or sent to Kulwinder Singh, Parveen Sharma and Mohit Panchal at "
                "2775 Bd Toupin, Montréal, QC H4R 1G7. All notices will be in writing and served personally, sent by registered "
                "mail (Canada Post), or sent by email with confirmation of receipt.", num))
 
     s.append(P("<u>General Provisions</u>", h))
-    s.append(P("26. The Sub-Sublandlord or the Sublandlord may enter the Premises upon 24 hours' notice to inspect them, to "
+    s.append(P("25. The Sub-Sublandlord or the Sublandlord may enter the Premises upon 24 hours' notice to inspect them, to "
                "maintain them, or to make repairs.", num))
-    s.append(P("27. At the time the Sub-Subtenant takes possession, or within 7 days of possession, the Sub-Sublandlord will "
+    s.append(P("26. At the time the Sub-Subtenant takes possession, or within 7 days of possession, the Sub-Sublandlord will "
                "provide the Sub-Subtenant with an inspection form recording the condition of the Premises and their contents.", num))
-    s.append(P("28. This Agreement, together with Schedule A, constitutes the entire agreement between the parties; no amendment "
+    s.append(P("27. This Agreement, together with Schedule A, constitutes the entire agreement between the parties; no amendment "
                "is effective unless in writing and signed by the Sub-Sublandlord, the Sub-Subtenant and the Sublandlord.", num))
-    s.append(P("29. This Agreement may be signed in counterparts and by electronic signature, each of which is an original. "
+    s.append(P("28. This Agreement may be signed in counterparts and by electronic signature, each of which is an original. "
                "Each signatory acknowledges receipt of an executed copy.", num))
 
     s.append(P("<b>IN WITNESS WHEREOF</b> the parties have signed this Agreement on this ________ day of ________________, 2026."))
