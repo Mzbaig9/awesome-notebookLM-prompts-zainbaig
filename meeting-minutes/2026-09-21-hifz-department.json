@@ -1,0 +1,365 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Hifz department meeting",
+    "fr": "Réunion du département de hifz"
+  },
+  "title": {
+    "en": "Parent Follow-up, Daily Tracking and the Year Plan",
+    "fr": "Suivi auprès des parents, suivi quotidien et plan de l'année"
+  },
+  "date": {
+    "en": "Monday 21 Sep 2026",
+    "fr": "Lundi 21 sept. 2026",
+    "short": "21 Sep 2026"
+  },
+  "meeting": {
+    "en": "Hifz department",
+    "fr": "Département de hifz"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Hifz teachers",
+    "fr": "Enseignants de hifz"
+  },
+  "sections": [
+    {
+      "heading": "Parent communication",
+      "headline": {
+        "en": "Recurring problems go home<br/>the same day, through one channel",
+        "fr": "Les problèmes récurrents partent<br/>le jour même, par un seul canal"
+      },
+      "paragraphs": [
+        {
+          "en": "Several emails went home today from the lead hifz teacher. One student takes two to three hours to say his sabak, yet says it in fifteen to twenty minutes when a teacher sits with him. Another is moving very slowly; his mother replied that ministry-exam homework takes his time at home, and the school answered that he needs <b>daily accountability from both ends</b>, since he only falls behind on days when nobody follows him.",
+          "fr": "Plusieurs courriels sont partis aujourd'hui de l'enseignant responsable du hifz. Un élève met deux à trois heures à réciter son sabak, mais quinze ou vingt minutes quand un enseignant est assis avec lui. Un autre avance très lentement ; sa mère invoque les devoirs pour les examens du ministère, et l'école a répondu qu'il lui faut <b>un suivi quotidien des deux côtés</b>, puisqu'il ne recule que les jours où personne ne le suit."
+        },
+        {
+          "en": "The principal set the rule for the year: anything recurring is reported right away so it is corrected before it settles in. Teachers pass whatever needs to go home to the lead hifz teacher, at the start of the day or during it, and he sends the email; he holds every parent's contact details.",
+          "fr": "La direction a fixé la règle de l'année : tout ce qui se répète est signalé immédiatement, pour être corrigé avant de s'installer. Les enseignants transmettent ce qui doit partir aux parents à l'enseignant responsable du hifz, en début ou en cours de journée, et lui envoie le courriel ; il a les coordonnées de tous les parents."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {
+            "en": "The Hamidi brothers.",
+            "fr": "Les frères Hamidi."
+          },
+          "text": {
+            "en": "They arrive after 9:00 almost every day, and one was seen on Friday with food from the IGA after slipping out for a few minutes. An email went home and another bus route was suggested. The older brother is new and is looking for loopholes to get outside, including asking other students who is allowed out. Keep an eye on him.",
+            "fr": "Ils arrivent après 9 h presque tous les jours, et l'un d'eux a été vu vendredi avec de la nourriture du IGA après être sorti quelques minutes. Un courriel est parti et un autre trajet d'autobus a été proposé. L'aîné est nouveau et cherche des failles pour sortir, jusqu'à demander aux autres qui a le droit de sortir. Le surveiller."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Daily tracking and supervision",
+      "headline": {
+        "en": "One sheet, checked every day;<br/>every student in front of you is yours",
+        "fr": "Une seule feuille, vérifiée chaque jour ;<br/>chaque élève devant vous est le vôtre"
+      },
+      "paragraphs": [
+        {
+          "en": "The taqsim list, which shows which students sit with which teacher, was read out in the meeting and a copy goes to the principal. With the sheet in front of them, teachers record <b>sabak, sabqi and dawr for every student, every day</b>, so that the weekly sit-down starts from a record rather than from memory. Each teacher is responsible for the students on their list and calls them up daily to check how much was done and push for more.",
+          "fr": "La liste de taqsim, qui indique quels élèves sont assis avec quel enseignant, a été lue en réunion et une copie sera remise à la direction. Avec la feuille devant eux, les enseignants consignent <b>le sabak, le sabqi et le dawr de chaque élève, chaque jour</b>, pour que la rencontre hebdomadaire parte d'un relevé et non de la mémoire. Chaque enseignant est responsable des élèves de sa liste, les appelle chaque jour pour vérifier ce qui a été fait et les pousse à faire davantage."
+        },
+        {
+          "en": "Responsibility does not stop at the list. There are about forty students outside the academic stream, and when one teacher is with a student, writing to a parent or dealing with something else, the others keep the room moving for whoever is in front of them, in their taqsim or not. The same applies during lunch and snack supervision: students slip through wherever there is no adult watching.",
+          "fr": "La responsabilité ne s'arrête pas à la liste. Il y a une quarantaine d'élèves hors du volet académique, et quand un enseignant est occupé avec un élève, écrit à un parent ou règle autre chose, les autres font avancer tous ceux qui sont devant eux, qu'ils soient dans leur taqsim ou non. La même règle vaut pour la surveillance du dîner et des collations : les élèves passent entre les mailles partout où aucun adulte ne regarde."
+        },
+        {
+          "en": "Seating was adjusted so that talkers are separated: Dawood now sits beside the lead teacher, and Ibrahim, who forms a group with Mustafa and Kabir, still needs a new place. The three Alvi brothers were added to the list, Hussain and Salahuddin with the second hifz teacher and Rayan with another teacher.",
+          "fr": "Le plan de classe a été ajusté pour séparer ceux qui bavardent : Dawood est maintenant à côté de l'enseignant responsable, et Ibrahim, qui forme un groupe avec Mustafa et Kabir, doit encore recevoir une place. Les trois frères Alvi ont été ajoutés à la liste, Hussain et Salahuddin avec le deuxième enseignant de hifz et Rayan avec un autre enseignant."
+        }
+      ]
+    },
+    {
+      "heading": "The year plan",
+      "headline": {
+        "en": "A projection for every student,<br/>ready for Monday 28 September",
+        "fr": "Une projection pour chaque élève,<br/>prête pour le lundi 28 septembre"
+      },
+      "paragraphs": [
+        {
+          "en": "The year plan agreed earlier has not been started. For each student, the teacher writes down where the student is now and where they will realistically be <b>by the end of the year</b> at the current level of effort, and how far they could get with more. Students who give cause for concern are flagged. This is a professional estimate, not a calculation: a student who spent all of last year on the Qaida is the kind of judgment call expected.",
+          "fr": "Le plan de l'année convenu plus tôt n'a pas encore été commencé. Pour chaque élève, l'enseignant note où en est l'élève maintenant et où il sera de façon réaliste <b>à la fin de l'année</b> au niveau d'effort actuel, ainsi que jusqu'où il pourrait aller avec plus d'effort. Les élèves qui inquiètent sont signalés. Il s'agit d'une estimation professionnelle et non d'un calcul : un élève qui a passé toute l'année dernière sur la Qaida illustre le genre de jugement attendu."
+        },
+        {
+          "en": "The projection is what the parents receive, so the deadline follows the reports. It was first set for this Friday and then moved: teachers bring it to <b>next Monday's meeting</b>, and the principal sends the reports out on the Tuesday. The Qaida group's projections are already prepared.",
+          "fr": "La projection est ce que les parents recevront ; l'échéance suit donc les rapports. D'abord fixée à ce vendredi, elle a été reportée : les enseignants l'apportent à <b>la réunion de lundi prochain</b> et la direction envoie les rapports le mardi. Les projections du groupe de Qaida sont déjà prêtes."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Deadline moved from Friday to Monday.",
+            "fr": "Échéance reportée du vendredi au lundi."
+          },
+          "text": {
+            "en": "Friday 25 September was considered and dropped because nothing had been started. Monday 28 September works since the reports only go out on Tuesday 29 September.",
+            "fr": "Le vendredi 25 septembre a été envisagé puis abandonné, rien n'ayant été commencé. Le lundi 28 septembre convient puisque les rapports ne partent que le mardi 29 septembre."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Students to watch",
+      "headline": {
+        "en": "Daily pressure, and a parent call<br/>for the ones who drift",
+        "fr": "Pousser chaque jour, appeler les parents<br/>pour ceux qui décrochent"
+      },
+      "paragraphs": [
+        {
+          "en": "Abdul Rahman is very demotivated and does not listen; he works only when told he will lose part of his lunch. The principal's line is that he has the potential and simply has to be pushed, consistently. Dawood sleeps a great deal and needs the same pushing. Saqib is very slow with his sabak, does not say his dawr at home, missed a day or two last week and arrives late almost daily; his parents will be contacted. His brothers also miss days but progress far more.",
+          "fr": "Abdul Rahman est très démotivé et n'écoute pas ; il ne travaille que si on lui annonce qu'il perdra une partie de son dîner. Pour la direction, il a le potentiel et il faut simplement le pousser, sans relâche. Dawood dort beaucoup et a besoin de la même pression. Saqib est très lent dans son sabak, ne récite pas son dawr à la maison, a manqué un ou deux jours la semaine dernière et arrive en retard presque chaque jour ; ses parents seront contactés. Ses frères progressent bien plus."
+        },
+        {
+          "en": "Ibrahim is on his first juz and close to his sabak. He is motivated, but when he is stopped and held on a passage he shuts off completely; teachers let him keep moving and watch his motivation rather than his mistakes. Adam Khan has started his sabak and is motivated; his parents are in contact and he must say it to someone every day, otherwise he gets little done. He also came in late.",
+          "fr": "Ibrahim est dans son premier juz et près de son sabak. Il est motivé, mais quand on l'arrête sur un passage, il se ferme complètement ; les enseignants le laissent avancer et surveillent sa motivation plutôt que ses erreurs. Adam Khan a commencé son sabak et est motivé ; ses parents sont en contact et il doit le réciter à quelqu'un chaque jour, sinon il fait peu. Il est aussi arrivé en retard."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {
+            "en": "Mustafa.",
+            "fr": "Mustafa."
+          },
+          "text": {
+            "en": "Not doing well. His parents want him doing hifz at home although he cannot yet read, so he arrives having practised only two lines of what is set. His time at home should go to reading his nazira. The lead teacher writes to the parents; the principal wants them told plainly that this harms the system.",
+            "fr": "Ne va pas bien. Ses parents veulent qu'il fasse du hifz à la maison alors qu'il ne sait pas encore lire ; il arrive donc n'ayant pratiqué que deux lignes. Son temps à la maison doit servir à lire sa nazira. L'enseignant responsable écrit aux parents ; la direction veut qu'on leur dise clairement que cela nuit au système."
+          }
+        },
+        {
+          "type": "case",
+          "lead": {
+            "en": "Muhammad Ahmed.",
+            "fr": "Muhammad Ahmed."
+          },
+          "text": {
+            "en": "Refuses to read aloud and questions why he has to read at all, on both sides of the school. He responds when a teacher builds a connection with him first. Juz 29 and 30 went quickly, but juz 20 is very slow even split into parts. His father is to be informed: he placed him here for exactly this.",
+            "fr": "Refuse de lire à voix haute et demande pourquoi il doit lire, des deux côtés de l'école. Il réagit quand un enseignant établit d'abord un lien avec lui. Les juz 29 et 30 sont passés vite, mais le juz 20 avance très lentement même divisé en parties. Son père doit être informé : il l'a inscrit ici précisément pour cela."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Progress notes",
+      "headline": {
+        "en": "Several students are on track;<br/>keep the pace",
+        "fr": "Plusieurs élèves sont sur la bonne voie ;<br/>maintenir le rythme"
+      },
+      "paragraphs": [
+        {
+          "en": "Ismail is doing very well, working from the back and now on juz 8. Muhammad Kabir has started his sabak, said it today along with half a juz, and is far ahead of where he was last year; his father has been told he must say it to someone daily, and he still needs an eye kept on him. Yusuf has finished his juz and now repeats it until it holds with very few mistakes: the teacher circles and underlines every error so he sees exactly what to fix.",
+          "fr": "Ismail va très bien ; il travaille à partir de la fin et en est au juz 8. Muhammad Kabir a commencé son sabak, l'a récité aujourd'hui avec un demi-juz, et est bien plus avancé que l'an dernier ; son père a été avisé qu'il doit le réciter à quelqu'un chaque jour, et il faut continuer à le surveiller. Yusuf a terminé son juz et le reprend maintenant jusqu'à ce qu'il tienne avec très peu d'erreurs : l'enseignant encercle et souligne chaque faute pour qu'il voie exactement quoi corriger."
+        },
+        {
+          "en": "Hamza Khan has completed his reading on the other side but his Qaida is a little weak, so he does at least half of juz 29 at four or five lines a day before any hifz is started. One Qaida student, around lesson 11 or 12, listens and gets the work done but needs each lesson taught again the next morning; progress is slow but real, and the teacher tracks it daily.",
+          "fr": "Hamza Khan a terminé sa lecture de l'autre côté, mais sa Qaida est un peu faible ; il fait donc au moins la moitié du juz 29, à raison de quatre ou cinq lignes par jour, avant tout début de hifz. Un élève de Qaida, vers la leçon 11 ou 12, écoute et fait le travail, mais chaque leçon doit être reprise le lendemain matin ; le progrès est lent mais réel, et l'enseignant le suit chaque jour."
+        }
+      ]
+    },
+    {
+      "heading": "Portal and equipment",
+      "headline": {
+        "en": "Nothing to print;<br/>more benches needed",
+        "fr": "Rien à imprimer ;<br/>il faut d'autres bancs"
+      },
+      "paragraphs": [
+        {
+          "en": "Everything added for a student is registered on the portal, so nothing needs to be printed. The lead hifz teacher does not yet have his portal password or the scanning procedure and needs both.",
+          "fr": "Tout ce qui est ajouté pour un élève est enregistré sur le portail ; il n'y a donc rien à imprimer. L'enseignant responsable du hifz n'a pas encore son mot de passe du portail ni la procédure de numérisation, et il lui faut les deux."
+        },
+        {
+          "en": "The room needs more benches. The supplier used before, at about ten dollars each, has closed, and Amazon is more expensive. The principal does an inventory check on Tuesday.",
+          "fr": "Le local a besoin d'autres bancs. Le fournisseur utilisé auparavant, à environ dix dollars le banc, a fermé, et Amazon coûte plus cher. La direction fait un inventaire mardi."
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Write to the parents of Mustafa, Saqib and Muhammad Ahmed about the points raised.",
+        "fr": "Écrire aux parents de Mustafa, Saqib et Muhammad Ahmed au sujet des points soulevés."
+      },
+      "owner": {
+        "en": "Lead hifz teacher",
+        "fr": "Enseignant responsable du hifz"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      },
+      "note": {
+        "en": "Mustafa: no hifz at home until he reads; Saqib: sabak and dawr at home, lateness; Muhammad Ahmed: refusal to read.",
+        "fr": "Mustafa : pas de hifz à la maison tant qu'il ne lit pas ; Saqib : sabak et dawr à la maison, retards ; Muhammad Ahmed : refus de lire."
+      }
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Report any recurring problem to the lead hifz teacher the same day so a message goes home.",
+        "fr": "Signaler tout problème récurrent à l'enseignant responsable du hifz le jour même pour qu'un message parte aux parents."
+      },
+      "owner": {
+        "en": "All hifz teachers",
+        "fr": "Tous les enseignants de hifz"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Give the principal a copy of the taqsim list.",
+        "fr": "Remettre à la direction une copie de la liste de taqsim."
+      },
+      "owner": {
+        "en": "Lead hifz teacher",
+        "fr": "Enseignant responsable du hifz"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Record sabak, sabqi and dawr for every student on the sheet, every day.",
+        "fr": "Consigner chaque jour le sabak, le sabqi et le dawr de chaque élève sur la feuille."
+      },
+      "owner": {
+        "en": "All hifz teachers",
+        "fr": "Tous les enseignants de hifz"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Prepare the end-of-year projection for every student and bring it to the meeting.",
+        "fr": "Préparer la projection de fin d'année pour chaque élève et l'apporter à la réunion."
+      },
+      "owner": {
+        "en": "All hifz teachers",
+        "fr": "Tous les enseignants de hifz"
+      },
+      "due": {
+        "en": "Mon 28 Sep"
+      },
+      "note": {
+        "en": "Current position, likely end point at current effort, and with more effort; flag concerning cases.",
+        "fr": "Position actuelle, point d'arrivée probable à l'effort actuel et avec plus d'effort ; signaler les cas inquiétants."
+      }
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Send the reports to parents.",
+        "fr": "Envoyer les rapports aux parents."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Tue 29 Sep"
+      }
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Find Ibrahim a new seat away from Mustafa and Kabir.",
+        "fr": "Trouver une nouvelle place à Ibrahim, loin de Mustafa et Kabir."
+      },
+      "owner": {
+        "en": "Lead hifz teacher",
+        "fr": "Enseignant responsable du hifz"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Give the lead hifz teacher his portal password and the scanning procedure.",
+        "fr": "Remettre à l'enseignant responsable du hifz son mot de passe du portail et la procédure de numérisation."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Do the inventory check and source additional benches.",
+        "fr": "Faire l'inventaire et trouver des bancs supplémentaires."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Tuesday",
+        "fr": "Mardi"
+      },
+      "due_style": "soft",
+      "note": {
+        "en": "Inventory on Tuesday; no supplier or date fixed for the benches.",
+        "fr": "Inventaire mardi ; ni fournisseur ni date fixés pour les bancs."
+      }
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Two students named Ibrahim.",
+      "text": {
+        "en": "The transcript has an Ibrahim Ahmed on the taqsim list and an Ibrahim among the Hamidi brothers. The seating change and the note about him shutting off when stopped may refer to different students.",
+        "fr": "Préciser de quel Ibrahim il s'agit dans la section Élèves à surveiller et dans l'action A7."
+      }
+    },
+    {
+      "title": "Unnamed students in the first two emails.",
+      "text": {
+        "en": "The student taking two to three hours for his sabak and the one whose mother cited ministry-exam homework are not named clearly in the recording.",
+        "fr": "Ajouter les noms si les minutes doivent les mentionner."
+      }
+    },
+    {
+      "title": "Rayan Alvi's teacher.",
+      "text": {
+        "en": "The name of the teacher Rayan sits with was garbled in the recording.",
+        "fr": "Confirmer le nom de l'enseignant de Rayan."
+      }
+    },
+    {
+      "title": "Portal access and benches.",
+      "text": {
+        "en": "Neither the portal password and scanning procedure nor the benches were given a date; both are attributed to the principal by default.",
+        "fr": "Fixer une échéance et confirmer le responsable pour A8 et A9."
+      }
+    }
+  ]
+}
