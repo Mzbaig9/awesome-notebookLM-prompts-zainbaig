@@ -1,0 +1,8 @@
+[project]
+name = "print-ordering-backend"
+version = "0.1.0"
+description = "Backend for a print ordering site: upload, pay, admin approval, production tracking"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
