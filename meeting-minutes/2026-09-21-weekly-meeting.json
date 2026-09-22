@@ -1,0 +1,244 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Weekly staff meeting",
+    "fr": "Réunion hebdomadaire du personnel"
+  },
+  "title": {
+    "en": "Weekly Meeting: Week of September 21",
+    "fr": "Réunion hebdomadaire : semaine du 21 septembre"
+  },
+  "date": {
+    "en": "Week of 21 Sep 2026",
+    "fr": "Semaine du 21 sept. 2026",
+    "short": "Week of 21 Sep 2026"
+  },
+  "meeting": {
+    "en": "Staff meeting",
+    "fr": "Réunion du personnel"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Principal, Ustadha Ikram, Ustadha Karimah, Ustadha Amina, Ustadha Fatima, Ustadha Halima, Ustadha Emtethal",
+    "fr": "Direction et les six enseignantes"
+  },
+  "sections": [
+    {
+      "heading": "Student evaluations",
+      "headline": {
+        "en": "Judge the scenario, not the student:<br/>current level and potential level",
+        "fr": "Évaluer la situation, pas l'élève :<br/>niveau actuel et niveau possible"
+      },
+      "paragraphs": [
+        {
+          "en": "Evaluations move away from a fixed verdict on the student and towards a <b>judgment of the scenario</b>. Each evaluation states two things: the level the student is at today, given the effort actually put in, and the level the student could reach with more diligence and regular work.",
+          "fr": "Les évaluations délaissent le verdict figé sur l'élève au profit d'un <b>jugement de la situation</b>. Chaque évaluation énonce deux choses : le niveau où l'élève se trouve aujourd'hui, compte tenu de l'effort réellement fourni, et le niveau qu'il pourrait atteindre avec plus d'assiduité et un travail régulier."
+        },
+        {
+          "en": "The point of the second line is to keep the door open. A student who is behind is not labelled as weak; the report shows what changes if the effort changes, and puts the responsibility where it belongs.",
+          "fr": "La seconde ligne sert à garder la porte ouverte. Un élève en retard n'est pas étiqueté comme faible ; le rapport montre ce qui change si l'effort change, et place la responsabilité là où elle revient."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "lead": {
+            "en": "Two-tier format adopted.",
+            "fr": "Format à deux volets retenu."
+          },
+          "text": {
+            "en": "Every evaluation carries a current level and a potential level. The draft of the format is to be finalised before the reports go out.",
+            "fr": "Chaque évaluation comporte un niveau actuel et un niveau possible. Le gabarit doit être finalisé avant l'envoi des rapports."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Reports to parents",
+      "headline": {
+        "en": "Send the evaluation before the meeting,<br/>with attendance stated plainly",
+        "fr": "Envoyer l'évaluation avant la rencontre,<br/>avec l'assiduité indiquée clairement"
+      },
+      "paragraphs": [
+        {
+          "en": "Evaluations are sent to parents <b>before the parent-teacher meetings</b>, not handed over during them. Parents then arrive already knowing their child's actual attendance and performance, and the meeting can be spent on what to do next rather than on the numbers.",
+          "fr": "Les évaluations sont envoyées aux parents <b>avant les rencontres parents-enseignants</b>, et non remises pendant celles-ci. Les parents arrivent ainsi en connaissant déjà l'assiduité et les résultats réels de leur enfant, et la rencontre peut porter sur la suite plutôt que sur les chiffres."
+        },
+        {
+          "en": "The recurring friction is that parents expect strong results while the child misses sessions or does not study at home. A family that asked for six sessions and whose child attended four should read that in the report, in those terms. That is what the new format is for.",
+          "fr": "La friction récurrente vient de parents qui attendent de bons résultats alors que l'enfant manque des séances ou n'étudie pas à la maison. Une famille qui a demandé six séances et dont l'enfant en a suivi quatre doit le lire dans le rapport, en ces termes. C'est précisément le but du nouveau format."
+        }
+      ]
+    },
+    {
+      "heading": "Teacher absences",
+      "headline": {
+        "en": "Substitutes cannot follow each student's progress",
+        "fr": "Les remplaçantes ne peuvent pas suivre la progression de chaque élève"
+      },
+      "paragraphs": [
+        {
+          "en": "Teacher absences are making it hard to keep consistency across the stations. A substitute who steps into a station does not know where each student actually is, and the session loses ground. No mechanism was settled in the meeting.",
+          "fr": "Les absences d'enseignantes nuisent à la constance entre les stations. Une remplaçante qui prend une station ne sait pas où en est réellement chaque élève, et la séance perd du terrain. Aucun mécanisme n'a été arrêté en réunion."
+        },
+        {
+          "en": "Some technical and administrative delays carried over from last year are still being worked through by the team.",
+          "fr": "Certains retards techniques et administratifs hérités de l'an dernier sont encore en cours de règlement par l'équipe."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "text": {
+            "en": "How a substitute picks up a student's progress at a station was raised but not resolved. The item stays open.",
+            "fr": "La façon dont une remplaçante reprend la progression d'un élève à une station a été soulevée sans être réglée. Le point reste ouvert."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Individual students",
+      "headline": {
+        "en": "Two students discussed, and the weight of family expectations",
+        "fr": "Deux élèves abordés, et le poids des attentes familiales"
+      },
+      "paragraphs": [
+        {
+          "en": "The progress of Muhammad and Ismail was reviewed. It was noted that some students feel pressure, even fear, when faced with a specific requirement such as being asked to take a book home. That reaction is to be taken into account in how the requirement is presented, not used as a reason to drop it.",
+          "fr": "La progression de Muhammad et d'Ismail a été passée en revue. Il a été noté que certains élèves ressentent une pression, voire une crainte, devant une exigence précise comme celle de rapporter un livre à la maison. Cette réaction doit être prise en compte dans la manière de présenter l'exigence, sans servir de motif pour y renoncer."
+        },
+        {
+          "en": "Family background sets the starting point. A student whose father has been <b>mujaz for thirteen years</b> comes with a different baseline and a different set of expectations at home, and the evaluation should be read against that.",
+          "fr": "Le milieu familial fixe le point de départ. Un élève dont le père est <b>mujaz depuis treize ans</b> arrive avec une base différente et des attentes différentes à la maison, et l'évaluation doit se lire à la lumière de cela."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {
+            "en": "Muhammad and Ismail.",
+            "fr": "Muhammad et Ismail."
+          },
+          "text": {
+            "en": "Individual progress reviewed. The summary does not record which student showed the reluctance about taking a book home, nor their levels; see the items to confirm.",
+            "fr": "Progression individuelle passée en revue. Le résumé ne précise ni lequel des deux a montré la réticence à rapporter un livre, ni leurs niveaux ; voir les points à confirmer."
+          }
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Finalise the two-tier evaluation format, current level and potential level.",
+        "fr": "Finaliser le gabarit d'évaluation à deux volets, niveau actuel et niveau possible."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Write each student's evaluation on the new format, stating attendance and effort in plain terms.",
+        "fr": "Rédiger l'évaluation de chaque élève sur le nouveau gabarit, en indiquant clairement l'assiduité et l'effort."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Before parent meetings",
+        "fr": "Avant les rencontres"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Send the evaluations to parents before the scheduled parent-teacher meetings.",
+        "fr": "Envoyer les évaluations aux parents avant les rencontres parents-enseignants prévues."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Before parent meetings",
+        "fr": "Avant les rencontres"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Propose a way for substitutes to pick up each student's progress at a station.",
+        "fr": "Proposer un moyen pour que les remplaçantes reprennent la progression de chaque élève à une station."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Close out the technical and administrative delays carried over from last year.",
+        "fr": "Régler les retards techniques et administratifs hérités de l'an dernier."
+      },
+      "owner": {
+        "en": "Administration",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Ongoing",
+        "fr": "En continu"
+      }
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Meeting date.",
+      "text": {
+        "en": "The summary is dated 22 September; the minutes are headed by the week only.",
+        "fr": "Confirmer le jour exact de la réunion."
+      }
+    },
+    {
+      "title": "Parent-teacher meeting dates.",
+      "text": {
+        "en": "The reports must go out before the meetings, but the meeting dates are not in the summary, so no deadline could be set for A2 and A3.",
+        "fr": "Fixer les dates des rencontres et l'échéance d'envoi des rapports."
+      }
+    },
+    {
+      "title": "Evaluation format owner.",
+      "text": {
+        "en": "Finalising the two-tier format was agreed as a next step without a named owner or date.",
+        "fr": "Attribuer un responsable et une échéance pour le gabarit."
+      }
+    },
+    {
+      "title": "Muhammad and Ismail.",
+      "text": {
+        "en": "Their levels, and which of them was reluctant to take a book home, are not in the summary.",
+        "fr": "Préciser les niveaux et le détail de chaque cas."
+      }
+    }
+  ]
+}
