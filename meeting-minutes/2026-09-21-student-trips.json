@@ -1,0 +1,145 @@
+{
+  "kicker": "Committee meeting",
+  "title": "Student Trips: a Park Day, Upper Canada Village and an Ottawa Overnight",
+  "date": {
+    "en": "Week of 21 September 2026",
+    "short": "Week of 21 Sep 2026"
+  },
+  "meeting": "Activities committee",
+  "chair": "Principal",
+  "present": "Committee members",
+  "sections": [
+    {
+      "heading": "Why an outing now",
+      "headline": "Students need something to look forward to before the cold sets in",
+      "paragraphs": [
+        "The term has been heavy so far and <b>no activity has been held for students yet</b>. The new students in particular have had nothing that makes the madrasa feel like a place they enjoy, and the committee agreed that something fun should happen this term.",
+        "The window is short. Weather holds for now but will turn within weeks, so the outdoor option comes first and the longer trips are planned in parallel for later in the fall."
+      ]
+    },
+    {
+      "heading": "Park day and barbecue",
+      "headline": "A barbecue at Jarry Park, likely a weekday next week",
+      "paragraphs": [
+        "Jarry Park was proposed, following Sheikh Khan's suggestion, because barbecuing is allowed there and it has basketball, soccer and volleyball in one large space. The forecast for next week sits between 11 and 22 degrees, with <b>Wednesday the warmest day at 22</b>, which made it the preferred date.",
+        "Two time windows were raised, 10:00 to 2:00 or an earlier 8:00 to 10:00, without a final choice. Around ten students have signed on so far out of thirty or more expected. Food will be burgers and hot dogs, with beef and chicken hot dogs sourced from halal suppliers, one of them Crescent.",
+        "Preparation is to be delegated so that it does not fall on one person the night before, including booking or calling the park and buying the food."
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "lead": "Supervision count.",
+          "text": "It was asked whether a student counts toward attendance only when accompanied by an adult. The question was not settled and affects how many staff are needed on the day."
+        }
+      ]
+    },
+    {
+      "heading": "Upper Canada Village",
+      "headline": "An educational day trip for Secondary 1 and 2",
+      "paragraphs": [
+        "Upper Canada Village, a historical site in Ontario, was proposed as an educational trip. The committee leaned toward sending <b>Secondary 1 and 2</b> there, since Secondary 1 still behaves much like the primary floors and suits a structured, guided visit.",
+        "Hassan will be approached about the trip at a meeting planned for the following day, after iftar. The class lists for Secondary 1 and 2 were not fully clear in the discussion and need to be checked before numbers are fixed."
+      ]
+    },
+    {
+      "heading": "Ottawa overnight",
+      "headline": "Secondary 4 and 5 to Ottawa, with a night at a masjid",
+      "paragraphs": [
+        "For the senior students the proposal is an Ottawa trip covering Parliament and the War Museum. Rather than a single long day, the committee favoured an overnight: <b>leave after Maghrib, have dinner in Ottawa, sleep at a masjid, spend the full next day on the visit and return by 5:00 or 6:00 PM</b>. A masjid in Toronto was mentioned as an alternative.",
+        "The night at the masjid is the point, not a cost saving. It gives room for tarbiyah and a shared experience the students remember, as earlier trips of this kind have shown. The trip runs on weekdays, not a weekend, most likely leaving on a Tuesday and returning Wednesday.",
+        "Staffing so far is two committee members and Hassan, who may not be able to stay the night. Contacts who could help arrange a host masjid were named: Aaron, Rasheed, Sheikh Awais, Mohammad Bilal and Mohsin Kamal."
+      ]
+    },
+    {
+      "heading": "Other ideas",
+      "headline": "Quebec City hikes and a November weekend kept on the list",
+      "paragraphs": [
+        "A fall trip near Quebec City was suggested for the hiking and the colours, with a chalet as a base, and a weekend outing in November was floated. A museum visit came up as a simpler fallback. None of these was taken further and they stay on the list for later in the year."
+      ]
+    },
+    {
+      "heading": "Operations",
+      "headline": "Upstairs transitions improving, printer drum on order",
+      "paragraphs": [
+        "The transition upstairs is still hectic when students arrive late and it is not finished by the set time. It is improving, and once students are seated at :55 the floor settles.",
+        "The printers are working again apart from the drum, which has been ordered. <b>Once it arrives, the print list is needed</b> so the backlog can go through at once."
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": "Confirm the park day date and time window and book or call Jarry Park.",
+      "owner": "Committee",
+      "due": "Wed 30 Sep"
+    },
+    {
+      "id": "A2",
+      "action": "Buy the barbecue food, beef burgers and chicken hot dogs from halal suppliers, well ahead of the day.",
+      "owner": "Committee",
+      "due": "Tue 29 Sep"
+    },
+    {
+      "id": "A3",
+      "action": "Settle the adult supervision rule and the staff count for the park day.",
+      "owner": "Principal",
+      "due": "To be set"
+    },
+    {
+      "id": "A4",
+      "action": "Meet Hassan about the Upper Canada Village trip for Secondary 1 and 2.",
+      "owner": "Committee member",
+      "due": "Wed 23 Sep",
+      "note": "After iftar"
+    },
+    {
+      "id": "A5",
+      "action": "Contact Aaron, Rasheed and the other named contacts about hosting the Ottawa overnight at a masjid.",
+      "owner": "Committee",
+      "due": "To be set"
+    },
+    {
+      "id": "A6",
+      "action": "Propose dates for the Ottawa overnight, weekday departure after Maghrib.",
+      "owner": "Committee",
+      "due": "End of Sep"
+    },
+    {
+      "id": "A7",
+      "action": "Check the Secondary 1 and 2 class lists before fixing trip numbers.",
+      "owner": "Administration",
+      "due": "To be set"
+    },
+    {
+      "id": "A8",
+      "action": "Send the print list once the printer drum arrives.",
+      "owner": "All staff",
+      "due": "When drum arrives",
+      "due_style": "soft"
+    },
+    {
+      "id": "A9",
+      "action": "Report progress on every trip at the next committee meeting.",
+      "owner": "Committee",
+      "due": "Tue 29 Sep"
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Park day.",
+      "text": "\"Jerry Park\" read as Jarry Park. Wednesday and the time window not formally fixed."
+    },
+    {
+      "title": "Owners.",
+      "text": "Speakers are unnamed. Name who leads each trip."
+    },
+    {
+      "title": "Ottawa dates.",
+      "text": "Tuesday to Wednesday described, no week attached."
+    },
+    {
+      "title": "Next meeting.",
+      "text": "Given as \"next Tuesday\", taken as 29 September."
+    }
+  ]
+}
