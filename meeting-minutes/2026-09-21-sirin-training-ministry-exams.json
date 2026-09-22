@@ -114,13 +114,13 @@
     {
       "heading": "Student report to parents",
       "headline": {
-        "en": "Forms on the 25th, test on the 28th,<br/>report to every parent by 2 October",
-        "fr": "Formulaires le 25, test le 28,<br/>rapport à chaque parent d'ici le 2 octobre"
+        "en": "Forms on the 25th, manuals on the 28th,<br/>report to parents by 2 October",
+        "fr": "Formulaires le 25, manuels le 28,<br/>rapport aux parents d'ici le 2 octobre"
       },
       "paragraphs": [
         {
-          "en": "Every parent receives a written report by <b>Friday 2 October</b>, before the parent-teacher meeting of 5 October. The Qur'an part states where the student is expected to reach. The academic part draws on three sources: the teacher observation forms due on 25 September, the students' manuals, which teachers leave with the principal to be photographed and reviewed, and the madrasah-wide standardized test on <b>Monday 28 September</b>. Teachers also state on the 25th where they have reached in the programme.",
-          "fr": "Chaque parent reçoit un rapport écrit d'ici le <b>vendredi 2 octobre</b>, avant la rencontre parents-enseignants du 5 octobre. La partie Coran indique où l'élève doit se rendre. La partie académique s'appuie sur trois sources : les formulaires d'observation attendus le 25 septembre, les manuels des élèves, que les enseignantes laissent à la direction pour être photographiés et examinés, et le test standardisé donné à toute la madrasah le <b>lundi 28 septembre</b>. Les enseignantes indiquent aussi le 25 où elles sont rendues dans le programme."
+          "en": "Every parent receives a written report by <b>Friday 2 October</b>, before the parent-teacher meeting of 5 October. The Qur'an part states where the student is expected to reach. The academic part draws on three sources: the teacher observation forms due on 25 September, the students' manuals, which teachers leave with the principal on <b>Monday 28 September</b> to be photographed and reviewed, and the madrasah-wide standardized test given the same day. Teachers also state on the 25th where they have reached in the programme.",
+          "fr": "Chaque parent reçoit un rapport écrit d'ici le <b>vendredi 2 octobre</b>, avant la rencontre parents-enseignants du 5 octobre. La partie Coran indique où l'élève doit se rendre. La partie académique s'appuie sur trois sources : les formulaires d'observation attendus le 25 septembre, les manuels des élèves, que les enseignantes laissent à la direction le <b>lundi 28 septembre</b> pour être photographiés et examinés, et le test standardisé donné à toute la madrasah le même jour. Les enseignantes indiquent aussi le 25 où elles sont rendues dans le programme."
         },
         {
           "en": "The report carries comments only, no grades. Internally, each student is ranked on three levels, a lot of help, moderate help, a few resources, and that ranking stays internal; where it applies, parents are advised to consider an extra tutor. The criteria come from the PFEQ, the progression of learning and the evaluation framework. So far only Sr. Safiyyah has returned her form; the principal sends a reminder on Tuesday, boys' side included. The consultant reviews the forms flagged by the principal by 30 September.",
@@ -170,8 +170,8 @@
       },
       "paragraphs": [
         {
-          "en": "The school builds a preparation booklet for <b>each level from Grade 3 upward</b>, including the levels that have no exam, so that every cycle prepares for the next one. The exams to target: Grade 4 French writing; Grade 6 French and mathematics; Secondary 1 and 2 French; Secondary 3 history, science, mathematics and French. Each booklet holds exercises that complement the units of the textbook in use and comes with a calendar telling the teacher what to cover by which date, so that exam preparation and the regular programme are served by the same material.",
-          "fr": "L'école construit un cahier de préparation pour <b>chaque niveau à partir de la 3e année</b>, y compris les niveaux sans épreuve, pour que chaque cycle prépare le suivant. Les épreuves visées : 4e année, écriture en français ; 6e année, français et mathématique ; secondaire 1 et 2, français ; secondaire 3, histoire, science, mathématique et français. Chaque cahier contient des exercices qui complètent les unités du manuel utilisé et s'accompagne d'un calendrier indiquant à l'enseignante quoi couvrir à quelle date, pour que la préparation aux épreuves et le programme régulier soient servis par le même matériel."
+          "en": "The school builds a preparation booklet for <b>each level from Grade 3 upward</b>, including the levels that have no exam, so that every cycle prepares for the next one. The exams to target: Grade 4 French writing; Grade 6 French and mathematics; Secondary 1 and 2 French; Secondary 3 history, science, mathematics and French. Each booklet holds exercises that complement the units of the MaZoneCEC textbooks and comes with a calendar telling the teacher what to cover by which date, so that exam preparation and the regular programme are served by the same material.",
+          "fr": "L'école construit un cahier de préparation pour <b>chaque niveau à partir de la 3e année</b>, y compris les niveaux sans épreuve, pour que chaque cycle prépare le suivant. Les épreuves visées : 4e année, écriture en français ; 6e année, français et mathématique ; secondaire 1 et 2, français ; secondaire 3, histoire, science, mathématique et français. Chaque cahier contient des exercices qui complètent les unités des manuels MaZoneCEC et s'accompagne d'un calendrier indiquant à l'enseignante quoi couvrir à quelle date, pour que la préparation aux épreuves et le programme régulier soient servis par le même matériel."
         },
         {
           "en": "The consultant has already produced writing situations modelled on the Secondary 5 exam and is working her way down level by level. The principal collects the past ministry exams from GMC, aiming for <b>Wednesday 23 September</b>, and then generates the booklets. Once the exams are in hand, the two agree on a production plan. Target: <b>everything ready by the end of October</b>.",
@@ -314,8 +314,8 @@
     {
       "id": "A6",
       "action": {
-        "en": "Return the observation forms, hand in the manuals, and state where the class has reached in the programme.",
-        "fr": "Remettre les formulaires d'observation, laisser les manuels et indiquer où le groupe est rendu dans le programme."
+        "en": "Return the student observation forms and state where the class has reached in the programme.",
+        "fr": "Remettre les formulaires d'observation des élèves et indiquer où le groupe est rendu dans le programme."
       },
       "owner": {
         "en": "All teachers",
@@ -328,6 +328,21 @@
     },
     {
       "id": "A7",
+      "action": {
+        "en": "Leave the students' manuals with the principal for review.",
+        "fr": "Laisser les manuels des élèves à la direction pour examen."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Mon 28 Sep",
+        "fr": "Lun 28 sept."
+      }
+    },
+    {
+      "id": "A8",
       "action": {
         "en": "Give the madrasah-wide standardized test.",
         "fr": "Faire passer le test standardisé à toute la madrasah."
@@ -342,7 +357,7 @@
       }
     },
     {
-      "id": "A8",
+      "id": "A9",
       "action": {
         "en": "Review the teacher observation forms flagged by the principal.",
         "fr": "Examiner les formulaires d'observation signalés par la direction."
@@ -357,7 +372,7 @@
       }
     },
     {
-      "id": "A9",
+      "id": "A10",
       "action": {
         "en": "Send every parent the two-part report, Qur'an and academic, comments only.",
         "fr": "Envoyer à chaque parent le rapport en deux parties, Coran et académique, commentaires seulement."
@@ -372,7 +387,7 @@
       }
     },
     {
-      "id": "A10",
+      "id": "A11",
       "action": {
         "en": "Upload the traces of learning to the shared drive.",
         "fr": "Téléverser les traces d'apprentissage sur le lecteur partagé."
@@ -387,7 +402,7 @@
       }
     },
     {
-      "id": "A11",
+      "id": "A12",
       "action": {
         "en": "Write the two job postings, behaviour specialist (TES) and hall monitor; the consultant circulates them.",
         "fr": "Rédiger les deux offres, spécialiste du comportement (TES) et surveillante de corridor ; la conseillère les diffuse."
@@ -403,7 +418,7 @@
       "due_style": "soft"
     },
     {
-      "id": "A12",
+      "id": "A13",
       "action": {
         "en": "Collect the past ministry exams from GMC.",
         "fr": "Récupérer les anciennes épreuves ministérielles auprès de GMC."
@@ -418,7 +433,7 @@
       }
     },
     {
-      "id": "A13",
+      "id": "A14",
       "action": {
         "en": "Build one exam-preparation booklet per level from Grade 3 up, with a teacher calendar.",
         "fr": "Bâtir un cahier de préparation par niveau à partir de la 3e année, avec un calendrier pour l'enseignante."
@@ -434,7 +449,7 @@
       "due_style": "soft"
     },
     {
-      "id": "A14",
+      "id": "A15",
       "action": {
         "en": "Send the Jogging d'écriture video to the group for feedback, then roll out the routine to French teachers three times a week.",
         "fr": "Envoyer la vidéo du Jogging d'écriture au groupe pour rétroaction, puis lancer la routine auprès des enseignantes de français trois fois par semaine."
@@ -449,7 +464,7 @@
       }
     },
     {
-      "id": "A15",
+      "id": "A16",
       "action": {
         "en": "Carry out the classroom observations, three aspects per visit, split between the two.",
         "fr": "Réaliser les observations en classe, trois aspects par visite, réparties entre les deux."
@@ -464,7 +479,7 @@
       }
     },
     {
-      "id": "A16",
+      "id": "A17",
       "action": {
         "en": "Hold the first round of joint 15-minute teacher follow-ups by Zoom.",
         "fr": "Tenir la première ronde de suivis conjoints de 15 minutes avec les enseignantes, par Zoom."
@@ -485,13 +500,6 @@
   ],
   "to_confirm": [
     {
-      "title": "Training days.",
-      "text": {
-        "en": "Monday and Tuesday, or Tuesday (principal) and Thursday or Friday (consultant), was left to the timetable. The consultant is out on Wednesday 30 September.",
-        "fr": "Fixer les deux jours de formation et prévenir les enseignants de Coran."
-      }
-    },
-    {
       "title": "Traces of learning deadline.",
       "text": {
         "en": "The transcript says \"the 9th of September\"; 9 October is the only reading that fits a one-week extension after the 25th.",
@@ -499,24 +507,10 @@
       }
     },
     {
-      "title": "Manuals hand-in date.",
-      "text": {
-        "en": "Both the 25th and the 28th of September were mentioned for teachers leaving their manuals with the principal.",
-        "fr": "Confirmer le 25 ou le 28 septembre."
-      }
-    },
-    {
       "title": "Specialist title.",
       "text": {
         "en": "The transcript has \"TOS expert\"; the profile described (behaviour, crisis, emotional regulation) is a TES. Check before the posting goes out.",
         "fr": "Confirmer le titre du poste avant l'affichage."
-      }
-    },
-    {
-      "title": "Textbook for the booklets.",
-      "text": {
-        "en": "The textbook the exercises must follow was transcribed as \"Maison Circé\".",
-        "fr": "Confirmer le manuel de référence."
       }
     }
   ],
