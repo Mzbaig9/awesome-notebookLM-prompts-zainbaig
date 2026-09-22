@@ -1,0 +1,524 @@
+{
+  "org": "Dar Al-'Ulum Montréal",
+  "kicker": {
+    "en": "Pedagogical planning meeting",
+    "fr": "Rencontre de planification pédagogique"
+  },
+  "title": {
+    "en": "Sirin's Parent Meeting, Teacher Training and Ministry Exam Preparation",
+    "fr": "Rencontre avec les parents de Sirin, formation des enseignantes et préparation aux épreuves ministérielles"
+  },
+  "date": {
+    "en": "Monday 21 Sep 2026",
+    "fr": "Lundi 21 sept. 2026",
+    "short": "21 Sep 2026"
+  },
+  "meeting": {
+    "en": "Principal and pedagogical consultant",
+    "fr": "Direction et conseillère pédagogique"
+  },
+  "chair": {
+    "en": "Principal",
+    "fr": "Direction"
+  },
+  "present": {
+    "en": "Pedagogical consultant",
+    "fr": "Conseillère pédagogique"
+  },
+  "sections": [
+    {
+      "heading": "Sirin, parent meeting",
+      "headline": {
+        "en": "Wednesday 23 September at 8:15,<br/>precise facts and a plan",
+        "fr": "Mercredi 23 septembre à 8 h 15,<br/>des faits précis et un plan"
+      },
+      "paragraphs": [
+        {
+          "en": "Sirin's parents meet the school on <b>Wednesday 23 September at 8:15</b>. Present: the principal, Sr. Maysa, Sr. Karima and the pedagogical consultant. The mother was invited in English and has only been told that there are several observations to discuss in person and that the school wants to act early. The two main concerns are the physical aggression and the running out of the classroom; concentration comes after.",
+          "fr": "Les parents de Sirin rencontrent l'école le <b>mercredi 23 septembre à 8 h 15</b>. Présents : la direction, Sr Maysa, Sr Karima et la conseillère pédagogique. La mère a été invitée en anglais et sait seulement que plusieurs observations doivent être discutées en personne et que l'école veut intervenir tôt. Les deux préoccupations principales sont la violence physique et les sorties de classe ; la concentration vient ensuite."
+        },
+        {
+          "en": "The meeting rests on facts. Sr. Maysa writes down precise examples before Wednesday (when the class is asked to sit, Sirin stands up and runs across the room) and, for each, the consequence for the teacher, the group and Sirin herself, such as being taken out of the activity or missing playtime. Vague lines like \"she does not listen\" are avoided. Parents are then given time to speak.",
+          "fr": "La rencontre repose sur des faits. Sr Maysa note des exemples précis avant mercredi (quand on demande au groupe de s'asseoir, Sirin se lève et court dans la classe) et, pour chacun, la conséquence pour l'enseignante, le groupe et Sirin elle-même, comme le retrait de l'activité ou la perte d'un temps de jeu. Les formulations vagues du type « elle n'écoute pas » sont à éviter. On laisse ensuite la parole aux parents."
+        },
+        {
+          "en": "It closes on a plan: one or two objectives, <b>stay seated and never leave the classroom</b>, and a communication plan with the parents, probably a journal tracking Sirin's progress on those objectives. The principal and the consultant think through the proposal before Wednesday.",
+          "fr": "Elle se termine sur un plan : un ou deux objectifs, <b>rester assise et ne jamais quitter la classe</b>, et un plan de communication avec les parents, probablement un journal des progrès de Sirin sur ces objectifs. La direction et la conseillère préparent la proposition avant mercredi."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "case",
+          "lead": {
+            "en": "Sirin.",
+            "fr": "Sirin."
+          },
+          "text": {
+            "en": "Academically she is well ahead of the group: she reads easily and has beautiful handwriting. The ease of the work does not explain the behaviour, but it does not help. The parents will be asked whether anything else should be known.",
+            "fr": "Sur le plan scolaire, elle est nettement en avance : elle lit facilement et a une belle calligraphie. La facilité du travail n'explique pas le comportement, mais elle n'aide pas. On demandera aux parents s'il y a autre chose à savoir."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Effective teaching programme",
+      "headline": {
+        "en": "Define the standard, self-assess,<br/>observe, then intervene by level",
+        "fr": "Définir la norme, s'autoévaluer,<br/>observer, puis intervenir par niveau"
+      },
+      "paragraphs": [
+        {
+          "en": "All academic teachers go through the same four steps. First, a training session defines effective teaching: student engagement, student talk time versus teacher talk time, classroom management, checking for comprehension. The content stays close to the professional competency framework, with practical points from the school's own experience.",
+          "fr": "Toutes les enseignantes du volet académique passent par les mêmes quatre étapes. D'abord, une formation définit l'enseignement efficace : engagement des élèves, temps de parole des élèves par rapport à celui de l'enseignante, gestion de classe, vérification de la compréhension. Le contenu reste près du référentiel de compétences professionnelles, avec des points pratiques tirés de l'expérience de l'école."
+        },
+        {
+          "en": "Second, each teacher completes a <b>paper self-assessment</b> on six aspects, 1 to 10, and keeps it. Third, the principal and the consultant observe each classroom, three aspects per visit, and write the same assessment from their side. Fourth, the two are compared and the teacher is placed on one of five intervention levels, from light coaching, to being pointed towards resources, up to a supervised placement.",
+          "fr": "Ensuite, chaque enseignante remplit une <b>autoévaluation sur papier</b> portant sur six aspects, de 1 à 10, et la conserve. Troisièmement, la direction et la conseillère observent chaque classe, trois aspects par visite, et rédigent la même évaluation de leur côté. Enfin, les deux sont comparées et l'enseignante est placée à l'un de cinq niveaux d'intervention, de l'accompagnement léger, à l'orientation vers des ressources, jusqu'au stage supervisé."
+        },
+        {
+          "en": "The order matters. A teacher cannot judge her classroom management before she has been told what good management is; silence obtained by shouting is not management. Because everyone hears and is observed on the same standard, no teacher can feel singled out: the intervention follows the need, not the person.",
+          "fr": "L'ordre compte. Une enseignante ne peut pas juger sa gestion de classe avant qu'on lui ait dit ce qu'est une bonne gestion ; le silence obtenu en criant n'est pas de la gestion. Comme tout le monde entend et est observé selon la même norme, aucune enseignante ne peut se sentir visée : l'intervention suit le besoin, pas la personne."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "decision",
+          "text": {
+            "en": "Training precedes the self-assessment, which precedes observation. Sending the questionnaire first was considered and rejected. The consultant asked to have the questionnaire in hand before she delivers her part of the training, so that she teaches to it.",
+            "fr": "La formation précède l'autoévaluation, qui précède l'observation. Envoyer le questionnaire en premier a été envisagé et écarté. La conseillère a demandé à avoir le questionnaire en main avant de donner sa partie de la formation, afin d'enseigner en fonction de celui-ci."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Training calendar",
+      "headline": {
+        "en": "Two one-hour sessions next week,<br/>observations from 5 October",
+        "fr": "Deux séances d'une heure la semaine prochaine, observations dès le 5 octobre"
+      },
+      "paragraphs": [
+        {
+          "en": "The training is given in two one-hour blocks, <b>12:00 to 1:00</b>, on two days of the week of 28 September, three aspects per session. During that hour the Qur'an teachers take the students so that every academic teacher can attend. The noon slot was chosen so that Sr. Nour, who is part-time, does not lose a teaching hour. The principal delivers one session and the consultant the other, or each takes half of each session.",
+          "fr": "La formation se donne en deux blocs d'une heure, <b>de 12 h à 13 h</b>, sur deux jours de la semaine du 28 septembre, trois aspects par séance. Pendant cette heure, les enseignants de Coran prennent les élèves pour que chaque enseignante du volet académique puisse y assister. Le créneau du midi a été retenu pour que Sr Nour, à temps partiel, ne perde pas une heure d'enseignement. La direction donne une séance et la conseillère l'autre, ou chacune prend la moitié de chaque séance."
+        },
+        {
+          "en": "The principal prepares all the material, presentation and self-assessment questionnaire, on <b>Tuesday 22 September</b> and sends it to the consultant, who reviews it over the weekend and returns her comments. The consultant is out on Wednesday 30 September and the principal travels early on Thursday 1 October, so the two days will be Monday and Tuesday, or Tuesday for the principal and Thursday or Friday for the consultant. The principal checks the timetable and confirms.",
+          "fr": "La direction prépare tout le matériel, présentation et questionnaire d'autoévaluation, le <b>mardi 22 septembre</b> et l'envoie à la conseillère, qui le révise pendant la fin de semaine et retourne ses commentaires. La conseillère est absente le mercredi 30 septembre et la direction voyage tôt le jeudi 1er octobre ; les deux journées seront donc lundi et mardi, ou mardi pour la direction et jeudi ou vendredi pour la conseillère. La direction vérifie l'horaire et confirme."
+        },
+        {
+          "en": "Classroom observations begin the <b>week of 5 October</b>, split between the principal and the consultant, roughly three teachers each, two observations a week. Interventions for the teachers who need them can start as early as the week of 12 October.",
+          "fr": "Les observations en classe commencent la <b>semaine du 5 octobre</b>, réparties entre la direction et la conseillère, environ trois enseignantes chacune, deux observations par semaine. Les interventions pour les enseignantes qui en ont besoin peuvent commencer dès la semaine du 12 octobre."
+        }
+      ]
+    },
+    {
+      "heading": "Student report to parents",
+      "headline": {
+        "en": "Forms on the 25th, test on the 28th,<br/>report to every parent by 2 October",
+        "fr": "Formulaires le 25, test le 28,<br/>rapport à chaque parent d'ici le 2 octobre"
+      },
+      "paragraphs": [
+        {
+          "en": "Every parent receives a written report by <b>Friday 2 October</b>, before the parent-teacher meeting of 5 October. The Qur'an part states where the student is expected to reach. The academic part draws on three sources: the teacher observation forms due on 25 September, the students' manuals, which teachers leave with the principal to be photographed and reviewed, and the madrasah-wide standardized test on <b>Monday 28 September</b>. Teachers also state on the 25th where they have reached in the programme.",
+          "fr": "Chaque parent reçoit un rapport écrit d'ici le <b>vendredi 2 octobre</b>, avant la rencontre parents-enseignants du 5 octobre. La partie Coran indique où l'élève doit se rendre. La partie académique s'appuie sur trois sources : les formulaires d'observation attendus le 25 septembre, les manuels des élèves, que les enseignantes laissent à la direction pour être photographiés et examinés, et le test standardisé donné à toute la madrasah le <b>lundi 28 septembre</b>. Les enseignantes indiquent aussi le 25 où elles sont rendues dans le programme."
+        },
+        {
+          "en": "The report carries comments only, no grades. Internally, each student is ranked on three levels, a lot of help, moderate help, a few resources, and that ranking stays internal; where it applies, parents are advised to consider an extra tutor. The criteria come from the PFEQ, the progression of learning and the evaluation framework. So far only Sr. Safiyyah has returned her form; the principal sends a reminder on Tuesday, boys' side included. The consultant reviews the forms flagged by the principal by 30 September.",
+          "fr": "Le rapport ne contient que des commentaires, aucune note. À l'interne, chaque élève est classé sur trois niveaux, beaucoup d'aide, aide modérée, quelques ressources, et ce classement reste interne ; le cas échéant, on conseille aux parents d'envisager un tuteur. Les critères viennent du PFEQ, de la progression des apprentissages et du cadre d'évaluation. Jusqu'ici, seule Sr Safiyyah a remis son formulaire ; la direction envoie un rappel mardi, côté garçons compris. La conseillère examine les formulaires signalés par la direction d'ici le 30 septembre."
+        },
+        {
+          "en": "Traces of learning go to the shared drive as agreed at the start of the year. Because the week of the 25th is already heavy, teachers get an extra week, <b>until 9 October</b>, to upload them. The consultant also reviews the textbooks herself; Secondary 3 and up already have everything online.",
+          "fr": "Les traces d'apprentissage vont sur le lecteur partagé, comme convenu en début d'année. Comme la semaine du 25 est déjà chargée, les enseignantes ont une semaine de plus, <b>jusqu'au 9 octobre</b>, pour les téléverser. La conseillère examine aussi les manuels elle-même ; le secondaire 3 et plus a déjà tout en ligne."
+        }
+      ]
+    },
+    {
+      "heading": "Specialist and hall monitor",
+      "headline": {
+        "en": "Post two offers: a behaviour specialist<br/>and a hall monitor",
+        "fr": "Deux offres à afficher : comportement<br/>et surveillance de corridor"
+      },
+      "paragraphs": [
+        {
+          "en": "Around twenty student cases are expected once behaviour and academics, elementary and secondary, girls and boys are combined; analysing them will take one to two weeks. The school needs someone trained in behaviour, emotional regulation and crisis management, along the lines of a special education technician (TES), part-time, to help analyse the cases and build plans. An orthopedagogue profile was set aside: adapting material is already covered by the consultant, the gap is behaviour. The principal writes the posting and the consultant circulates it. The school wants a properly trained person, not general experience.",
+          "fr": "On s'attend à une vingtaine de cas d'élèves une fois combinés comportement et apprentissages, primaire et secondaire, filles et garçons ; leur analyse prendra une à deux semaines. L'école a besoin d'une personne formée en comportement, en gestion des émotions et en gestion de crise, du type technicienne en éducation spécialisée (TES), à temps partiel, pour aider à analyser les cas et bâtir des plans. Un profil d'orthopédagogue a été écarté : l'adaptation du matériel est déjà couverte par la conseillère, le manque est du côté du comportement. La direction rédige l'offre et la conseillère la diffuse. L'école veut une personne réellement formée, pas une expérience générale."
+        },
+        {
+          "en": "A hall monitor is also needed, ideally a volunteer with a firm and kind presence. The main floor is the priority: the students coming up from the Qur'an hall and the secondary girls going up to their classes. The monitor moves between floors during recess and through the hour, and can also take a student out of class for a moment, calm them and bring them back. Sr. Karima may know someone.",
+          "fr": "Une surveillante de corridor est aussi nécessaire, idéalement une bénévole à la présence ferme et bienveillante. Le rez-de-chaussée est la priorité : les élèves qui montent de la salle de Coran et les filles du secondaire qui montent en classe. La surveillante circule entre les étages pendant les récréations et au cours de l'heure, et peut aussi sortir un élève de la classe un moment, le calmer et le ramener. Sr Karima connaît peut-être quelqu'un."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "note",
+          "lead": {
+            "en": "Crisis in class, current procedure.",
+            "fr": "Crise en classe, procédure actuelle."
+          },
+          "text": {
+            "en": "The teacher calls Sr. Maimoona, who is on site or within five minutes of it.",
+            "fr": "L'enseignante appelle Sr Maimoona, qui est sur place ou à cinq minutes."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Ministry exam preparation",
+      "headline": {
+        "en": "One booklet per level, from Grade 3 up,<br/>ready by the end of October",
+        "fr": "Un cahier par niveau, dès la 3e année,<br/>prêt pour la fin octobre"
+      },
+      "paragraphs": [
+        {
+          "en": "The school builds a preparation booklet for <b>each level from Grade 3 upward</b>, including the levels that have no exam, so that every cycle prepares for the next one. The exams to target: Grade 4 French writing; Grade 6 French and mathematics; Secondary 1 and 2 French; Secondary 3 history, science, mathematics and French. Each booklet holds exercises that complement the units of the textbook in use and comes with a calendar telling the teacher what to cover by which date, so that exam preparation and the regular programme are served by the same material.",
+          "fr": "L'école construit un cahier de préparation pour <b>chaque niveau à partir de la 3e année</b>, y compris les niveaux sans épreuve, pour que chaque cycle prépare le suivant. Les épreuves visées : 4e année, écriture en français ; 6e année, français et mathématique ; secondaire 1 et 2, français ; secondaire 3, histoire, science, mathématique et français. Chaque cahier contient des exercices qui complètent les unités du manuel utilisé et s'accompagne d'un calendrier indiquant à l'enseignante quoi couvrir à quelle date, pour que la préparation aux épreuves et le programme régulier soient servis par le même matériel."
+        },
+        {
+          "en": "The consultant has already produced writing situations modelled on the Secondary 5 exam and is working her way down level by level. The principal collects the past ministry exams from GMC, aiming for <b>Wednesday 23 September</b>, and then generates the booklets. Once the exams are in hand, the two agree on a production plan. Target: <b>everything ready by the end of October</b>.",
+          "fr": "La conseillère a déjà produit des situations d'écriture calquées sur l'épreuve de secondaire 5 et descend niveau par niveau. La direction récupère les anciennes épreuves ministérielles auprès de GMC, idéalement le <b>mercredi 23 septembre</b>, puis génère les cahiers. Une fois les épreuves en main, les deux conviennent d'un plan de production. Cible : <b>tout prêt pour la fin octobre</b>."
+        }
+      ],
+      "callouts": [
+        {
+          "type": "open",
+          "text": {
+            "en": "Extra exam-preparation courses outside class hours, around February or March, free or paid, were raised after the consultant saw them fill up in two private schools. Parked until the booklets are ready.",
+            "fr": "Des cours supplémentaires de préparation aux épreuves hors des heures de classe, vers février ou mars, gratuits ou payants, ont été évoqués après que la conseillère les a vus faire salle comble dans deux écoles privées. Mis en attente jusqu'à ce que les cahiers soient prêts."
+          }
+        }
+      ]
+    },
+    {
+      "heading": "Writing routine and videos",
+      "headline": {
+        "en": "Jogging d'écriture three times a week,<br/>short videos instead of meetings",
+        "fr": "Jogging d'écriture trois fois par semaine,<br/>de courtes vidéos plutôt que des réunions"
+      },
+      "paragraphs": [
+        {
+          "en": "The consultant introduces the <b>Jogging d'écriture</b>, short writing situations of five to ten minutes that French teachers run <b>three times a week</b>, with prompts and clear expectations. The principal approved it: the French teachers do not know where to start with writing, and a ready-made routine with prompts is what they need.",
+          "fr": "La conseillère instaure le <b>Jogging d'écriture</b>, de courtes situations d'écriture de cinq à dix minutes que les enseignantes de français font <b>trois fois par semaine</b>, avec des amorces et des attentes claires. La direction l'a approuvé : les enseignantes de français ne savent pas par où commencer en écriture, et une routine toute prête avec des amorces est ce qu'il leur faut."
+        },
+        {
+          "en": "Because teachers are always in class and pedagogical days are few, the consultant will send them short screen-recorded videos, about three minutes each, to explain a tool. The first one, on the Jogging d'écriture, goes to the principal and Br. Abdul Qayyum in the group for feedback before it is sent to the teachers. The principal offered to produce AI-narrated videos from a written script when that is easier, for the madrasah and for the TGA.",
+          "fr": "Comme les enseignantes sont toujours en classe et que les journées pédagogiques sont rares, la conseillère leur enverra de courtes vidéos d'enregistrement d'écran, environ trois minutes chacune, pour expliquer un outil. La première, sur le Jogging d'écriture, est envoyée à la direction et à Fr Abdul Qayyum dans le groupe pour rétroaction avant d'aller aux enseignantes. La direction a offert de produire des vidéos narrées par IA à partir d'un script écrit lorsque c'est plus simple, pour la madrasah et pour la TGA."
+        }
+      ]
+    },
+    {
+      "heading": "Consultant focus and follow-ups",
+      "headline": {
+        "en": "Cycle 1 first, then cycles 2 and 3,<br/>joint 15-minute follow-ups every month",
+        "fr": "Le 1er cycle d'abord, puis les 2e et 3e,<br/>suivis conjoints mensuels de 15 minutes"
+      },
+      "paragraphs": [
+        {
+          "en": "The consultant finishes her observation phase, needed for a general view of the madrasah, then concentrates intensively on <b>Cycle 1</b> for a few months, then Cycle 2, then Cycle 3. Her three big files are the ministry exams, the teacher training, and intensive coaching for the teachers ready to move up a level, Sr. Maysa first. The principal noted that her presence in classrooms is already changing teachers' attitudes. The brothers' side is not part of this year's programme: solid routines on one side first, then the same on the other side next year.",
+          "fr": "La conseillère termine sa phase d'observation, nécessaire pour une vue d'ensemble de la madrasah, puis se concentre intensivement sur le <b>1er cycle</b> pendant quelques mois, ensuite le 2e, puis le 3e. Ses trois grands dossiers sont les épreuves ministérielles, la formation des enseignantes et l'accompagnement intensif des enseignantes prêtes à passer au niveau supérieur, Sr Maysa en premier. La direction a souligné que sa présence dans les classes change déjà l'attitude des enseignantes. Le côté des garçons ne fait pas partie du programme de cette année : d'abord de bonnes routines d'un côté, puis la même chose de l'autre côté l'an prochain."
+        },
+        {
+          "en": "Each month, the principal and the consultant hold a <b>15-minute individual follow-up with each teacher, together</b>. The consultant sets action items with the teacher through the month and both review them at the follow-up. October's round takes place on the pedagogical day of <b>5 October</b>, by Zoom as last year; November's is tied to that month's parent-teacher meeting; December's is scheduled separately. Pedagogical days also serve for training when needed. The consultant attends the weekly teachers' meeting once a month; she is not needed next week, the training replaces it.",
+          "fr": "Chaque mois, la direction et la conseillère tiennent <b>ensemble un suivi individuel de 15 minutes avec chaque enseignante</b>. La conseillère établit des actions avec l'enseignante au cours du mois et les deux les revoient au suivi. La ronde d'octobre a lieu à la journée pédagogique du <b>5 octobre</b>, par Zoom comme l'an dernier ; celle de novembre est liée à la rencontre parents-enseignants du mois ; celle de décembre sera planifiée à part. Les journées pédagogiques servent aussi à la formation au besoin. La conseillère assiste à la réunion hebdomadaire des enseignantes une fois par mois ; elle n'est pas requise la semaine prochaine, la formation la remplace."
+        },
+        {
+          "en": "Two practical points. The consultant sets up her Dar Al-'Ulum Outlook email with the administrative codes from the principal, and the principal installs the \"Where is\" scheduling tool on her laptop on Wednesday. The glass desk at the back of the office goes in front of the principal's desk so a teacher can put a laptop down during meetings.",
+          "fr": "Deux points pratiques. La conseillère configure son courriel Outlook de Dar Al-'Ulum avec les codes administratifs fournis par la direction, et la direction installe l'outil d'horaire « Where is » sur son portable mercredi. Le bureau en verre au fond du bureau sera placé devant celui de la direction pour qu'une enseignante puisse y poser un portable pendant les rencontres."
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "id": "A1",
+      "action": {
+        "en": "Write down precise examples of Sirin's behaviour with the consequence of each, for the parent meeting.",
+        "fr": "Noter des exemples précis du comportement de Sirin avec la conséquence de chacun, pour la rencontre avec les parents."
+      },
+      "owner": {
+        "en": "Sr. Maysa",
+        "fr": "Sr Maysa"
+      },
+      "due": {
+        "en": "Mon 21 Sep, evening",
+        "fr": "Lun 21 sept., soir"
+      },
+      "note": {
+        "en": "Shared with the consultant the same evening.",
+        "fr": "Transmis à la conseillère le soir même."
+      }
+    },
+    {
+      "id": "A2",
+      "action": {
+        "en": "Prepare the proposal to Sirin's parents: two objectives and a communication journal.",
+        "fr": "Préparer la proposition aux parents de Sirin : deux objectifs et un journal de communication."
+      },
+      "owner": {
+        "en": "Principal and consultant",
+        "fr": "Direction et conseillère"
+      },
+      "due": {
+        "en": "Wed 23 Sep, 8:15",
+        "fr": "Mer 23 sept., 8 h 15"
+      }
+    },
+    {
+      "id": "A3",
+      "action": {
+        "en": "Prepare the effective-teaching training material and the paper self-assessment questionnaire, and send them to the consultant.",
+        "fr": "Préparer le matériel de formation sur l'enseignement efficace et le questionnaire d'autoévaluation papier, et les envoyer à la conseillère."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Tue 22 Sep",
+        "fr": "Mar 22 sept."
+      },
+      "note": {
+        "en": "Consultant returns comments by the weekend.",
+        "fr": "La conseillère retourne ses commentaires d'ici la fin de semaine."
+      }
+    },
+    {
+      "id": "A4",
+      "action": {
+        "en": "Confirm the two training days of the week of 28 September and arrange Qur'an teacher coverage from 12:00 to 1:00.",
+        "fr": "Confirmer les deux jours de formation de la semaine du 28 septembre et organiser la prise en charge par les enseignants de Coran de 12 h à 13 h."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A5",
+      "action": {
+        "en": "Send the reminder for the student observation forms, girls' and boys' sides.",
+        "fr": "Envoyer le rappel pour les formulaires d'observation des élèves, côté filles et côté garçons."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Tue 22 Sep",
+        "fr": "Mar 22 sept."
+      }
+    },
+    {
+      "id": "A6",
+      "action": {
+        "en": "Return the observation forms, hand in the manuals, and state where the class has reached in the programme.",
+        "fr": "Remettre les formulaires d'observation, laisser les manuels et indiquer où le groupe est rendu dans le programme."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Fri 25 Sep",
+        "fr": "Ven 25 sept."
+      }
+    },
+    {
+      "id": "A7",
+      "action": {
+        "en": "Give the madrasah-wide standardized test.",
+        "fr": "Faire passer le test standardisé à toute la madrasah."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Mon 28 Sep",
+        "fr": "Lun 28 sept."
+      }
+    },
+    {
+      "id": "A8",
+      "action": {
+        "en": "Review the teacher observation forms flagged by the principal.",
+        "fr": "Examiner les formulaires d'observation signalés par la direction."
+      },
+      "owner": {
+        "en": "Consultant",
+        "fr": "Conseillère"
+      },
+      "due": {
+        "en": "Wed 30 Sep",
+        "fr": "Mer 30 sept."
+      }
+    },
+    {
+      "id": "A9",
+      "action": {
+        "en": "Send every parent the two-part report, Qur'an and academic, comments only.",
+        "fr": "Envoyer à chaque parent le rapport en deux parties, Coran et académique, commentaires seulement."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Fri 2 Oct",
+        "fr": "Ven 2 oct."
+      }
+    },
+    {
+      "id": "A10",
+      "action": {
+        "en": "Upload the traces of learning to the shared drive.",
+        "fr": "Téléverser les traces d'apprentissage sur le lecteur partagé."
+      },
+      "owner": {
+        "en": "All teachers",
+        "fr": "Tout le personnel enseignant"
+      },
+      "due": {
+        "en": "Fri 9 Oct",
+        "fr": "Ven 9 oct."
+      }
+    },
+    {
+      "id": "A11",
+      "action": {
+        "en": "Write the two job postings, behaviour specialist (TES) and hall monitor; the consultant circulates them.",
+        "fr": "Rédiger les deux offres, spécialiste du comportement (TES) et surveillante de corridor ; la conseillère les diffuse."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "To be set",
+        "fr": "À déterminer"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A12",
+      "action": {
+        "en": "Collect the past ministry exams from GMC.",
+        "fr": "Récupérer les anciennes épreuves ministérielles auprès de GMC."
+      },
+      "owner": {
+        "en": "Principal",
+        "fr": "Direction"
+      },
+      "due": {
+        "en": "Wed 23 Sep",
+        "fr": "Mer 23 sept."
+      }
+    },
+    {
+      "id": "A13",
+      "action": {
+        "en": "Build one exam-preparation booklet per level from Grade 3 up, with a teacher calendar.",
+        "fr": "Bâtir un cahier de préparation par niveau à partir de la 3e année, avec un calendrier pour l'enseignante."
+      },
+      "owner": {
+        "en": "Principal and consultant",
+        "fr": "Direction et conseillère"
+      },
+      "due": {
+        "en": "End of October",
+        "fr": "Fin octobre"
+      },
+      "due_style": "soft"
+    },
+    {
+      "id": "A14",
+      "action": {
+        "en": "Send the Jogging d'écriture video to the group for feedback, then roll out the routine to French teachers three times a week.",
+        "fr": "Envoyer la vidéo du Jogging d'écriture au groupe pour rétroaction, puis lancer la routine auprès des enseignantes de français trois fois par semaine."
+      },
+      "owner": {
+        "en": "Consultant",
+        "fr": "Conseillère"
+      },
+      "due": {
+        "en": "This week",
+        "fr": "Cette semaine"
+      }
+    },
+    {
+      "id": "A15",
+      "action": {
+        "en": "Carry out the classroom observations, three aspects per visit, split between the two.",
+        "fr": "Réaliser les observations en classe, trois aspects par visite, réparties entre les deux."
+      },
+      "owner": {
+        "en": "Principal and consultant",
+        "fr": "Direction et conseillère"
+      },
+      "due": {
+        "en": "Week of 5 Oct",
+        "fr": "Semaine du 5 oct."
+      }
+    },
+    {
+      "id": "A16",
+      "action": {
+        "en": "Hold the first round of joint 15-minute teacher follow-ups by Zoom.",
+        "fr": "Tenir la première ronde de suivis conjoints de 15 minutes avec les enseignantes, par Zoom."
+      },
+      "owner": {
+        "en": "Principal and consultant",
+        "fr": "Direction et conseillère"
+      },
+      "due": {
+        "en": "Mon 5 Oct",
+        "fr": "Lun 5 oct."
+      },
+      "note": {
+        "en": "Then monthly.",
+        "fr": "Puis chaque mois."
+      }
+    }
+  ],
+  "to_confirm": [
+    {
+      "title": "Training days.",
+      "text": {
+        "en": "Monday and Tuesday, or Tuesday (principal) and Thursday or Friday (consultant), was left to the timetable. The consultant is out on Wednesday 30 September.",
+        "fr": "Fixer les deux jours de formation et prévenir les enseignants de Coran."
+      }
+    },
+    {
+      "title": "Traces of learning deadline.",
+      "text": {
+        "en": "The transcript says \"the 9th of September\"; 9 October is the only reading that fits a one-week extension after the 25th.",
+        "fr": "Confirmer la date du 9 octobre."
+      }
+    },
+    {
+      "title": "Manuals hand-in date.",
+      "text": {
+        "en": "Both the 25th and the 28th of September were mentioned for teachers leaving their manuals with the principal.",
+        "fr": "Confirmer le 25 ou le 28 septembre."
+      }
+    },
+    {
+      "title": "Specialist title.",
+      "text": {
+        "en": "The transcript has \"TOS expert\"; the profile described (behaviour, crisis, emotional regulation) is a TES. Check before the posting goes out.",
+        "fr": "Confirmer le titre du poste avant l'affichage."
+      }
+    },
+    {
+      "title": "Textbook for the booklets.",
+      "text": {
+        "en": "The textbook the exercises must follow was transcribed as \"Maison Circé\".",
+        "fr": "Confirmer le manuel de référence."
+      }
+    }
+  ],
+  "footer": "Dar Al-'Ulum Montréal · Meeting Minutes / Procès-verbal"
+}
