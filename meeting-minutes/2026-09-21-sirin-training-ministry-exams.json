@@ -1,21 +1,21 @@
 {
   "org": "Dar Al-'Ulum Montréal",
   "kicker": {
-    "en": "Pedagogical planning meeting",
-    "fr": "Rencontre de planification pédagogique"
+    "en": "Weekly meeting: Week of September 21",
+    "fr": "Semaine du 21 septembre"
   },
   "title": {
     "en": "Sirin's Parent Meeting, Teacher Training and Ministry Exam Preparation",
     "fr": "Rencontre avec les parents de Sirin, formation des enseignantes et préparation aux épreuves ministérielles"
   },
   "date": {
-    "en": "Monday 21 Sep 2026",
-    "fr": "Lundi 21 sept. 2026",
-    "short": "21 Sep 2026"
+    "en": "Week of September 21",
+    "fr": "Semaine du 21 septembre",
+    "short": "Week of 21 Sep 2026"
   },
   "meeting": {
-    "en": "Principal and pedagogical consultant",
-    "fr": "Direction et conseillère pédagogique"
+    "en": "Weekly meeting",
+    "fr": "Réunion hebdomadaire"
   },
   "chair": {
     "en": "Principal",
