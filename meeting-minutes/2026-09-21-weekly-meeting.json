@@ -98,36 +98,6 @@
           }
         }
       ]
-    },
-    {
-      "heading": "Individual students",
-      "headline": {
-        "en": "Two students discussed, and the weight of family expectations",
-        "fr": "Deux élèves abordés, et le poids des attentes familiales"
-      },
-      "paragraphs": [
-        {
-          "en": "The progress of Muhammad and Ismail was reviewed. It was noted that some students feel pressure, even fear, when faced with a specific requirement such as being asked to take a book home. That reaction is to be taken into account in how the requirement is presented, not used as a reason to drop it.",
-          "fr": "La progression de Muhammad et d'Ismail a été passée en revue. Il a été noté que certains élèves ressentent une pression, voire une crainte, devant une exigence précise comme celle de rapporter un livre à la maison. Cette réaction doit être prise en compte dans la manière de présenter l'exigence, sans servir de motif pour y renoncer."
-        },
-        {
-          "en": "Family background sets the starting point. A student whose father has been <b>mujaz for thirteen years</b> comes with a different baseline and a different set of expectations at home, and the evaluation should be read against that.",
-          "fr": "Le milieu familial fixe le point de départ. Un élève dont le père est <b>mujaz depuis treize ans</b> arrive avec une base différente et des attentes différentes à la maison, et l'évaluation doit se lire à la lumière de cela."
-        }
-      ],
-      "callouts": [
-        {
-          "type": "case",
-          "lead": {
-            "en": "Muhammad and Ismail.",
-            "fr": "Muhammad et Ismail."
-          },
-          "text": {
-            "en": "Individual progress reviewed. The summary does not record which student showed the reluctance about taking a book home, nor their levels; see the items to confirm.",
-            "fr": "Progression individuelle passée en revue. Le résumé ne précise ni lequel des deux a montré la réticence à rapporter un livre, ni leurs niveaux ; voir les points à confirmer."
-          }
-        }
-      ]
     }
   ],
   "actions": [
@@ -211,34 +181,5 @@
       }
     }
   ],
-  "to_confirm": [
-    {
-      "title": "Meeting date.",
-      "text": {
-        "en": "The summary is dated 22 September; the minutes are headed by the week only.",
-        "fr": "Confirmer le jour exact de la réunion."
-      }
-    },
-    {
-      "title": "Parent-teacher meeting dates.",
-      "text": {
-        "en": "The reports must go out before the meetings, but the meeting dates are not in the summary, so no deadline could be set for A2 and A3.",
-        "fr": "Fixer les dates des rencontres et l'échéance d'envoi des rapports."
-      }
-    },
-    {
-      "title": "Evaluation format owner.",
-      "text": {
-        "en": "Finalising the two-tier format was agreed as a next step without a named owner or date.",
-        "fr": "Attribuer un responsable et une échéance pour le gabarit."
-      }
-    },
-    {
-      "title": "Muhammad and Ismail.",
-      "text": {
-        "en": "Their levels, and which of them was reluctant to take a book home, are not in the summary.",
-        "fr": "Préciser les niveaux et le détail de chaque cas."
-      }
-    }
-  ]
+  "to_confirm": []
 }
