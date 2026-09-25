@@ -24,6 +24,22 @@
   "email_source": "https://centres.macnet.ca/mac-quebec/fr/contact-mac-quebec/"
  },
  {
+  "name": "Mosquée de Beauport",
+  "address": "2268 Avenue Larue",
+  "city": "Quebec",
+  "email": "infos@mosqueebeauport.ca",
+  "alt_email": "courriel@ambeauport.ca",
+  "email_source": "https://www.mosqueebeauport.ca/contacts"
+ },
+ {
+  "name": "Mosquée de la Capitale",
+  "address": "270 rue Marie-de-l'Incarnation",
+  "city": "Québec",
+  "email": "info@mosqueedelacapitale.com",
+  "alt_email": "",
+  "email_source": "https://www.mosqueedelacapitale.com/contact-us"
+ },
+ {
   "name": "AÉMUL prayer room - Université Laval (Pavillon Alphonse-Marie-Parent, local 0719; Jumu'ah at Pavillon Ernest-Lemieux, salle 1575)",
   "address": "2255 rue de l'Université",
   "city": "Québec (Sainte-Foy)",
@@ -38,6 +54,14 @@
   "email": "secretariat@ccidelabeauce.ca",
   "alt_email": "",
   "email_source": "https://ccidelabeauce.ca/fr/contact"
+ },
+ {
+  "name": "Mosquée Al-Sahaba (ACIM Magog)",
+  "address": "33 rue Saint-Patrice Est",
+  "city": "Magog",
+  "email": "contact@acim-magog.ca",
+  "alt_email": "",
+  "email_source": "https://www.acim-magog.ca/contactus"
  },
  {
   "name": "Mosquée A'Rahmane - Association culturelle islamique de l'Estrie (ACIE)",
@@ -80,6 +104,14 @@
   "email_source": "https://centrerayan.ca/a-propos"
  },
  {
+  "name": "Masjid Ammar - Centre Orchidées",
+  "address": "911 Montée Gravel",
+  "city": "Laval",
+  "email": "info@canadianmuslimfamily.com",
+  "alt_email": "",
+  "email_source": "https://canadianmuslimfamily.com/contactez-nous"
+ },
+ {
   "name": "Centre Kawtar de Laval",
   "address": "3871 Autoroute des Laurentides",
   "city": "Laval (Chomedey)",
@@ -94,6 +126,14 @@
   "email": "communitycentresiddiquia@gmail.com",
   "alt_email": "",
   "email_source": "https://jamiasiddiquialaval.com/contact.html"
+ },
+ {
+  "name": "Masjid Al-Jisr (Centre Al-Jisr)",
+  "address": "3005 Boulevard Cartier Ouest",
+  "city": "Laval (Laval-des-Rapides)",
+  "email": "masjidaljisr@gmail.com",
+  "alt_email": "",
+  "email_source": "https://centrealjisr.com/fr/contact"
  },
  {
   "name": "Masjid Al-Itissam (Association Islamique Al Ihssane de Laval)",
@@ -120,12 +160,28 @@
   "email_source": "https://centrealiman.ca/"
  },
  {
+  "name": "ASEC - مركز الهجرة",
+  "address": "8750 Bd Métropolitain E",
+  "city": "Anjou",
+  "email": "admin@asecmtl.org",
+  "alt_email": "",
+  "email_source": "https://asecmtl.org/asecmtl/contact-us"
+ },
+ {
   "name": "مسجد الروضة",
   "address": "12265 Boul. Laurentien",
   "city": "Montréal",
   "email": "info@alrawdah.ca",
   "alt_email": "",
   "email_source": "https://centres.macnet.ca/alrawdah/fr/contactez-nous/"
+ },
+ {
+  "name": "Centre Islamique Libanais à Montréal",
+  "address": "40 Rue de Port-Royal E",
+  "city": "Montréal",
+  "email": "cil.libanais@gmail.com",
+  "alt_email": "",
+  "email_source": "https://cilmontreal.com/about/organisation"
  },
  {
   "name": "Islamic Services of Quebec - ISQ",
@@ -152,6 +208,14 @@
   "email_source": "https://cdsbalimaya.org/"
  },
  {
+  "name": "Turkish Islamic Centre of Quebec (Centre communautaire turc de Montréal)",
+  "address": "3785 Rue Villeray",
+  "city": "Montréal",
+  "email": "info@turkcommunity.ca",
+  "alt_email": "",
+  "email_source": "http://www.turkcommunity.ca/"
+ },
+ {
   "name": "Mosquée Al-Rawdah / Centre Communautaire Laurentien (MAC)",
   "address": "12253 Boulevard Laurentien",
   "city": "Montréal (Ahuntsic-Cartierville)",
@@ -174,6 +238,22 @@
   "email": "info@dhoun-nourain.com",
   "alt_email": "contact@dhoun-nourain.com",
   "email_source": "https://mosquee-dhoun-nourain.com/how-to-teach-kids-ramadan-isnt-about-food/"
+ },
+ {
+  "name": "Association Musulmane de Montréal-Nord (Masjid Noor Al-Islam)",
+  "address": "10395 avenue Pelletier",
+  "city": "Montréal (Montréal-Nord)",
+  "email": "info@ammn.ca",
+  "alt_email": "",
+  "email_source": "https://ammn.ca/about"
+ },
+ {
+  "name": "Centre Culturel Islamique Ach-Choura",
+  "address": "5434 boulevard Henri-Bourassa Est",
+  "city": "Montréal (Montréal-Nord)",
+  "email": "c.c.achoura@gmail.com",
+  "alt_email": "",
+  "email_source": "https://achoura.ca/contactus"
  },
  {
   "name": "Muslim Community of Quebec (MCQ) / Mosquée de Montréal",
@@ -216,6 +296,14 @@
   "email_source": "https://www.iqrafoundation.net/contact.html"
  },
  {
+  "name": "Mosquée El Fath (listed as Masjid Makkah-Al-Mukkaramah, RDP)",
+  "address": "11660 boulevard Rivière-des-Prairies",
+  "city": "Montréal (Rivière-des-Prairies)",
+  "email": "ccf.rdp@gmail.com",
+  "alt_email": "",
+  "email_source": "http://www.elfath.ca/"
+ },
+ {
   "name": "Centre Islamique Al-Andalous (Al-Andalous Islamic Center)",
   "address": "816 Avenue Sainte-Croix (earlier: 970 boul. Décarie)",
   "city": "Montréal (Saint-Laurent)",
@@ -224,12 +312,44 @@
   "email_source": "https://www.icandalous.ca/contactez-nous"
  },
  {
+  "name": "Centre Islamique Badr de Saint-Léonard",
+  "address": "8625 boulevard Langelier",
+  "city": "Montréal (Saint-Léonard)",
+  "email": "info@centrebadr.net",
+  "alt_email": "",
+  "email_source": "https://centrebadr.net/contact"
+ },
+ {
   "name": "Centre Tawhid (Al Tawhid Mosque)",
   "address": "5950 rue Jean-Talon Est",
   "city": "Montréal (Saint-Léonard)",
   "email": "centres.tawhid@gmail.com",
   "alt_email": "",
   "email_source": "https://www.centres-tawhid.ca/uncategorized/opportunites-demploi-2025-rejoignez-notre-equipe-de-camp-de-jour/"
+ },
+ {
+  "name": "Centre Islamique de Verdun / Mosquée Abuhuraira (MAC)",
+  "address": "4538 Rue de Verdun",
+  "city": "Montréal (Verdun)",
+  "email": "info@civmac.ca",
+  "alt_email": "",
+  "email_source": "https://centres.macnet.ca/civ/contactez-nous/"
+ },
+ {
+  "name": "Aisha Islamic Center (AIC)",
+  "address": "425 Rue de l'Aqueduc",
+  "city": "Montréal (Ville-Marie / Griffintown)",
+  "email": "admin@aishaic.org",
+  "alt_email": "",
+  "email_source": "https://aishaic.org/contact"
+ },
+ {
+  "name": "Centre Bel Agir (Masjid Al-Ihsan)",
+  "address": "8390 rue Saint-Hubert",
+  "city": "Montréal (Villeray)",
+  "email": "info@belagir.ca",
+  "alt_email": "",
+  "email_source": "https://www.belagir.ca/contactez-nous"
  },
  {
   "name": "Centre Communautaire Villeray / Mosquée Aboubakr",

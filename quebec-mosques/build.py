@@ -20,7 +20,7 @@ HERE = Path(__file__).parent
 SOURCES = ["mtl_central_west", "mtl_north_east", "laval_north", "south_shore", "rest_of_qc",
            "new_mtl", "new_suburbs", "new_regions", "mawaqit", "praysalat", "osm"]
 FIELDS = ["region", "name", "type", "address", "city", "postal_code", "phone", "email",
-          "alt_email", "website", "confidence", "sources", "email_source"]
+          "alt_email", "website", "confidence", "sources", "email_source", "email_note"]
 
 # The three excluded mosques, matched by address or by a name that only they use.
 EXCLUDE_ADDR = [("11900", "gouin"), ("2520", "laval"), ("12080", "laurentien")]
@@ -42,7 +42,7 @@ SAME_PLACE = [r"\b45(83|38) rue de verdun", r"vaudreuil soulanges|2400 st antoin
               r"valleyfield", r"al.?manara", r"9(09|11) m\w* gravel|masjid ammar", r"okba", r"thetford",
               r"^al aman |centre aman|mosque aman", r"no[ou]r.?(e|al).?madina|nour al medina",
               r"^centre communautaire islamique\s+23e avenue|4201 rue belanger", r"itissam",
-              r"al.?jisr", r"jamieh", r"rimouski", r"rawdah", r"sorel"]
+              r"al.?jisr", r"jamieh", r"rimouski", r"rawdah", r"sorel", r"taiba"]
 STREET_STOP = set("rue st street boulevard blvd bd boul av ave avenue chemin ch chem mnt montee "
                   "e o est ouest w n s nord sud de du des la le l d local suite unit".split())
 
@@ -125,6 +125,22 @@ def _city_list(cities):
     return out + rest.split()
 
 
+def type_of(r):
+    n = norm(r["name"] + " " + r["type"])
+    if re.search(r"ismaili|jamat ?khana", n):
+        return "Ismaili jamatkhana"
+    if re.search(r"ahmadiyya|nusrat", n):
+        return "Ahmadiyya"
+    if re.search(r"\bshia\b|ahlul|ahlil|khoei|imambargah|house of wisdom|haidery|emam hosein|iranian|"
+                 r"al zahraa", n):
+        return "Shia"
+    if re.search(r"universit|\bmsa\b|aemul|amus|concordia|mcgill|student|aeroport|airport", n):
+        return "Prayer room (campus/airport)"
+    if re.search(r"musall?ah?|moussalah|mosalla|salle de priere|prayer room", n):
+        return "Musalla"
+    return "Mosque / centre"
+
+
 def main(raw):
     rows = []
     for rank, src in enumerate(SOURCES):
@@ -205,11 +221,12 @@ def main(raw):
         for m in out:
             e = next((by_key[k] for k in keys(m) if k in by_key), None)
             if e:
-                for f in ("email", "alt_email", "email_source"):
+                for f in ("email", "alt_email", "email_source", "email_note"):
                     m[f] = m[f] or e.get(f, "")
 
     for m in out:
         m["region"] = region_of(m)
+        m["type"] = type_of(m)
     out.sort(key=lambda r: (r["region"], norm(r["city"]), norm(r["name"])))
 
     with open(HERE / "quebec_mosques.csv", "w", newline="", encoding="utf-8-sig") as f:
@@ -226,9 +243,9 @@ def main(raw):
         c.fill = PatternFill("solid", fgColor="1F4E3D")
     for r in out:
         ws.append([r[f] for f in FIELDS])
-    widths = {"region": 22, "name": 44, "type": 12, "address": 36, "city": 24, "postal_code": 10,
-              "phone": 17, "email": 34, "alt_email": 30, "website": 34, "confidence": 10,
-              "sources": 60, "email_source": 45}
+    widths = {"region": 22, "name": 44, "address": 36, "city": 24, "postal_code": 10,
+              "phone": 17, "email": 34, "alt_email": 30, "website": 34, "confidence": 10, "type": 24,
+              "sources": 60, "email_source": 45, "email_note": 50}
     for i, f in enumerate(FIELDS, 1):
         ws.column_dimensions[get_column_letter(i)].width = widths[f]
     ws.freeze_panes = "B2"

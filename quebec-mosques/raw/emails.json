@@ -817,5 +817,333 @@
   "email": "acmrn2006@hotmail.com",
   "alt_email": "",
   "email_source": "https://acmrn2006.wordpress.com/"
+ },
+ {
+  "name": "Mosquée de Val-d'Or - Association Culturelle Musulmane de Val-d'Or",
+  "address": "1153 4e Avenue",
+  "email": "acmv.qc.ca@gmail.com",
+  "alt_email": "dons.acmv@gmail.com",
+  "email_source": "https://acmvaldor.org/contact-2/",
+  "email_note": "SEARCH-INDEX ONLY: acmvaldor.org is blocked by this environment's egress proxy so the page could not be fetched directly; WebSearch for the exact address return"
+ },
+ {
+  "name": "Association de la mosquee de beauport",
+  "address": "2268 Av. Larue",
+  "email": "infos@mosqueebeauport.ca",
+  "alt_email": "courriel@ambeauport.ca",
+  "email_source": "https://www.mosqueebeauport.ca/",
+  "email_note": "Site (2268 Av. Larue) displays infos@mosqueebeauport.ca as text, but the mailto link behind it points to courriel@ambeauport.ca (AMB = Association de la Mosquée"
+ },
+ {
+  "name": "Centre Culturel Islamique de Thetford Mines",
+  "address": "55 Rue Dumais N",
+  "email": "centreculturelislamique2025@gmail.com",
+  "alt_email": "",
+  "email_source": "https://thetford-islami-hub.lovable.app/",
+  "email_note": "Found in the site's JS bundle (/assets/index-BHIAbVTZ.js) with mailto link, next to the address '55 Rue Dumais N, Thetford Mines, QC G6G 3R4'. The same address "
+ },
+ {
+  "name": "Mosquée Al-Sahaba (ACIM Magog)",
+  "address": "33 rue Saint-Patrice Est",
+  "email": "contact@acim-magog.ca",
+  "alt_email": "",
+  "email_source": "https://www.acim-magog.ca/",
+  "email_note": "Footer 'Contactez-nous' block, phone +1 819-919-0544. Works only at www.acim-magog.ca (the bare domain fails)."
+ },
+ {
+  "name": "Masjid Al-Hak",
+  "address": "735 A Rue Labelle",
+  "email": "info@masjidrivnord.ca",
+  "alt_email": "masjidrivnord@gmail.com",
+  "email_source": "https://masjidrivnord.ca/",
+  "email_note": "SEARCH-INDEX ONLY: masjidrivnord.ca is blocked by this environment's egress proxy, so the page could not be fetched. WebSearch for these exact addresses returne"
+ },
+ {
+  "name": "Mosquée Al Ansar",
+  "address": "221 Boulevard des Laurentides",
+  "email": "admin@mosqueealansar.com",
+  "alt_email": "",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/masjid-al-ansar-2/",
+  "email_note": "The DALILOOK listing (221 Boulevard des Laurentides, Laval H7G 2T7, (514) 466-7228) shows admin@mosqueealansar.com. PrayersConnect Al Ansar Mosque Laval shows t"
+ },
+ {
+  "name": "The Iranian Islamic Center of Montreal Inc (Centre islamique iranien de Montréal Inc)",
+  "address": "210 St Jacques St",
+  "email": "iraniansmontreal@gmail.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12442562-the-iranian-islamic-center-of-montreal-montreal-quebec-canada",
+  "email_note": "PrayersConnect listing with phone +15143661509 (matches the input) gives contact_email iraniansmontreal@gmail.com."
+ },
+ {
+  "name": "Canadian Institute of Islamic Civilization CIIC MAC (Institut Canadien de Civilisation Musulmane ICCM)",
+  "address": "615 Rue Belmont",
+  "email": "manager@ciic.macnet.ca",
+  "alt_email": "",
+  "email_source": "https://centres.macnet.ca/theciic/contact/",
+  "email_note": "Contact page shows (514) 508-2444, manager@ciic.macnet.ca and 615 Rue Belmont. The site belongs to the umbrella organization MAC (Muslim Association of Canada),"
+ },
+ {
+  "name": "Turkish Islamic Centre of Quebec (Centre communautaire turc de Montréal)",
+  "address": "3785 Rue Villeray",
+  "email": "info@turkcommunity.ca",
+  "alt_email": "",
+  "email_source": "https://turkcommunity.ca/",
+  "email_note": "Homepage (https) shows info@turkcommunity.ca and also mentions Villeray and 722-1835."
+ },
+ {
+  "name": "Association Faizan-e-Madina (Dawat-e-Islami)",
+  "address": "810 Rue Saint-Roch (other listings: 6502 Avenue du Parc, H2V 4H9)",
+  "email": "canada@dawateislami.net",
+  "alt_email": "",
+  "email_source": "https://dawateislamicanada.net/contact-us",
+  "email_note": "UMBRELLA ORG: the Dawat-e-Islami Canada contact page lists 'Faizan-E-Madina Montreal: 810 Rue Saint-Roch' (+1 514 983-7861). Its email is Cloudflare-obfuscated "
+ },
+ {
+  "name": "Mosquée et Centre Assalam",
+  "address": "8988 boulevard Saint-Michel",
+  "email": "info@associationlapaix.org",
+  "alt_email": "",
+  "email_source": "https://www.thehashir.com/mosques-details/Mosqu%C3%A9e-et-Centre-Assalam/336",
+  "email_note": "TheHashir listing for 'Mosquée et Centre Assalam / Centre Culturel Islamique Assalam', 8988 Boulevard Saint-Michel H1Z 3G4, +1-514-381-7638, gives info@associat"
+ },
+ {
+  "name": "Mosquee Des Lacs",
+  "address": "20845 Boul. Henri-Bourassa",
+  "email": "info@mosqueedelacapitale.com",
+  "alt_email": "",
+  "email_source": "https://www.mosqueedelacapitale.com/nous-joindre/",
+  "email_note": "Umbrella org: Mosquée des Lacs is run by the Association Mosquée de la Capitale (its Ramadan 2026 post names it; https://www.mosqueedelacapitale.com/ramadan/202"
+ },
+ {
+  "name": "Centre Culturel Islamique de Québec (CCIQ) - Grande Mosquée de Québec",
+  "address": "2877 chemin Sainte-Foy",
+  "email": "info@cciq.org",
+  "alt_email": "mariage@cciq.org",
+  "email_source": "https://www.211quebecregions.ca/record/QBC0192",
+  "email_note": "Also listed on the mawaqit API (slug cciq). The alt is the marriage-services address, from https://cciq.org/services/mariages/"
+ },
+ {
+  "name": "Levis Mosque (Mosquée de Lévis)",
+  "address": "5020 Bd Guillaume-Couture",
+  "email": "mosqueelevis@hotmail.com",
+  "alt_email": "",
+  "email_source": "https://info-aines-mauricie.cioc.ca/record/QBC3830",
+  "email_note": "Org: Association des musulmanes et musulmans du grand Lévis (AMMGL). Also on https://macommunaute.ca/bottin-des-organismes/association-des-musulmanes-et-musulma"
+ },
+ {
+  "name": "Centre Culturel Musulman de la Côte-Nord (Mosquée de Sept-Îles)",
+  "address": "",
+  "email": "ccmcotenord@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=sept-iles",
+  "email_note": "From the Mawaqit mosque record (slug ccm-sept-iles): 298 Av. Brochu, Sept-Îles, phone 418-960-2551."
+ },
+ {
+  "name": "Centre Islamique Libanais à Montréal",
+  "address": "40 Rue de Port-Royal E",
+  "email": "cil.libanais@gmail.com",
+  "alt_email": "",
+  "email_source": "https://cilmontreal.com/fr",
+  "email_note": "Found on the site contact block with the matching address, 40 Rue de Port-Royal E. The site shows the phone as (514) 384-6029."
+ },
+ {
+  "name": "Mosquee Fomac Centre Loqman",
+  "address": "9850 Rue Tolhurst #201",
+  "email": "info@lefomac.org",
+  "alt_email": "donate@lefomac.org",
+  "email_source": "https://www.lefomac.org/fr",
+  "email_note": "Org: Forum Musulman Afro-Canadien (FoMAC). The address 9850 Tolhurst Suite 201 matches, and the site phone is (514) 222-2565. The mawaqit record also gives info"
+ },
+ {
+  "name": "Centre Communautaire Annour",
+  "address": "4600 Rue Forest",
+  "email": "info@ammn.ca",
+  "alt_email": "",
+  "email_source": "https://ammn.ca/contact",
+  "email_note": "Umbrella org: Association musulmane de Montréal-Nord (AMMN). Its president also heads the Centre communautaire Annour, per journalmetro.com. The AMMN site lists"
+ },
+ {
+  "name": "Ahlul-Bayt (PBUT) Islamic Organization and Mosque (Shia)",
+  "address": "4075 Avenue de Courtrai",
+  "email": "info@ahlillbait.org",
+  "alt_email": "",
+  "email_source": "https://www.faithincanada150.ca/faithalliance/member/184",
+  "email_note": "Also on https://shiatent.com/listing/ahlul-bayt-pbut-islamic-mosque-and-shia-organization-in-montreal/. Listed contact: Salam El-Mousawi, Administrator. The sit"
+ },
+ {
+  "name": "Al Bayan Islamic Community Center",
+  "address": "5865 boulevard Saint-Michel",
+  "email": "cic.al.bayane07@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=bayan",
+  "email_note": "From the Mawaqit mosque record \"Centre Communautaire Islamique Al-Bayane\", 5865 Bd Saint-Michel, phone +14388778389; the address and phone match."
+ },
+ {
+  "name": "Aisha Islamic Center (AIC)",
+  "address": "425 Rue de l'Aqueduc",
+  "email": "admin@aishaic.org",
+  "alt_email": "",
+  "email_source": "https://aishaic.org/",
+  "email_note": "Found in the homepage contact block with the matching address and phone. Earlier passes probably missed it because the http URL is blocked and only https works."
+ },
+ {
+  "name": "Enlightened Path Institute Epiqc (Institut de la voie éclairée (EPIQC))",
+  "address": "4862 Saint-Charles Blvd",
+  "email": "epiqc.ca@gmail.com",
+  "alt_email": "",
+  "email_source": "https://www.epiqc.ca/",
+  "email_note": "Found on the institute's own site; also on adilahmad.ca."
+ },
+ {
+  "name": "CCM Sorel-Tracy (Centre Communautaire Multiculturel Sorel-Tracy)",
+  "address": "",
+  "email": "ccmsoreltracy@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=sorel",
+  "email_note": "From the Mawaqit mosque record (slug ccm-sorel-tracy): 351 Bd Fiset, Sorel-Tracy, J3P 3R3, phone 514-743-8409."
+ },
+ {
+  "name": "Association Socio-Culturelle Islamique Louperivoise (ASCIL)",
+  "address": "174 rue Lafontaine",
+  "email": "associationrdl.ascil@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Riviere-du-Loup",
+  "email_note": "Mawaqit listing 'ASCIL RDL', 174 rue la fontaine G5R3A7; same email on Prayers Connect https://prayersconnect.com/mosques/12423183 (email is in listing data, no"
+ },
+ {
+  "name": "Mosquée Al-Athar",
+  "address": "1098 4e Avenue",
+  "email": "salafisdequebec@hotmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Athar",
+  "email_note": "Mawaqit 'Masjid Al Athar', 1098 4e Avenue G1J 3B3; same email on Prayers Connect https://prayersconnect.com/mosques/12453931."
+ },
+ {
+  "name": "Association Culturelle Islamique des Bois-Francs (ACIB)",
+  "address": "1521 rue Notre-Dame Ouest",
+  "email": "Acibfvictoriaville@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Victoriaville",
+  "email_note": "Mawaqit listing 'ACIBF', 1521 Rue Notre Dame Ouest G6P 7L9. acibf.org no longer resolves (DNS)."
+ },
+ {
+  "name": "Mosquée de Lévis - Centre culturel AMMGL (Association des musulmanes et musulmans du Grand Lévis)",
+  "address": "39 rue Guénette",
+  "email": "mosqueelevis@hotmail.com",
+  "alt_email": "",
+  "email_source": "https://info-aines-mauricie.cioc.ca/record/QBC3830",
+  "email_note": "211/CIOC record for Association des musulmanes et musulmans du grand Lévis; also on macommunaute.ca listing and Prayers Connect https://prayersconnect.com/mosqu"
+ },
+ {
+  "name": "Centre culturel islamique de Lac-Mégantic",
+  "address": "Corner of rue Québec-Central and rue Dollard (street number not found)",
+  "email": "contact@acie.ca",
+  "alt_email": "",
+  "email_source": "https://acie1.odoo.com/a-propos",
+  "email_note": "UMBRELLA: Association culturelle islamique de l'Estrie (Sherbrooke), whose president funded and opened the Lac-Mégantic centre (L'Écho de Frontenac, 2021-11-03)"
+ },
+ {
+  "name": "Centre Al Nassr",
+  "address": "5047 Boul Lévesque E",
+  "email": "admin@centrealnassr.org",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Al%20Nassr",
+  "email_note": "Mawaqit 'Al Nassr', 5045 Boulevard Lévesque E H7C 1N3 (input says 5047). Domain has live MX; website is behind a bot challenge."
+ },
+ {
+  "name": "Masjid Al-Forqane (Mosquée Al-Forqane)",
+  "address": "3390 Boulevard Sainte-Rose (one source says it moved to 3400 Boulevard Sainte-Rose)",
+  "email": "madrassat.alforqane@gmail.com",
+  "alt_email": "aahmedb@yahoo.fr",
+  "email_source": "https://alforqanelaval.ca/wp-json/wp/v2/posts?per_page=50",
+  "email_note": "Primary is the centre's Arabic/Quran school (school direction) email from the mosque's own site. Alt is from Mawaqit listing 'Mosquée Al-Forqane', 3390 bd St ro"
+ },
+ {
+  "name": "Masdjid Elhidjra",
+  "address": "8790 Boulevard Métropolitain E",
+  "email": "admin@asecmtl.org",
+  "alt_email": "",
+  "email_source": "https://asecmtl.org/",
+  "email_note": "ASEC MTL (Association sociale éducative et culturelle), 8750 B. Métropolitain Est, Anjou. Mawaqit lists the mosque as 'ASEC - مركز الهجرة' (slug elhidjra-mtl) a"
+ },
+ {
+  "name": "Al-Sahabah Lachine Mosquee",
+  "address": "1212 Rue Notre Dame",
+  "email": "info.aml.org@gmail.com",
+  "alt_email": "contact@amlachine.org",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Lachine",
+  "email_note": "Run by the Association Musulmane de Lachine (AML). Primary from Mawaqit 'Mosquée Al-sahabah - AML', 1212 Rue Notre Dame H8S 2C6. Alt from Prayers Connect https:"
+ },
+ {
+  "name": "AlSalam Masjid mosque (Mosquée Masjid Al Salam)",
+  "address": "1232 Stanley St",
+  "email": "info@salam-mosque.org",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12481206",
+  "email_note": "Prayers Connect 'Al-Salam Mosque' lists 1177 Rue de la Montagne (not 1232 Stanley), so the address may have changed. The salam-mosque.org website is down, but t"
+ },
+ {
+  "name": "MOSQUÉE RAHMA du CDS BALIMAYA",
+  "address": "5690 Rue Fullum",
+  "email": "rahma@cdsbalimaya.org",
+  "alt_email": "Info@cdsbalimaya.org",
+  "email_source": "https://www.cdsbalimaya.org/",
+  "email_note": "Both emails are in the site footer next to +1 514-272-2424. Mawaqit also lists don@cdsbalimaya.org (donations) for Mosquée Rahma at 5690 Fullum."
+ },
+ {
+  "name": "The Message of Islam Foundation (Fondation Message de lIslam)",
+  "address": "10555 St Laurent Blvd",
+  "email": "idvmontreal@gmail.com",
+  "alt_email": "info@davetvakfi.org",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Message%20of%20Islam",
+  "email_note": "Primary from Mawaqit 'Fondation du message de l'Islam', 10555 Boulevard St-Laurent H3L 2P5, +15143853443. Alt from Prayers Connect https://prayersconnect.com/mo"
+ },
+ {
+  "name": "Centre Communautaire Al Hidayat (Mosquée Al Hidayat)",
+  "address": "5955 Rue Hochelaga",
+  "email": "ccalhidaya@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Al%20Hidayah%20Montreal",
+  "email_note": "Mawaqit 'Centre Communautaire Al-Hidayah', 5955 Rue Hochelaga H1N 1X3, +15143136903 (phone matches)."
+ },
+ {
+  "name": "Ahmadiyya Muslim Community of Quebec - Al-Nusrat Mosque",
+  "address": "9899 Boulevard Saint-Michel",
+  "email": "info@ahmadiyya.ca",
+  "alt_email": "",
+  "email_source": "https://mrsp.mcgill.ca/reports/datasheets/Ahmadiyya.htm",
+  "email_note": "UMBRELLA/national: the McGill Montreal Religious Sites Project datasheet for 'Ahmadiyya Muslim Community of Quebec (Al Nusrat Mosque)' gives info@ahmadiyya.ca. "
+ },
+ {
+  "name": "Organisation de la Mosquée Noor-E-Madina",
+  "address": "692 Rue Jean-Talon Ouest",
+  "email": "nooremadina692@gmail.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12439489",
+  "email_note": "Prayers Connect 'Masjid of Noor-E-Madina', 692 Rue Jean-Talon O H3N 1R8 (email is in the page's listing data)."
+ },
+ {
+  "name": "Concordia University MSA musalla",
+  "address": "",
+  "email": "msaconcordia@csu.qc.ca",
+  "alt_email": "external@msaconcordia.ca",
+  "email_source": "https://www.concordia.ca/equity/spirituality/faith-groups.html",
+  "email_note": "Primary from Concordia's Multi-faith & Spirituality Centre faith-groups page. Alt (Cloudflare-obfuscated, decoded) from https://www.csu.qc.ca/muslim-student-ass"
+ },
+ {
+  "name": "Mosquée Fatima (Fatima Mosque)",
+  "address": "2012 Rue Saint-Dominique",
+  "email": "mosqueefatimazohra2012@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/api/2.0/mosque/search?word=Fatima",
+  "email_note": "Mawaqit 'Mosquée Fatima-Zohra', 2012 rue Saint-Dominique (listed postal code H2X 1G9, phone +14385439009)."
+ },
+ {
+  "name": "Centre Musulman Al-Manara",
+  "address": "42 rue Saint-Pierre",
+  "email": "almanara2015@gmail.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12443793",
+  "email_note": "Prayers Connect 'Center Musulman Al-Manara', Saint-Constant J5A 1A7 (address listed as 35 Guy, phone +14383880222). Other directories give 42 rue St-Pierre."
  }
 ]
