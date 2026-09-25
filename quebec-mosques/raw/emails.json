@@ -1,0 +1,786 @@
+[
+ {
+  "name": "Mosquée de Joliette - ACML (Association Culturelle des Musulmans de Lanaudière)",
+  "address": "1260 Rue Notre-Dame",
+  "email": "acmljoliette@gmail.com",
+  "alt_email": "info@acml-joliette.org",
+  "email_source": "https://acml-joliette.org/contact/"
+ },
+ {
+  "name": "Centre Culturel Islamique de Laval (Khalid Ben El Walid)",
+  "address": "1330 Rue Antonio",
+  "email": "contact@ccil-kbw.com",
+  "alt_email": "",
+  "email_source": "https://ccil-kbw.com/"
+ },
+ {
+  "name": "Masjid Al-Jisr (Centre Al-Jisr)",
+  "address": "3005 Boulevard Cartier Ouest",
+  "email": "masjidaljisr@gmail.com",
+  "alt_email": "",
+  "email_source": "https://centrealjisr.com/contacts/"
+ },
+ {
+  "name": "Centre Aman Laval",
+  "address": "35 Boulevard du Curé-Labelle",
+  "email": "masjid.alamane@gmail.com",
+  "alt_email": "",
+  "email_source": "https://www.mosquee-proche.com/en/mosquee/centre-aman-laval/2025/"
+ },
+ {
+  "name": "Centre Culturel Islamique de Lanaudière (CCIL) / Masjid At-Tassamouh",
+  "address": "589 Rue Leclerc (older listings: 597 Boulevard Iberville)",
+  "email": "communication@ccilanaudiere.org",
+  "alt_email": "",
+  "email_source": "https://ccilanaudiere.org/"
+ },
+ {
+  "name": "Mosquée Minaret du Nord",
+  "address": "293 Rue Labelle",
+  "email": "minaretdunord@gmail.com",
+  "alt_email": "info@manaratalchamal.org",
+  "email_source": "https://minaretdunord.net/"
+ },
+ {
+  "name": "Mosquée Al-Rawdah / Centre Communautaire Laurentien (MAC)",
+  "address": "12253 Boulevard Laurentien",
+  "email": "info@cclmac.ca",
+  "alt_email": "",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/mac-ccl/"
+ },
+ {
+  "name": "Mosquée Dhoun-Nourain",
+  "address": "5180 Chemin Queen-Mary, Local 320 (reported relocated to 5275 Chemin Queen-Mary, 2nd floor)",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée NDG",
+  "address": "6277 Rue Saint-Jacques",
+  "email": "info@ndg-mosque.com",
+  "alt_email": "",
+  "email_source": "https://ndg-mosque.com/contact-us/"
+ },
+ {
+  "name": "Masjid Makkah-Al-Mukarramah (Pierrefonds)",
+  "address": "11900 Boulevard Gouin Ouest",
+  "email": "masjidmakkah@outlook.com",
+  "alt_email": "",
+  "email_source": "https://masjidmakkah.com/contact-us/"
+ },
+ {
+  "name": "Centre Al-Madinah (downtown)",
+  "address": "",
+  "email": "info@almadinah-center.org",
+  "alt_email": "",
+  "email_source": "https://almadinah-center.org/en/contact-us/"
+ },
+ {
+  "name": "Mosquée Tawuba",
+  "address": "2361 rue Ontario Est",
+  "email": "tawubamosque@gmail.com",
+  "alt_email": "",
+  "email_source": "https://tawuba.ca/"
+ },
+ {
+  "name": "Centre Culturel Islamique Ach-Choura",
+  "address": "5434 boulevard Henri-Bourassa Est",
+  "email": "c.c.achoura@gmail.com",
+  "alt_email": "",
+  "email_source": "https://achoura.ca/contactus"
+ },
+ {
+  "name": "Maison Masjid Canada",
+  "address": "6830 avenue du Parc, #365B",
+  "email": "info@masjidcanada.org",
+  "alt_email": "",
+  "email_source": "https://masjidcanada.org/"
+ },
+ {
+  "name": "Al Bayan Islamic Community Center",
+  "address": "5865 boulevard Saint-Michel",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Premier Centre Al-Tawhid",
+  "address": "6130 rue Jean-Talon Est",
+  "email": "contact@altawheed.ca",
+  "alt_email": "",
+  "email_source": "https://www.altawhid.ca/"
+ },
+ {
+  "name": "Centre Bel Agir (Masjid Al-Ihsan)",
+  "address": "8390 rue Saint-Hubert",
+  "email": "centre.belagir.mtl@gmail.com",
+  "alt_email": "",
+  "email_source": "https://centre-belagir.ca/"
+ },
+ {
+  "name": "Ebrahim Musallah",
+  "address": "1505A boul. Provencher",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Musulman de Châteauguay - Mosquée Arrahmane",
+  "address": "161 boul. Saint-Jean-Baptiste",
+  "email": "razmane24@gmail.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12461409-centre-culturel-musulman-de-chateauguay-mosquee-arrahmane-chateauguay-quebec-canada"
+ },
+ {
+  "name": "Jamia Islamia Longueuil",
+  "address": "2144 rue Sainte-Hélène",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Al-Imane (Centre Zad Al-Imane)",
+  "address": "1073A boul. du Séminaire Nord",
+  "email": "centre.culturel.alimane.stjean@gmail.com",
+  "alt_email": "",
+  "email_source": "https://ccai-stjean.org/contactez-nous/"
+ },
+ {
+  "name": "Centre Communautaire Musulman de Drummondville",
+  "address": "127 12e Avenue",
+  "email": "ccmd.drummondville@gmail.com",
+  "alt_email": "",
+  "email_source": "http://www.ccmdrummond.com/nous_joindre.php"
+ },
+ {
+  "name": "Centre Culturel Islamique de Granby (Mosquée Granby)",
+  "address": "317-1 rue Racine",
+  "email": "info@mosqueegranby.com",
+  "alt_email": "",
+  "email_source": "https://mosqueegranby.com/"
+ },
+ {
+  "name": "Mosquée Al-Rahma",
+  "address": "363 rue de la Couronne, unité 301-302",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "AÉMUL prayer room - Université Laval (Pavillon Alphonse-Marie-Parent, local 0719; Jumu'ah at Pavillon Ernest-Lemieux, salle 1575)",
+  "address": "2255 rue de l'Université",
+  "email": "aemul@asso.ulaval.ca",
+  "alt_email": "",
+  "email_source": "https://www.dse.ulaval.ca/association/association-des-etudiantes-musulmanes-de-l-universite-laval/"
+ },
+ {
+  "name": "Mosquée de Rouyn-Noranda - Association Culturelle Musulmane de Rouyn-Noranda (ACMRN, Al-Madinah)",
+  "address": "20 rue Mgr-Tessier Ouest",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Musulman de Shawinigan (CCMS)",
+  "address": "2483 avenue Saint-Marc",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Islamique de la Mauricie (CCIM)",
+  "address": "5375 rue Saint-Joseph",
+  "email": "contact@ccim3r.ca",
+  "alt_email": "",
+  "email_source": "https://ccim3r.ca/"
+ },
+ {
+  "name": "Madani Mosque",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Kawtar de Laval",
+  "address": "3871 Autoroute des Laurentides",
+  "email": "centrekawtar@outlook.com",
+  "alt_email": "",
+  "email_source": "https://centrekawtar.net/nous-joindre/"
+ },
+ {
+  "name": "Masjid Al-Itissam (Association Islamique Al Ihssane de Laval)",
+  "address": "600 Boulevard des Laurentides",
+  "email": "info@al-itissam.org",
+  "alt_email": "",
+  "email_source": "https://al-itissam.org/contactez-nous/"
+ },
+ {
+  "name": "Centre Islamique Ahmadiyya de Laval",
+  "address": "3868 Boulevard Sainte-Rose",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Masjid Terrebonne",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée Al-Firdaws (Centre Culturel Musulman de Terrebonne)",
+  "address": "3660 chemin Gascon",
+  "email": "alfirdawsmasjid@gmail.com",
+  "alt_email": "",
+  "email_source": "https://mosqueealfirdaws.net/"
+ },
+ {
+  "name": "Al-Khoei Islamic Foundation (Shia)",
+  "address": "7085 Chemin de la Côte-des-Neiges",
+  "email": "info@khoei.ca",
+  "alt_email": "AlKhoeiFoundation@gmail.com",
+  "email_source": "https://www.khoei.ca/destinations"
+ },
+ {
+  "name": "Taiba Masjid (Socio-Cultural Center)",
+  "address": "3560 Avenue Van Horne",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Muslim Community of Quebec (MCQ) / Mosquée de Montréal",
+  "address": "7445 Avenue Chester",
+  "email": "info@muslimcommunityofquebec.ca",
+  "alt_email": "",
+  "email_source": "https://muslimcommunityofquebec.ca/contact/"
+ },
+ {
+  "name": "Khadijah Masjid (IQRA Foundation)",
+  "address": "2485 Rue du Centre",
+  "email": "info@khadijahmtl.org",
+  "alt_email": "",
+  "email_source": "https://khadijahmtl.org/venue/khadijah-centre/"
+ },
+ {
+  "name": "Concordia University MSA musalla",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Baitul Ma'Moor Mosque",
+  "address": "2833 rue Ontario Est",
+  "email": "baitulmamoor@gmail.com",
+  "alt_email": "",
+  "email_source": "https://muslimlink.ca/directory/montreal/muslim-services/masjids-musallahs/3155-baitul-ma-moor?city=montreal"
+ },
+ {
+  "name": "Islamic Center Al-Houda (ICAH)",
+  "address": "9935 avenue Lausanne",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Masjid Uthman bin Affan",
+  "address": "950 avenue Ogilvy, local 8",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Islamique de l'Est de Montréal (CCIEM / Mosquée Assahaba)",
+  "address": "4201 rue Bélanger",
+  "email": "centre.ciem@gmail.com",
+  "alt_email": "",
+  "email_source": "http://cciem.org/"
+ },
+ {
+  "name": "Tawheed Mosque (boulevard Lacordaire)",
+  "address": "boulevard Lacordaire",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Villeray / Mosquée Aboubakr",
+  "address": "371 rue Jean-Talon Est",
+  "email": "info@ccvmac.ca",
+  "alt_email": "",
+  "email_source": "https://mawaqit.net/en/ccvmac-montreal"
+ },
+ {
+  "name": "Islamic Community Center of South Shore (ICC Brossard) - Masjid Quba / Centre Communautaire Islamique de la Rive-Sud",
+  "address": "5905 boul. Grande-Allée",
+  "email": "services@iccbrossard.com",
+  "alt_email": "",
+  "email_source": "https://iccbrossard.com/"
+ },
+ {
+  "name": "Mosquée Châteauguay",
+  "address": "215C boul. d'Anjou",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Musulman Al-Manara",
+  "address": "42 rue Saint-Pierre",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Islamique de Valleyfield",
+  "address": "73 rue Sainte-Cécile",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Islamique de Drummondville",
+  "address": "480 rue Saint-Jean",
+  "email": "centreislamiquedrummondville@hotmail.com",
+  "alt_email": "cidrummondville@gmail.com",
+  "email_source": "https://centreislamiquededrummondville.com/"
+ },
+ {
+  "name": "Mosquée La Pocatière - Centre Culturel Islamique de La Pocatière (CCIP)",
+  "address": "502-A 4e Avenue Painchaud",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée de la Capitale",
+  "address": "270 rue Marie-de-l'Incarnation",
+  "email": "info@mosqueedelacapitale.com",
+  "alt_email": "",
+  "email_source": "https://www.mosqueedelacapitale.com/nous-joindre/"
+ },
+ {
+  "name": "Centre Culturel Islamique de Québec (CCIQ) - Grande Mosquée de Québec",
+  "address": "2877 chemin Sainte-Foy",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée de Chicoutimi - Association Islamique du Saguenay-Lac-Saint-Jean",
+  "address": "555 rue Bégin",
+  "email": "mosqueechicoutimi2021@gmail.com",
+  "alt_email": "",
+  "email_source": "https://www.facebook.com/p/Association-Islamique-du-Saguenay-Lac-Saint-Jean-100080373907152/"
+ },
+ {
+  "name": "Mosquée Annour - Centre Culturel Islamique de Sherbrooke (CCIS)",
+  "address": "3232 rue Richard, local 4",
+  "email": "contact@ccis-annour.ca",
+  "alt_email": "imam@ccis-annour.ca",
+  "email_source": "https://www.ccis-annour.ca/contactez-nous"
+ },
+ {
+  "name": "Mosquée de Val-d'Or - Association Culturelle Musulmane de Val-d'Or",
+  "address": "1153 4e Avenue",
+  "email": "acmv.qc.ca@gmail.com",
+  "alt_email": "",
+  "email_source": "https://acmvaldor.org/contact-2/"
+ },
+ {
+  "name": "Taiba Mosque",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Markaz AICP Laval",
+  "address": "1316 Boulevard du Curé-Labelle",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Masjid Okba Ben Nafi",
+  "address": "77 Boulevard Samson (older listings: 270 Boulevard Samson #201)",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Assalam de Laval Est",
+  "address": "1245 Montée du Moulin",
+  "email": "centreassalam@gmail.com",
+  "alt_email": "info@centre-assalam.com",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/centre-assalam-laval/"
+ },
+ {
+  "name": "Centre Rayan",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Canadian Islamic Centre (Al-Jamieh)",
+  "address": "241 Avenue Anselme-Lavigne",
+  "email": "cicaljamieh@gmail.com",
+  "alt_email": "",
+  "email_source": "http://cical-jamieh.com/en/contact-us/"
+ },
+ {
+  "name": "Masjid Baitul Mukarram",
+  "address": "4225 Avenue de Courtrai",
+  "email": "connect@mbmmtl.org",
+  "alt_email": "masjidbaitulmukarrammtl@gmail.com",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/masjid-baitul-mukarram/"
+ },
+ {
+  "name": "Association Musulmane de Lachine (AML) / Al-Sahabah Lachine Mosquée",
+  "address": "1220 Rue Notre-Dame (Waze lists 1212 Rue Notre-Dame)",
+  "email": "contact@amlachine.org",
+  "alt_email": "info.aml.org@gmail.com",
+  "email_source": "https://www.amlachine.org/en"
+ },
+ {
+  "name": "Mosquée Assuna Annabawiyah",
+  "address": "7220 Rue Hutchison",
+  "email": "assuna.annabawiyah@gmail.com",
+  "alt_email": "",
+  "email_source": "http://assuna.org/contact-us/"
+ },
+ {
+  "name": "Centre Islamique Al-Andalous (Al-Andalous Islamic Center)",
+  "address": "816 Avenue Sainte-Croix (earlier: 970 boul. Décarie)",
+  "email": "info@icandalous.ca",
+  "alt_email": "",
+  "email_source": "https://www.icandalous.ca/contactez-nous/"
+ },
+ {
+  "name": "Mosquée As-Salam (Masjid As-Salam, IQRA/downtown)",
+  "address": "1177 Rue de la Montagne",
+  "email": "info@salam-mosque.org",
+  "alt_email": "",
+  "email_source": "https://www.salam-mosque.org/prayer-times/"
+ },
+ {
+  "name": "Masjid Salahouddine",
+  "address": "6691 avenue du Parc",
+  "email": "info@aicp.ca",
+  "alt_email": "",
+  "email_source": "https://muslimlink.ca/directory/montreal/muslim-services/masjids-musallahs/3151-salahouddine-mosque?city=montreal"
+ },
+ {
+  "name": "Masjid Fatima Azzahra (Fondation Internationale Azzahra)",
+  "address": "3642 rue Fleury Est",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée et Centre communautaire CCSCA",
+  "address": "13201 rue Sherbrooke Est",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Islamique Badr de Saint-Léonard",
+  "address": "8625 boulevard Langelier",
+  "email": "info@centrebadr.net",
+  "alt_email": "",
+  "email_source": "https://www.muslimguide.com/show/Centre_Islamique_Badr_4660"
+ },
+ {
+  "name": "Mosquée et Centre Assalam",
+  "address": "8988 boulevard Saint-Michel",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Musulman de Boucherville (CCMB)",
+  "address": "550 boul. de Mortagne",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Association de la Paix de Chambly (APC) - Mosquée",
+  "address": "1691C boul. de Périgny",
+  "email": "info@apchambly.com",
+  "alt_email": "",
+  "email_source": "https://apchambly.com/contact.html"
+ },
+ {
+  "name": "Mosquée Attawassol (Centre Culturel Islamique de Roussillon)",
+  "address": "11 4e Avenue",
+  "email": "info@cciroussillon.com",
+  "alt_email": "ccir@hotmail.com",
+  "email_source": "https://cciroussillon.com/"
+ },
+ {
+  "name": "Masjid Al-Falah (Markaz El Islam)",
+  "address": "1885 rue Nielsen",
+  "email": "info@masjidalfalah.ca",
+  "alt_email": "donations@masjidalfalah.ca",
+  "email_source": "https://masjidalfalah.ca/en/contact/"
+ },
+ {
+  "name": "CCM Sorel-Tracy (Centre Communautaire Multiculturel Sorel-Tracy)",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "The Mosque of Aylmer (Mosquée d'Aylmer)",
+  "address": "21 rue Park",
+  "email": "info@mosque-aylmer.ca",
+  "alt_email": "finance@mosque-aylmer.ca",
+  "email_source": "https://www.mosque-aylmer.ca/contact"
+ },
+ {
+  "name": "Mosquée de Lévis - Centre culturel AMMGL (Association des musulmanes et musulmans du Grand Lévis)",
+  "address": "39 rue Guénette",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée Al-Athar",
+  "address": "1098 4e Avenue",
+  "email": "salafisdequebec@hotmail.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12453931-mosquee-al-athar-quebec-quebec-canada/contact-us"
+ },
+ {
+  "name": "Mosquée de Rimouski - Centre Islamique de Rimouski",
+  "address": "111 rue Saint-Jean-Baptiste Est",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Islamique de la Beauce",
+  "address": "10949 2e Avenue",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée A'Rahmane - Association culturelle islamique de l'Estrie (ACIE)",
+  "address": "1200 rue Massé",
+  "email": "contact@acie.ca",
+  "alt_email": "",
+  "email_source": "https://www.acie.ca/en/contact"
+ },
+ {
+  "name": "Association Culturelle Islamique des Bois-Francs (ACIB)",
+  "address": "1521 rue Notre-Dame Ouest",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Musulman IQRA (CCMI / Centre IQRA)",
+  "address": "960 Boulevard du Curé-Labelle",
+  "email": "contact@centreiqra.org",
+  "alt_email": "",
+  "email_source": "https://centreiqra.org/"
+ },
+ {
+  "name": "Jamia Masjid Siddiquia (Masjid Noor e Jamia-e-Siddiquia Community Center)",
+  "address": "1655 Rue du Couvent",
+  "email": "info@jamiasiddiquialaval.com",
+  "alt_email": "communitycentresiddiquia@gmail.com",
+  "email_source": "https://jamiasiddiquialaval.com/contact-us/"
+ },
+ {
+  "name": "Mosque at 909 Montée Gravel (name not confirmed)",
+  "address": "909 Montée Gravel",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Communautaire Musulman Essalam",
+  "address": "2685 Chemin Sainte-Marie, local L",
+  "email": "contact@essalam.ca",
+  "alt_email": "",
+  "email_source": "https://www.essalam.ca/contact"
+ },
+ {
+  "name": "Masjid Al-Hak",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Islamic Centre of West Island (Centre Islamique du West Island)",
+  "address": "31 Rue Montrose",
+  "email": "info@icwestisland.com",
+  "alt_email": "",
+  "email_source": "https://prayersconnect.com/mosques/12410160-islamic-center-of-west-island-dollard-des-ormeaux-quebec-canada/contact-us"
+ },
+ {
+  "name": "Mosquée Al Falah (Association Centre Côte-des-Neiges)",
+  "address": "6550 Avenue de Darlington",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Communauté Musulmane de LaSalle / Musalla Umar",
+  "address": "9023 Rue Airlie",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Masjid Al Huda",
+  "address": "9540 Boulevard Gouin Ouest",
+  "email": "admin@ccalhuda.ca",
+  "alt_email": "",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/masjid-al-huda/"
+ },
+ {
+  "name": "Centre Islamique de Verdun / Mosquée Abuhuraira (MAC)",
+  "address": "4538 Rue de Verdun",
+  "email": "verdun.muslims@gmail.com",
+  "alt_email": "info@civmac.ca",
+  "email_source": "https://muslimlink.ca/directory/montreal/muslim-services/masjids-musallahs/3158-centre-islamique-de-verdun?city=montreal"
+ },
+ {
+  "name": "Mosquée Al-Falah",
+  "address": "angle boulevard Saint-Laurent et rue Legendre",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Association Musulmane de Montréal-Nord (Masjid Noor Al-Islam)",
+  "address": "10395 avenue Pelletier",
+  "email": "info@ammn.ca",
+  "alt_email": "",
+  "email_source": "https://ammn.ca/contact"
+ },
+ {
+  "name": "Mosquée Imam Warch",
+  "address": "3210 boulevard Henri-Bourassa Est",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée El Fath (listed as Masjid Makkah-Al-Mukkaramah, RDP)",
+  "address": "11660 boulevard Rivière-des-Prairies",
+  "email": "ccf.rdp@gmail.com",
+  "alt_email": "",
+  "email_source": "https://initiatives-musulmanes.com/dalilook/directory/centre-communautaire-el-fath/"
+ },
+ {
+  "name": "Centre Tawhid (Al Tawhid Mosque)",
+  "address": "5950 rue Jean-Talon Est",
+  "email": "centres.tawhid@gmail.com",
+  "alt_email": "",
+  "email_source": "https://www.centres-tawhid.ca/contact/"
+ },
+ {
+  "name": "Mosquée Yunus / Turkish Islamic Center of Quebec",
+  "address": "3783-3785 rue Villeray",
+  "email": "info@turkcommunity.ca",
+  "alt_email": "",
+  "email_source": "https://muslimlink.ca/directory/montreal/muslim-services/masjids-musallahs/3164-turkish-community-center?city=Montreal"
+ },
+ {
+  "name": "Abshar (Afghan/Persian prayer space)",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Association Culturelle Musulmane Al Amal Châteauguay (ACMAC) - Mosquée Al Amal",
+  "address": "120 boul. Saint-Jean-Baptiste",
+  "email": "sadaqa@acmac.ca",
+  "alt_email": "",
+  "email_source": "https://www.acmac.ca/fr"
+ },
+ {
+  "name": "Centre Communautaire Musulman de Longueuil (CCML)",
+  "address": "1398 chemin de Chambly",
+  "email": "infoccmlongueuil@gmail.com",
+  "alt_email": "",
+  "email_source": "https://ccmlongueuil.ca/Contact.html"
+ },
+ {
+  "name": "Centre Islamique Maskoutain (Les Maskoutains)",
+  "address": "2340 av. Saint-Joseph",
+  "email": "info@cimaskoutain.com",
+  "alt_email": "",
+  "email_source": "https://cimaskoutain.com/contact/"
+ },
+ {
+  "name": "Centre Culturel Islamique de Vaudreuil-Soulanges - Masjid Attakwa (Vaudreuil Islamic Community Centre)",
+  "address": "100 boul. Harwood",
+  "email": "info-iccvs@islamvaudreuil.ca",
+  "alt_email": "",
+  "email_source": "https://www.islamvaudreuil.ca/contact"
+ },
+ {
+  "name": "Centre Islamique de l'Outaouais (CIO) - Mosquée de Gatineau",
+  "address": "4 rue Lois",
+  "email": "info@cio-oic.ca",
+  "alt_email": "",
+  "email_source": "https://muslimlink.ca/directory/ottawa/muslim-services/masjids-musallahs/208-outaouais-islamic-centre-masjid-gatineau?city=ottawa"
+ },
+ {
+  "name": "Mosquée Al-Sahaba (ACIM Magog)",
+  "address": "33 rue Saint-Patrice Est",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Mosquée de Québec à Limoilou",
+  "address": "1287 1re Avenue",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Association Socio-Culturelle Islamique Louperivoise (ASCIL)",
+  "address": "174 rue Lafontaine",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Musulman de la Côte-Nord (Mosquée de Sept-Îles)",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Islamique de Thetford Mines",
+  "address": "",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ },
+ {
+  "name": "Centre Culturel Islamique de Victoriaville",
+  "address": "359-B rue Girouard",
+  "email": "",
+  "alt_email": "",
+  "email_source": ""
+ }
+]

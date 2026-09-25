@@ -4,4 +4,6 @@
 
 The list was built from web search result snippets because direct access to directory sites and maps was blocked in the environment that produced it. It is not exhaustive. Each row carries a `confidence` (high: address confirmed by a snippet, medium: partial or conflicting, low: name only) and the `source` URL. Areas with thin or no coverage include the West Island (Pointe-Claire, Dorval, Kirkland), Anjou, Montréal-Est, Mercier, the Plateau, Côte-Saint-Luc, Blainville, Boisbriand, Mirabel, Saint-Eustache, Saint-Lambert and La Prairie.
 
-`raw/` holds the per-region results and `build.py` merges them, deduplicates by street address and applies the exclusions: `python3 build.py`.
+The `email` column is filled for 66 of 112 rows, only where a search result showed that address for that mosque; nothing is guessed. A few are an umbrella body's address (Salahouddine uses AICP's, Attawassol uses the Roussillon centre's) and Al Amal Châteauguay's is its donations inbox. `alt_email` holds a second address when one was found and `email_source` the page it most likely came from.
+
+`raw/` holds the per-region results and `build.py` merges them, deduplicates by street address and applies the exclusions, then joins `raw/emails.json`: `python3 build.py`.
