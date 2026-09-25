@@ -194,10 +194,11 @@ def main(raw):
             m["confidence"] = "high"
         out.append(m)
 
-    emails_path = Path(raw) / "emails.json"
-    if emails_path.exists():
+    email_rows = [e for f in ("emails.json", "emails_web.json") if (Path(raw) / f).exists()
+                  for e in json.loads((Path(raw) / f).read_text())]
+    if email_rows:
         by_key = {}
-        for e in json.loads(emails_path.read_text()):
+        for e in email_rows:
             for k in keys({"name": e["name"], "address": e["address"], "city": e.get("city", ""),
                            "postal_code": ""}):
                 by_key[k] = e
