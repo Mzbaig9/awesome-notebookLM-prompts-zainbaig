@@ -20,8 +20,9 @@ REGION_FILES = {
 }
 FIELDS = ["region", "name", "type", "address", "city", "postal_code",
           "phone", "website", "confidence", "source"]
-EXCLUDE = [r"makkah", r"mecque", r"islamic (centre|center) of quebec", r"\bicq\b",
-           r"centre islamique du qu[eé]bec", r"madani"]
+# Only the Jean-Talon Makkah is excluded; the Pierrefonds Makkah on Gouin stays.
+EXCLUDE = [r"(makkah|mecque).*jean.?talon", r"(?<!turkish )islamic (centre|center) of quebec", r"\bicq\b",
+           r"centre islamique du qu[eé]bec", r"madani(?!.*laval)"]
 
 
 def norm(s):
@@ -30,7 +31,7 @@ def norm(s):
 
 
 def street_key(addr):
-    m = re.match(r"\s*(\d+)[\s,-]*(.*)", addr or "")
+    m = re.match(r"\s*(\d+)(?:-\d+)?[\s,-]*(.*)", addr or "")
     if not m:
         return ""
     return m.group(1) + norm(m.group(2))[:6]
@@ -54,7 +55,8 @@ def main(src_dir):
             row["postal_code"] = row["postal_code"].upper()
             rows.append(row)
 
-    rows = [r for r in rows if not any(re.search(p, r["name"], re.I) for p in EXCLUDE)]
+    rows = [r for r in rows
+            if not any(re.search(p, f"{r['name']} {r['address']} {r['city']}", re.I) for p in EXCLUDE)]
 
     kept = {}
     for r in rows:
