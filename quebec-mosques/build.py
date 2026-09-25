@@ -19,7 +19,7 @@ REGION_FILES = {
     "Reste du Québec": "rest_of_qc.json",
 }
 FIELDS = ["region", "name", "type", "address", "city", "postal_code",
-          "phone", "website", "confidence", "source"]
+          "phone", "email", "alt_email", "website", "confidence", "source", "email_source"]
 # Only the Jean-Talon Makkah is excluded; the Pierrefonds Makkah on Gouin stays.
 EXCLUDE = [r"(makkah|mecque).*jean.?talon", r"(?<!turkish )islamic (centre|center) of quebec", r"\bicq\b",
            r"centre islamique du qu[eé]bec", r"madani(?!.*laval)"]
@@ -63,6 +63,15 @@ def main(src_dir):
         key = street_key(r["address"]) or norm(r["name"])
         if key not in kept or rank(r) > rank(kept[key]):
             kept[key] = r
+    emails_path = Path(src_dir) / "emails.json"
+    if emails_path.exists():
+        emails = {norm(e["name"]) + street_key(e["address"]): e
+                  for e in json.loads(emails_path.read_text())}
+        for r in kept.values():
+            e = emails.get(norm(r["name"]) + street_key(r["address"]), {})
+            for f in ("email", "alt_email", "email_source"):
+                r[f] = r[f] or e.get(f, "")
+
     out = sorted(kept.values(), key=lambda r: (r["region"], norm(r["city"]), norm(r["name"])))
 
     with open(HERE / "quebec_mosques.csv", "w", newline="", encoding="utf-8-sig") as f:
@@ -80,14 +89,15 @@ def main(src_dir):
     for r in out:
         ws.append([r[f] for f in FIELDS])
     widths = {"region": 26, "name": 42, "type": 14, "address": 38, "city": 28,
-              "postal_code": 11, "phone": 16, "website": 34, "confidence": 11, "source": 50}
+              "postal_code": 11, "phone": 16, "email": 32, "alt_email": 28, "website": 34,
+              "confidence": 11, "source": 50, "email_source": 50}
     for i, f in enumerate(FIELDS, 1):
         ws.column_dimensions[get_column_letter(i)].width = widths[f]
     ws.freeze_panes = "A2"
     ws.auto_filter.ref = ws.dimensions
     wb.save(HERE / "quebec_mosques.xlsx")
 
-    print(f"{len(rows)} raw rows, {len(out)} after dedup")
+    print(f"{len(rows)} raw rows, {len(out)} after dedup, {sum(bool(r['email']) for r in out)} with email")
     for region in REGION_FILES:
         print(f"  {region}: {sum(r['region'] == region for r in out)}")
 
