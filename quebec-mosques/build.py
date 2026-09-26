@@ -134,6 +134,8 @@ def type_of(r):
     if re.search(r"\bshia\b|ahlul|ahlil|khoei|imambargah|house of wisdom|haidery|emam hosein|iranian|"
                  r"al zahraa", n):
         return "Shia"
+    if re.search(r"salaf|\bathar\b|dhoun.?nourain|minhaj|assuna annabawiyah", n):
+        return "Salafi"
     if re.search(r"universit|\bmsa\b|aemul|amus|concordia|mcgill|student|aeroport|airport", n):
         return "Prayer room (campus/airport)"
     if re.search(r"musall?ah?|moussalah|mosalla|salle de priere|prayer room", n):
