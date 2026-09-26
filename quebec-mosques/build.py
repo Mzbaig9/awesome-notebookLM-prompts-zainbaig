@@ -224,6 +224,14 @@ def main(raw):
                 for f in ("email", "alt_email", "email_source", "email_note"):
                     m[f] = m[f] or e.get(f, "")
 
+    # Prefer a general inbox over donation, display-screen or IT addresses.
+    special = re.compile(r"^(don|dons|pay|display|it)@", re.I)
+    for m in out:
+        if special.match(m["email"]):
+            if m["alt_email"] and not special.match(m["alt_email"]):
+                m["email"], m["alt_email"] = m["alt_email"], m["email"]
+            elif m["email"].lower() == "display@cio-oic.ca":
+                m["email"], m["alt_email"] = "info@cio-oic.ca", m["email"]
     for m in out:
         m["region"] = region_of(m)
         m["type"] = type_of(m)
