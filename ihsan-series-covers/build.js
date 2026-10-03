@@ -359,7 +359,7 @@ body.guides .gh { position: absolute; left: 0; right: 0; border-top: 1px dashed 
   <div class="creds">${CREDS.join('<br>')}</div>
   <div class="title">${s.title}</div>
   <div class="voltitle">${b.volTitle.replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</div>
-  <div class="circle">${illustration(b)}</div>
+  <div class="circle">${artFor(b) ? `<img src="${artFor(b)}" style="width:100%;height:100%;object-fit:cover;display:block">` : illustration(b)}</div>
   <div class="guide">${s.guide}</div>
   <div class="tag">${bottomLine}</div>
   <div class="foot">${bookLine}</div>
@@ -370,6 +370,9 @@ body.guides .gh { position: absolute; left: 0; right: 0; border-top: 1px dashed 
 </body></html>`;
   return { html, W, H, spine, pages, frontX };
 }
+
+// Painted art overrides the vector scene: drop art/book-<n>.png (or .jpg/.webp), square, and rebuild.
+const artFor = (b) => ['png', 'jpg', 'jpeg', 'webp'].map((e) => `art/book-${b.n}.${e}`).find((p) => fs.existsSync(path.join(__dirname, p)));
 
 const nameOf = (b) => b.slug || `book-${b.n}-${SERIES[b.s].title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-vol-${b.vol.toLowerCase()}`;
 
