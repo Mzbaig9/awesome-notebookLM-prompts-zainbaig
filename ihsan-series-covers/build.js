@@ -303,6 +303,9 @@ body { width: ${W}in; height: ${H}in; position: relative; overflow: hidden; back
 .circle { position: absolute; width: 3.55in; height: 3.55in; left: ${(TRIM_W - 3.55) / 2}in; top: ${split - BLEED - 1.6}in; border-radius: 50%;
   box-shadow: 0 .1in .28in rgba(0,0,0,.35), 0 0 0 .045in rgba(255,255,255,.18); overflow: hidden; }
 .circle svg { width: 100%; height: 100%; display: block; }
+.artbg { position: absolute; inset: -12%; width: 124%; height: 124%; object-fit: cover; filter: blur(16px) brightness(.8); }
+.artfg { position: absolute; left: 50%; top: 50%; display: block;
+  -webkit-mask-image: linear-gradient(to right, transparent 0, #000 7%, #000 93%, transparent 100%); }
 .guide { position: absolute; top: 7.08in; left: .45in; right: .45in; font-family: Montserrat; font-weight: 800; font-size: 12.5pt; letter-spacing: .06em; line-height: 1.25; text-transform: uppercase; text-wrap: balance; }
 .tag { position: absolute; top: 7.8in; left: .5in; right: .5in; font-family: Montserrat; font-weight: 400; font-size: 11pt; letter-spacing: .1em; line-height: 1.3; text-transform: uppercase; color: rgba(255,255,255,.88); text-wrap: balance; }
 .foot { position: absolute; bottom: .32in; left: 0; right: 0; font-family: Montserrat; font-weight: 600; font-size: 6.4pt; letter-spacing: .24em; text-transform: uppercase; color: rgba(255,255,255,.85); }
@@ -359,7 +362,7 @@ body.guides .gh { position: absolute; left: 0; right: 0; border-top: 1px dashed 
   <div class="creds">${CREDS.join('<br>')}</div>
   <div class="title">${s.title}</div>
   <div class="voltitle">${b.volTitle.replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</div>
-  <div class="circle">${artFor(b) ? `<img src="${artFor(b)}" style="width:100%;height:100%;object-fit:cover;display:block">` : illustration(b)}</div>
+  <div class="circle">${artFor(b) ? artTag(b) : illustration(b)}</div>
   <div class="guide">${s.guide}</div>
   <div class="tag">${bottomLine}</div>
   <div class="foot">${bookLine}</div>
@@ -373,6 +376,16 @@ body.guides .gh { position: absolute; left: 0; right: 0; border-top: 1px dashed 
 
 // Painted art overrides the vector scene: drop art/book-<n>.png (or .jpg/.webp), square, and rebuild.
 const artFor = (b) => ['png', 'jpg', 'jpeg', 'webp'].map((e) => `art/book-${b.n}.${e}`).find((p) => fs.existsSync(path.join(__dirname, p)));
+
+// Portrait art: w = painting width as a share of the circle, y = point of the painting (0 top, 1 bottom)
+// placed at the circle's centre. The sides fill with a blurred copy so no hard edge shows.
+const ART_FIT = { 1: { w: 1, y: .5 }, 2: { w: 1, y: .5 }, 3: { w: .75, y: .55 }, 4: { w: .68, y: .52 }, 5: { w: .75, y: .58 },
+  6: { w: .72, y: .52 }, 7: { w: .92, y: .55 }, 8: { w: .92, y: .55 }, 9: { w: .92, y: .5 } };
+const artTag = (b) => {
+  const src = artFor(b), { w, y } = ART_FIT[b.n] || { w: 1, y: .5 };
+  const fg = `<img class="artfg" src="${src}" style="width:${w * 100}%;transform:translate(-50%,-${y * 100}%)${w === 1 ? ';-webkit-mask-image:none' : ''}">`;
+  return w === 1 ? fg : `<img class="artbg" src="${src}">${fg}`;
+};
 
 const nameOf = (b) => b.slug || `book-${b.n}-${SERIES[b.s].title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-vol-${b.vol.toLowerCase()}`;
 

@@ -8,3 +8,6 @@ Spine width is page count × 0.002252in (white paper). Every book currently uses
 
 Back-cover blurbs and hooks are drafts. The barcode box is a placeholder for the ISBN barcode.
 `classic/` holds the earlier emerald-and-gold front-only design.
+
+`art/book-N.jpg` are the painted circle illustrations, cropped from the supplied 2048px set to remove the blurred
+side padding. `ART_FIT` in `build.js` sets how each portrait painting sits in the circle (width share, focal point).
